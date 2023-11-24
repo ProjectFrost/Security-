@@ -120,6 +120,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "d9eb58a58e9d0a39",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
