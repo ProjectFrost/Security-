@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07670cf21488b373",
+  "active": "4309cc7b66a6a9c2",
   "lastOpenFiles": [
+    "Templates",
     "NOTES.md",
     "Daily Notes/Nov 24, 2023.md",
     "Daily Notes"
