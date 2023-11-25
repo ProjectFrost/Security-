@@ -1,0 +1,1 @@
+A form of **fraud** in which attackers pose as a trusted person to dupe the user into sharing sensitive info, transmiting money, … 
