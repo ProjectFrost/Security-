@@ -1,12 +1,10 @@
-
-
-
-
-
-
-
-
-
+- - -
+Source:
+Date Created:  25-11-2023
+Tagged Concepts:
+- #SocialEngineering
+Type: [[Final Note Template]]
+- - - 
 
 # Classification of Social Engineering Attacks
 
@@ -54,3 +52,5 @@ At a high level 2 types:
 ## [[Familiarity]]
 ## [[Trust]]
 ## [[Urgency]]
+
+/COMMI
