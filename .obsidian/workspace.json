@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1b3c7c95be1d9adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.1/Concepts/Typosquatting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.1/Concepts/Typosquatting.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.1/Concepts/Typosquatting.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.1/Concepts/Typosquatting.md"
+                "file": "Daily Notes/Nov 25, 2023.md"
               }
             }
           },
@@ -171,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b3c7c95be1d9adc",
+  "active": "8ca9f4183146680a",
   "lastOpenFiles": [
+    "Domain_1/1.1/Concepts/Pretexting.md",
     "Daily Notes/Nov 25, 2023.md",
     "Domain_1/1.1/Concepts/Typosquatting.md",
     "Domain_1/1.1/Concepts/Watering hole attack.md",
@@ -205,7 +193,6 @@
     "Domain_2",
     "Domain_1",
     "Literature Notes.md",
-    "Literature Notes Template.md",
     "Meta/Attachments",
     "Meta",
     "Templates"
