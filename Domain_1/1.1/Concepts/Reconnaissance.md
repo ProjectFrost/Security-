@@ -1,2 +1,3 @@
-- **PASSIVE DISCOVERY**
-- SEMI-PASS
+- **PASSIVE DISCOVERY** → Not packets send to the target
+- SEMI-PASSIVE DISCOVERY → Engage with the target in a **non-agressive fashion**
+- ACTIVE DISCOVERY → Agressive, likely to be noticed

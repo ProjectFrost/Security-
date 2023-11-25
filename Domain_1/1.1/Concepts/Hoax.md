@@ -1,0 +1,1 @@
+**Intentional falsehoods** ranging from virus hoaxes to **fake news**
