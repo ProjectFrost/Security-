@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ca9f4183146680a",
+            "id": "6973252dde8e4140",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 25, 2023.md",
+                "file": "Domain_1/1.1/Social Engineering.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,19 +22,18 @@
             }
           },
           {
-            "id": "6973252dde8e4140",
+            "id": "1844a02fc3222de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.1/Social Engineering.md",
+                "file": "Domain_1/1.1/Concepts/Phishing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +171,11 @@
   },
   "active": "6973252dde8e4140",
   "lastOpenFiles": [
-    "Domain_1/1.1/Concepts/Social Engineering.md",
+    "Domain_1/1.1/Concepts/Phishing.md",
+    "Domain_1/1.1/Principles/Spear Phishing.md",
     "Domain_1/1.1/Social Engineering.md",
     "Daily Notes/Nov 25, 2023.md",
+    "Domain_1/1.1/Concepts/Social Engineering.md",
     "Domain_1/1.1/Principles/Urgency.md",
     "Domain_1/1.1/Principles/Trust.md",
     "Domain_1/1.1/Principles/Familiarity.md",
@@ -200,8 +200,6 @@
     "Domain_1/1.1/Concepts/Identity Theft.md",
     "Domain_1/1.1/Concepts/Pharming.md",
     "Domain_1/1.1/Concepts/Tailgaiting.md",
-    "Domain_1/1.1/Concepts/Shoulder Surfing.md",
-    "Templates/Literature Note Template.md",
     "Domain_5",
     "Domain_4",
     "Domain_3",

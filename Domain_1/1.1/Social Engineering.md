@@ -6,7 +6,7 @@ At a high level 2 types:
 - [[Shoulder Surfing]]
 - [[Dumpster Diving]]
 ## Virtual Attacks
-- [[Phishing]]
+- [[Phishing]] ^135fd3
 - [[Spear Phishing]]
 - [[Whaling]]
 - [[Vishing]]
