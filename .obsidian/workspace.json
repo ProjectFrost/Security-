@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Literature Note Template.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literature Note Template.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literature Note Template.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Literature Note Template.md"
+                "file": "Daily Notes/Nov 25, 2023.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   "active": "bf31e5eadfc42009",
   "lastOpenFiles": [
     "Templates/Literature Note Template.md",
+    "Daily Notes/Nov 25, 2023.md",
     "Literature Notes Template.md",
-    "Templates/Literature Note Template.md",
     "---.md",
     "Meta/Attachments",
     "Meta",
