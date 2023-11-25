@@ -11,24 +11,15 @@
             "id": "bf31e5eadfc42009",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2eb82f90e7e153de",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "---.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "---.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "---.md",
+                "file": "Daily Notes/Nov 25, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "---.md"
+                "file": "Daily Notes/Nov 25, 2023.md"
               }
             }
           },
@@ -164,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2eb82f90e7e153de",
+  "active": "bf31e5eadfc42009",
   "lastOpenFiles": [
+    "---.md",
+    "Daily Notes/Nov 25, 2023.md",
     "Meta/Attachments",
     "Meta",
-    "---.md",
     "Templates",
     "NOTES.md",
     "Daily Notes/Nov 24, 2023.md",
