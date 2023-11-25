@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf31e5eadfc42009",
+  "active": "76e9f82c68f1fffb",
   "lastOpenFiles": [
     "Domain_1/Strategy.md",
     "Daily Notes/Nov 25, 2023.md",
