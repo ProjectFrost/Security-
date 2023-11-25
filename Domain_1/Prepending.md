@@ -1,1 +1,0 @@
-Adding words or phrases like “SAFE” to a malicious email

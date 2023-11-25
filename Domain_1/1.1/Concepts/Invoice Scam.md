@@ -1,0 +1,1 @@
+**Fake invoices** with a goal of receiving money or by prompting a victim to put credentials

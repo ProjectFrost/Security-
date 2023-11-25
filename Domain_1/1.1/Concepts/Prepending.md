@@ -1,0 +1,1 @@
+Adding words or phrases like “SAFE” to a malicious email or suggesting topics via [[Social Engineering]] to uncover information of interest
