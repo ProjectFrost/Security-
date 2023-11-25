@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 # Classification of Social Engineering Attacks
 
 At a high level 2 types:
@@ -6,10 +16,10 @@ At a high level 2 types:
 - [[Shoulder Surfing]]
 - [[Dumpster Diving]]
 ## Virtual Attacks
-- [[Phishing]] ^135fd3
-- [[Spear Phishing]]
-- [[Whaling]]
-- [[Vishing]]
+- [[Phishing]] 
+- [[Phishing#^ffb3cc|Spear Phishing]]
+- [[Phishing#^2825be|Whaling]]
+- [[Phishing#^2477ed|Vishing]]
 - [[Hoax]]
 - [[Watering hole attack]]
 # Social Engineering Techniques
