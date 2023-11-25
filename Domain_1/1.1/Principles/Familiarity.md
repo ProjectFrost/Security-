@@ -1,0 +1,1 @@
+Attempting to establish a personal connection, often citing mutual acquantiances, social proof
