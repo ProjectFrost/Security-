@@ -2,5 +2,7 @@
   "attachmentFolderPath": "Meta/Attachments",
   "livePreview": true,
   "showInlineTitle": false,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Domain_1"
 }
