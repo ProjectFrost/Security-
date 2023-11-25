@@ -13,7 +13,7 @@ At a high level 2 types:
 - [[Hoax]]
 - [[Watering hole attack]]
 # Social Engineering Techniques
-## [[Domain_1/1.1/Concepts/Social Engineering]]
+## [[Domain_1/1.1/Concepts/Social Engineering|Social Engineering]]
 ## [[Phishing]]
 ## [[Dumpster Diving]]
 
