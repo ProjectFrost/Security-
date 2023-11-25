@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7ea31e4f7dbbaba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity Theft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Nov 25, 2023.md",
+                "file": "Identity Theft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Nov 25, 2023.md",
+                "file": "Identity Theft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Nov 25, 2023.md"
+                "file": "Identity Theft.md"
               }
             }
           },
@@ -158,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ca9f4183146680a",
+  "active": "7ea31e4f7dbbaba3",
   "lastOpenFiles": [
-    "Domain_1/Tailgaiting.md",
     "Daily Notes/Nov 25, 2023.md",
+    "Identity Theft.md",
+    "Domain_1/Pharming.md",
+    "Domain_1/Tailgaiting.md",
     "Domain_1/Shoulder Surfing.md",
     "Templates/Literature Note Template.md",
     "Templates/Final Note Template.md",

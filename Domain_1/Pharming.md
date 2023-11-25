@@ -1,0 +1,1 @@
+Similar to [[Phishing]], where a website´s traffic is manipulated, and confidential information is stolen.
