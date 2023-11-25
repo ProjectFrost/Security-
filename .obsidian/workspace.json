@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Strategy/Domain_1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07670cf21488b373",
+  "active": "bf31e5eadfc42009",
   "lastOpenFiles": [
     "Templates/Literature Note Template.md",
     "Domain_1/Strategy.md",

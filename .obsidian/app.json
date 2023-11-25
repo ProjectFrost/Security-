@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Meta/Attachments",
   "livePreview": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "smartIndentList": false
 }
