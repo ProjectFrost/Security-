@@ -11,15 +11,24 @@
             "id": "bf31e5eadfc42009",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ccbf115f7272880",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Literature Note.md",
+                "file": "Literature Notes Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literature Note.md",
+                "file": "Literature Notes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literature Note.md",
+                "file": "Literature Notes Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Literature Note.md"
+                "file": "Literature Notes Template.md"
               }
             }
           },
@@ -155,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf31e5eadfc42009",
+  "active": "0ccbf115f7272880",
   "lastOpenFiles": [
+    "Literature Notes Template.md",
+    "Templates/Literature Note Template.md",
     "---.md",
-    "Templates/Literature Note.md",
     "Meta/Attachments",
     "Meta",
     "Templates",
