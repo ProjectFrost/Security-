@@ -1,6 +1,6 @@
 - - -
 Source
-Date Created:  { {date} }
+Date Created:  {{date}}
 Tagged Concepts:
 -
 Type: [[Literature Notes]]

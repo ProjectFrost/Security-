@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Literature Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Literature Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Literature Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "Templates/Literature Note Template.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   },
   "active": "bf31e5eadfc42009",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
+    "Templates/Literature Note Template.md",
     "Literature Notes Template.md",
     "Templates/Literature Note Template.md",
     "---.md",
