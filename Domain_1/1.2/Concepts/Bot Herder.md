@@ -1,1 +1,1 @@
-Criminal who uses a [[Command and Control| command-and-control ]] server to remotely control the zombies often use the [[Botnet|botnet]] to launch attacks on other systems, or to send [[Spam|spam]] or [[Phishing|phishing]] emails
+**Criminal** who uses a [[Command and Control| command-and-control ]] server to **remotely control** the zombies often use the [[Botnet|botnet]] to **launch attacks** on other systems, or to send [[Spam|spam]] or [[Phishing|phishing]] emails
