@@ -5,4 +5,9 @@ Tagged Concepts:
 - #Domain_1/Attacks/Crypto 
 Type: [[Final Note Template]]
 - - - 
-- 
+
+
+# [[Collision Attack]]
+# [[Downgrade Attack]]
+# [[Birthday Attack]]
+# [[Replay Attack]]
