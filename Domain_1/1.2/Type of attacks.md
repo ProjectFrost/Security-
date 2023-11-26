@@ -25,3 +25,5 @@ Data center is often **more secure** and **less vulnerable** to disruptive attac
 ## On-Premises Attacks
 You **do not benefit** from the cloud´s **shared responsibility model**. You have more control but are reponsible for security of the **full stack**
 **Org has to defend a wider range of attacks and greater expense and effort to defend against them**
+
+# [[Cryptographic Attacks]]
