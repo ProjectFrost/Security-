@@ -1,1 +1,1 @@
-Attempt to discover passwords from a captured **d**
+Attempt to discover passwords from a captured **database** or  captured **packet scan**
