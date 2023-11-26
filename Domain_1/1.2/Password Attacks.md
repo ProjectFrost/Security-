@@ -6,12 +6,10 @@ Tagged Concepts:
 Type: [[Final Note Template]]
 - - - 
 
-- # [[Dictionary Attacks]]
+- # [[Dictionary]]
 - # [[Password Spraying]]
 - # [[Offline]]
 - # [[Online]]
 - # [[Plaintext/Unencrypted]]
-- # [[]]
-- # [[]]
-- # [[]]
-- # [[]]
+- # [[Brute Force]]
+- # [[Rainbow Table]]
