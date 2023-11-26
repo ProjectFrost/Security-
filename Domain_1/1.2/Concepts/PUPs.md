@@ -1,0 +1,1 @@
+A program that may be an **unwanted app**, often delivered alongside **another program** that the user wants. Include [[Spyware|spyware]] , adware and dialers

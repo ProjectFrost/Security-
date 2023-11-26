@@ -1,0 +1,1 @@
+Malware desgined to **obtain information** about an individual, system or organization

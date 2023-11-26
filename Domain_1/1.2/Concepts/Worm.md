@@ -1,1 +1,1 @@
-A type of malware that spreads 
+A type of malware that spreads copies of itself from computer to computer **replicating itself** without human interaction

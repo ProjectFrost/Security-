@@ -1,0 +1,1 @@
+A type of malicious software that does not rely on virus-laden files to infect a host. Instead, it relies
