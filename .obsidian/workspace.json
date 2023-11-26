@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d99fde3b18141332",
+        "id": "598685c14f2a9085",
         "type": "tabs",
         "children": [
           {
-            "id": "51adc955664f9520",
+            "id": "0c857d78bf6e9074",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.2/Type of attacks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.2/Type of attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.2/Type of attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Domain_1/1.2/Type of attacks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07670cf21488b373",
+  "active": "0c857d78bf6e9074",
   "lastOpenFiles": [
+    "Domain_1/1.2/Type of attacks.md",
     "Domain_1/Strategy.md",
     "Domain_1/1.2/Cryptographic Attacks.md",
     "Domain_1/1.2/Concepts/Replay Attack.md",
@@ -165,7 +157,6 @@
     "Domain_1/1.2/Concepts/birthday paradox.md",
     "Domain_1/1.2/Concepts/Downgrade Attack.md",
     "Domain_1/1.2/Concepts/Collision Attack.md",
-    "Domain_1/1.2/Type of attacks.md",
     "Domain_1/1.2/Concepts/Supply Chain Attacks.md",
     "Domain_1/1.2/Adversarial AI.md",
     "Domain_1/1.2/Concepts/Deep learning.md",
