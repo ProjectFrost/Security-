@@ -1,0 +1,1 @@
+A collection of compromised computing devices (often called **bots or zombies**). 

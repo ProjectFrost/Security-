@@ -1,0 +1,1 @@
+Criminal who uses a command-and-control server to remotely control the zombies often use the botnet to launch attacks on other systems, or to send spam or phishing emails
