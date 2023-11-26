@@ -3,3 +3,6 @@ An attempt to find [[Collision Attack|collisions]] in hash functions based on th
 
 
 Commonly targets [[Digital Signatures|digital signatures]]
+
+
+BEST DEFENSE → defeat with long hash output (to make it computationally infeasible)
