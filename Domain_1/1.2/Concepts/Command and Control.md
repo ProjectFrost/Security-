@@ -1,0 +1,1 @@
+A computer **controlled by an attacker** which is used to send commands to compromised systems and **received stolen data** from a target network

@@ -1,0 +1,1 @@
+A malware program that gives an intruder administrative control over a target computer

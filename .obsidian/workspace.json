@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "95527b7d30516cb5",
+            "id": "557d2394d9203464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.2/Malware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cd9978aa4f65383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.2/Concepts/Fileless Virus.md",
+                "file": "Domain_1/1.2/Ransonware.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Fileless Virus.md",
+                "file": "Domain_1/1.2/Ransonware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Fileless Virus.md",
+                "file": "Domain_1/1.2/Ransonware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Fileless Virus.md"
+                "file": "Domain_1/1.2/Ransonware.md"
               }
             }
           },
@@ -182,15 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cd9978aa4f65383",
+  "active": "557d2394d9203464",
   "lastOpenFiles": [
+    "Domain_1/1.2/Type of attacks.md",
+    "Domain_1/1.2/Ransonware.md",
     "Domain_1/1.2/Malware.md",
+    "Domain_1/1.2/Concepts/RAT.md",
+    "Domain_1/1.2/Concepts/Command and Control.md",
     "Domain_1/1.2/Concepts/Fileless Virus.md",
     "Domain_1/1.2/Concepts/PUPs.md",
     "Domain_1/1.2/Concepts/Spyware.md",
     "Domain_1/1.2/Concepts/Keylogger.md",
     "Domain_1/1.2/Concepts/Worm.md",
-    "Domain_1/1.2/Type of attacks.md",
     "Domain_1/1.2/Viruses.md",
     "Domain_1/1.2/Concepts/Trojan Horses.md",
     "Domain_1/1.2/Concepts/Rootkit.md",
@@ -211,9 +202,6 @@
     "Domain_1/1.2/Concepts",
     "Domain_1/1.2",
     "Templates/Final Note Template.md",
-    "Domain_1/1.1/Concepts/Phishing.md",
-    "Domain_1/1.1/Principles/Vishing.md",
-    "Domain_1/1.1/Principles/Spear Phishing.md",
     "Domain_1/1.1/Principles",
     "Domain_1/1.1/Concepts",
     "Domain_1/1.1",
