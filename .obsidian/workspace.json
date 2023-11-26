@@ -22,26 +22,24 @@
             }
           },
           {
-            "id": "988c16feb2ec570d",
+            "id": "95527b7d30516cb5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.2/Viruses.md",
+                "file": "Domain_1/1.2/Malware.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "5928924cacb20e06",
+            "id": "3c28bb874274f671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Trojan Horses.md",
+                "file": "Domain_1/1.2/Concepts/Worm.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Trojan Horses.md",
+                "file": "Domain_1/1.2/Concepts/Worm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Trojan Horses.md",
+                "file": "Domain_1/1.2/Concepts/Worm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.2/Concepts/Trojan Horses.md"
+                "file": "Domain_1/1.2/Concepts/Worm.md"
               }
             }
           },
@@ -184,18 +182,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5928924cacb20e06",
+  "active": "3c28bb874274f671",
   "lastOpenFiles": [
+    "Domain_1/1.2/Malware.md",
+    "Domain_1/1.2/Concepts/Worm.md",
+    "Domain_1/1.2/Type of attacks.md",
     "Domain_1/1.2/Viruses.md",
     "Domain_1/1.2/Concepts/Trojan Horses.md",
+    "Domain_1/1.2/Concepts/Rootkit.md",
     "Domain_1/1.2/Concepts/Logic Bombs.md",
     "Domain_1/1.2/Concepts/Hoaxes.md",
     "Domain_1/1.2/Concepts/Crypto-malware.md",
-    "Domain_1/1.2/Type of attacks.md",
-    "Domain_1/1.3/Application Attacks.md",
     "Domain_1/1.2/Concepts/Backdoor.md",
+    "Domain_1/1.3/Application Attacks.md",
     "Domain_1/1.2/Concepts/A.md",
-    "Domain_1/1.2/Concepts/Rootkit.md",
     "Domain_1/1.1/Social Engineering.md",
     "Domain_1/Strategy.md",
     "Domain_1/1.2/Concepts/[[Application Attacks]].md",
@@ -214,8 +214,6 @@
     "Domain_1/1.1/Concepts/Social Engineering.md",
     "Domain_1/1.1/Principles/Urgency.md",
     "Domain_1/1.1/Principles/Trust.md",
-    "Domain_1/1.1/Principles/Familiarity.md",
-    "Domain_1/1.1/Principles/Scarcity.md",
     "Domain_1/1.1/Principles",
     "Domain_1/1.1/Concepts",
     "Domain_1/1.1",
