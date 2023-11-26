@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,11 +140,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6973252dde8e4140",
+  "active": "4309cc7b66a6a9c2",
   "lastOpenFiles": [
-    "Templates/Final Note Template.md",
+    "Domain_1/1.2",
     "Domain_1/1.1/Social Engineering.md",
+    "Templates/Final Note Template.md",
     "Domain_1/1.1/Concepts/Phishing.md",
     "Domain_1/1.1/Principles/Vishing.md",
     "Domain_1/1.1/Principles/Spear Phishing.md",
@@ -188,7 +189,6 @@
     "Domain_1/1.1/Concepts/Prepending.md",
     "Domain_1/1.1/Concepts",
     "Domain_1/1.1",
-    "Domain_1/1.1/Concepts/Identity Theft.md",
     "Domain_5",
     "Domain_4",
     "Domain_3",

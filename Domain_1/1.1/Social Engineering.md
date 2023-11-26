@@ -2,7 +2,7 @@
 Source:
 Date Created:  25-11-2023
 Tagged Concepts:
-- #SocialEngineering
+- #SocialEngineering #Domain_1
 Type: [[Final Note Template]]
 - - - 
 
