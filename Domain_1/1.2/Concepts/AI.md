@@ -1,1 +1,1 @@
-Focuses on accomplishing “smart” tasks combining machine learning and [[Deep learning|deep learning]] to emulate human intelligence
+Focuses on accomplishing “smart” tasks combining [[ML|machine learning]] and [[Deep learning|deep learning]] to emulate human intelligence
