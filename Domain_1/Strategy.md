@@ -10,6 +10,8 @@ Type: [[Literature Notes]]
 - Focus  on each unique characteristic of each item in the list 
 # 1.2
 - Focus on each characteristic to identify the attacks
+# 1.3
+- Focus on each 
 ## 1.5
 - Explain → Be able to explain in 25 words or less each concept
 
