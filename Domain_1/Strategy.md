@@ -11,7 +11,7 @@ Type: [[Literature Notes]]
 # 1.2
 - Focus on each characteristic to identify the attacks
 # 1.3
-- Focus on each 
+- Focus on each defining characteristic of the applications attacks, so u can separate them apart from each other
 ## 1.5
 - Explain → Be able to explain in 25 words or less each concept
 
