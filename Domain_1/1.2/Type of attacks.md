@@ -9,4 +9,6 @@ Type: [[Final Note Template]]
 # [[Application Attacks]]
 
 # [[Viruses]]
-#[[Malware]]
+# [[Malware]]
+# [[Ransonware]]
+# [[Password Attacks]]
