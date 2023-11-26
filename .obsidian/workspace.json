@@ -44,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb0068dbc9ac712c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.2/Concepts/birthday paradox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.2/Concepts/birthday paradox.md",
+                "file": "Domain_1/1.2/Concepts/Birthday Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.2/Concepts/birthday paradox.md",
+                "file": "Domain_1/1.2/Concepts/Birthday Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.2/Concepts/birthday paradox.md"
+                "file": "Domain_1/1.2/Concepts/Birthday Attack.md"
               }
             }
           },
@@ -194,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb0068dbc9ac712c",
+  "active": "cfe2a12db1a0ba84",
   "lastOpenFiles": [
+    "Domain_1/1.2/Cryptographic Attacks.md",
     "Domain_1/1.2/Concepts/Birthday Attack.md",
     "Domain_1/1.2/Concepts/birthday paradox.md",
-    "Domain_1/1.2/Cryptographic Attacks.md",
     "Domain_1/1.2/Concepts/Downgrade Attack.md",
     "Domain_1/1.2/Concepts/Collision Attack.md",
     "Domain_1/1.2/Type of attacks.md",
