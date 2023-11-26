@@ -1,0 +1,1 @@
+Malicious code objects that infect a system and **lie dormant** until they are **triggered**

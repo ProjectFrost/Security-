@@ -10,7 +10,7 @@ Type: [[Final Note Template]]
 
 # [[Viruses]]
 # [[Malware]]
-# [[Ransonware]]
+# [[Ransomware]]
 # [[Password Attacks]]
 # [[Bots]]
 # [[Physical Attacks]]
