@@ -25,12 +25,8 @@
             "id": "50c61d6d572c5f61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.2/Type of attacks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.2/Type of attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.2/Type of attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Domain_1/1.2/Type of attacks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +165,10 @@
   },
   "active": "50c61d6d572c5f61",
   "lastOpenFiles": [
-    "Domain_1/1.1/Social Engineering.md",
+    "Domain_1/1.1/Concepts/Watering hole attack.md",
+    "Domain_1/1.2/Concepts/malware.md",
     "Domain_1/1.2/Type of attacks.md",
+    "Domain_1/1.1/Social Engineering.md",
     "Domain_1/1.1/Concepts/Prepending.md",
     "Domain_1/Strategy.md",
     "Domain_1/1.2/Concepts",
@@ -196,12 +190,10 @@
     "Domain_1/1.1/Concepts/Influence Campaigns.md",
     "Domain_1/1.1/Concepts/Pretexting.md",
     "Domain_1/1.1/Concepts/Typosquatting.md",
-    "Domain_1/1.1/Concepts/Watering hole attack.md",
     "Domain_1/1.1/Concepts/Impersonation.md",
     "Domain_1/1.1/Concepts/Hoax.md",
     "Domain_1/1.1/Concepts/Reconnaissance.md",
     "Domain_1/1.1/Concepts/Spam.md",
-    "Domain_1/1.1/Concepts/Credential Harvesting.md",
     "Domain_1/1.1/Concepts",
     "Domain_1/1.1",
     "Domain_5",

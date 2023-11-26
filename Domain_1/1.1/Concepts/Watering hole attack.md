@@ -1,1 +1,1 @@
-Attack in which the attacker observes which **websites an organization often uses** and **infects** one or more with [[malware]].
+Attack in which the attacker observes which **websites an organization often uses** and **infects** one or more with [[Malware|malware]].
