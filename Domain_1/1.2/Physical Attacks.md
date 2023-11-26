@@ -5,4 +5,7 @@ Tagged Concepts:
 -
 Type: [[Final Note Template]]
 - - - 
-- 
+# [[Malicious flash drive]]
+# [[Malicious USB cable]]
+# [[Card cloning]]
+# [[Skimming]]
