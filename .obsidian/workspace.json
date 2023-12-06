@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "2d805158a0057f97",
+            "id": "09be2c647488351e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.3/Concepts/XSS Scripting.md",
+                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.3/Concepts/XSS Scripting.md",
+                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.3/Concepts/XSS Scripting.md",
+                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.3/Concepts/XSS Scripting.md"
+                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md"
               }
             }
           },
@@ -171,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d805158a0057f97",
+  "active": "09be2c647488351e",
   "lastOpenFiles": [
     "Domain_1/1.3/Application Attacks.md",
-    "Domain_1/1.3/Concepts/XSS Scripting.md",
+    "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
+    "Domain_1/1.3/Concepts/Cross-Site Scripting(XSS).md",
+    "Domain_1/1.3/Concepts/Reflected input.md",
     "Domain_1/1.3/Concepts/Privilege Escalation.md",
     "Domain_1/Strategy.md",
     "Domain_1/1.2/Concepts/Rootkit.md",
@@ -197,8 +199,6 @@
     "Domain_1/1.2/Concepts/Bot Herder.md",
     "Domain_1/1.2/Concepts/Malicious USB cable.md",
     "Domain_1/1.2/Concepts/Malicious flash drive.md",
-    "Domain_1/1.2/Viruses.md",
-    "Domain_1/1.2/Ransomware.md",
     "Plaintext",
     "Domain_1/1.3/Concepts",
     "Domain_1/1.3",

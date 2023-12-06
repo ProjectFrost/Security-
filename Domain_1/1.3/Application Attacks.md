@@ -12,4 +12,5 @@ Type: [[Final Note Template]]
 
 # [[Privilege Escalation]]
 
-# [[XSS Scripting]]
+# [[Cross-Site Scripting(XSS)]]
+# [[Cross-site Request Forgery(XSRF or CSRF)]]

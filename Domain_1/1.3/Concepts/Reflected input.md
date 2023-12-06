@@ -1,0 +1,1 @@
+When data is copied from a request and echoed into the application's immediate response.
