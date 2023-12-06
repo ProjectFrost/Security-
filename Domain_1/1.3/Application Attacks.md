@@ -18,3 +18,6 @@ Type: [[Final Note Template]]
 
 # [[Pointer Deference]]
 # [[Directory Traversal]]
+# [[Buffer Overflow]]
+
+# [[Race Conditions]]
