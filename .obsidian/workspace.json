@@ -10,13 +10,15 @@
           {
             "id": "0c857d78bf6e9074",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Domain_1/1.3/Application Attacks.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -158,8 +160,9 @@
   },
   "active": "0c857d78bf6e9074",
   "lastOpenFiles": [
-    "Domain_1/Strategy.md",
+    "Domain_1/1.3/Concepts/Privilege Escalation.md",
     "Domain_1/1.3/Application Attacks.md",
+    "Domain_1/Strategy.md",
     "Domain_1/1.2/Concepts/Rootkit.md",
     "Domain_1/1.2/Type of attacks.md",
     "Domain_1/1.2/Cryptographic Attacks.md",
@@ -183,7 +186,6 @@
     "Domain_1/1.2/Viruses.md",
     "Domain_1/1.2/Ransomware.md",
     "Domain_1/1.2/Password Attacks.md",
-    "Domain_1/1.2/Malware.md",
     "Plaintext",
     "Domain_1/1.3/Concepts",
     "Domain_1/1.3",

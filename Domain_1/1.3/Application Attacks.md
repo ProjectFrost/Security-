@@ -10,3 +10,6 @@ Type: [[Final Note Template]]
 # [[Rootkit]]
 # [[Backdoor]]
 
+# [[Privilege Escalation]]
+
+# [[XSS Scripting]]

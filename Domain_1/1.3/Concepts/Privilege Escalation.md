@@ -1,0 +1,1 @@
+A security hole created when code is executed with higher privileges than those of the user running it
