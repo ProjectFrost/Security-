@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
+                "file": "Domain_1/1.3/Application Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
+                "file": "Domain_1/1.3/Application Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md"
+                "file": "Domain_1/1.3/Application Attacks.md"
               }
             }
           },
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09be2c647488351e",
+  "active": "0c857d78bf6e9074",
   "lastOpenFiles": [
-    "Domain_1/1.3/Application Attacks.md",
     "Domain_1/1.3/Concepts/Cross-site Request Forgery(XSRF or CSRF).md",
+    "Domain_1/1.3/Application Attacks.md",
     "Domain_1/1.3/Concepts/Cross-Site Scripting(XSS).md",
     "Domain_1/1.3/Concepts/Reflected input.md",
     "Domain_1/1.3/Concepts/Privilege Escalation.md",
