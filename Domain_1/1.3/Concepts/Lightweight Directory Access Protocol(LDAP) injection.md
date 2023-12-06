@@ -1,0 +1,1 @@
+This can occur when the user’s input is not properly filtered on an LDAP implementation.
