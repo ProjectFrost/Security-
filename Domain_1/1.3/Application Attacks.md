@@ -17,3 +17,4 @@ Type: [[Final Note Template]]
 # [[Injection Attacks]]
 
 # [[Pointer Deference]]
+# [[Directory Traversal]]
