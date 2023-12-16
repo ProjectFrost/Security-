@@ -1,0 +1,1 @@
+Typically targets NTLM. A technique whereby an attacker captures a password hash (as opposed to the password characters) and then passes it through for **authentication and lateral a**
