@@ -6,3 +6,8 @@ Tagged Concepts:
 Type: [[Final Note Template]]
 - - - 
 
+# [[DNS Poisoning]]
+# [[DNS Spoofing]]
+# [[Hyperlink Spoofing]]
+# [[URL redirection]]
+# [[Domain reputation]]
