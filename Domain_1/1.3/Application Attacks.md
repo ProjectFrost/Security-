@@ -22,4 +22,6 @@ Type: [[Final Note Template]]
 
 # [[Race Conditions]]
 # [[Error handling]]
+# [[Replay Attack]]
+# [[Session Replay]]
 
