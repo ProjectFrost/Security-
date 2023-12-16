@@ -8,4 +8,4 @@ Often leads to [[Buffer Overflow]]
 
 **Error messages may include “overflow” or “arithmetic overflow”**
 
-BEST DEFENSE → 
+BEST DEFENSE → Good coding practices, appropiate typing of variables, **using larger variable types**
