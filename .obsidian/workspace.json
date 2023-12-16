@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c6f46c230574f20",
+            "id": "722d68518d51f789",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.5/Threat actors.md",
+                "file": "Domain_1/1.5/Attributes of actors.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.5/Threat actors.md",
+                "file": "Domain_1/1.5/Attributes of actors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.5/Threat actors.md",
+                "file": "Domain_1/1.5/Attributes of actors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.5/Threat actors.md"
+                "file": "Domain_1/1.5/Attributes of actors.md"
               }
             }
           },
@@ -158,13 +156,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c6f46c230574f20",
+  "active": "722d68518d51f789",
   "lastOpenFiles": [
+    "Domain_1/1.5/Threat actors.md",
+    "Domain_1/1.5/Attributes of actors.md",
+    "Domain_1/1.5/Concepts/Competitors.md",
+    "Domain_1/1.5/Concepts/Shadow IT.md",
     "Domain_1/1.5/Concepts/Hackers.md",
     "Domain_1/1.5/Concepts/Semi-authorized Hackers.md",
     "Domain_1/1.5/Concepts/Unauthorized Hackers.md",
     "Domain_1/1.5/Concepts/Authorized Hackers.md",
-    "Domain_1/1.5/Threat actors.md",
     "Domain_1/1.5/Concepts/Criminal syndicate.md",
     "Domain_1/1.5/Concepts/Script kiddies.md",
     "Domain_1/1.5/Concepts/Hacktivists.md",
@@ -185,9 +186,6 @@
     "Domain_1/1.4/Network Attacks.md",
     "Domain_1/1.4/MIM.md",
     "Domain_1/1.4/DNS Attacks.md",
-    "Domain_1/1.4/Bluetooth Attacks.md",
-    "Domain_1/1.4/Concepts/Domain Hijacking.md",
-    "Domain_1/1.4/Concepts/DDoS.md",
     "Domain_1/1.4/Concepts",
     "Domain_1/1.4",
     "Domain_1/1.3/Concepts/Pointer",

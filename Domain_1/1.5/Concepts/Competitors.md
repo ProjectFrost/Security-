@@ -1,0 +1,1 @@
+A competitor is a business or individual in the same industry or market, striving to attract the same customers and achieve similar goals through competition and differentiation.
