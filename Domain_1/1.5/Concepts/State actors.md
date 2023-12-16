@@ -1,0 +1,1 @@
+A state actor is a government or its representatives engaging in activities, often covert, to influence, manipulate, or gather information in the domestic or international arena.

@@ -158,8 +158,12 @@
   },
   "active": "2c6f46c230574f20",
   "lastOpenFiles": [
-    "Domain_1/1.5/Concepts",
+    "Domain_1/1.5/Concepts/Hacktivists.md",
     "Domain_1/1.5/Threat actors.md",
+    "Domain_1/1.5/Concepts/State actors.md",
+    "Domain_1/1.5/Concepts/Insider.md",
+    "Domain_1/1.5/Concepts/APT.md",
+    "Domain_1/1.5/Concepts",
     "Domain_1/Untitled.md",
     "Domain_1/1.5",
     "Domain_1/1.4/Mobile and Wireless Attacks.md",
@@ -182,9 +186,6 @@
     "Domain_1/1.4/Concepts/Hyperlink Spoofing.md",
     "Domain_1/1.4/Concepts/DNS Poisoning.md",
     "Domain_1/1.4/Concepts/DNS Spoofing.md",
-    "Domain_1/1.4/Concepts/Initialization vector.md",
-    "Domain_1/1.4/Concepts/NFC.md",
-    "Domain_1/1.4/Concepts/RFID.md",
     "Domain_1/1.4/Concepts",
     "Domain_1/1.4",
     "Domain_1/1.3/Concepts/Pointer",
@@ -192,7 +193,6 @@
     "Plaintext",
     "Domain_1/1.3/Concepts",
     "Domain_1/1.3",
-    "Domain_1/1.2/Concepts",
-    "Domain_1/1.2"
+    "Domain_1/1.2/Concepts"
   ]
 }

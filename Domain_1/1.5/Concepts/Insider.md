@@ -1,0 +1,1 @@
+An insider is a person within an organization who poses a potential security risk by having access to sensitive information and possibly exploiting it for malicious purposes.

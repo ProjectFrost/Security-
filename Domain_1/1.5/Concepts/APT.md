@@ -1,0 +1,1 @@
+An Advanced Persistent Threat (APT) is a sophisticated and prolonged cyberattack by skilled adversaries, aiming to gain unauthorized access and maintain a persistent presence in a targeted system.
