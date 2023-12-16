@@ -1,3 +1,1 @@
-Physically infiltrating a system or network, bypassing digital defenses, to compromise or steal information. 
-
-Examples include unauthorized physical entry or tampering with hardware.
+Attack method where adversaries physically connect to a network, bypassing traditional security measures to gain unauthorized access and potentially compromise sensitive information.
