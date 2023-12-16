@@ -6,9 +6,7 @@ Tagged Concepts:
 Type: [[Final Note Template]]
 - - - 
 
-# [[Bluejacking]]
-# [[Bluesnarfing]]
-# [[Bluebugging]]
+# [[Bluetooth Attacks]]
 # [[Evil twin]]
 # [[Disassociation]]
 # [[Jamming]]
