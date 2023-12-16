@@ -30,3 +30,4 @@ Type: [[Final Note Template]]
 # [[Resource exhaustion]]
 
 # [[Memory leaks]]
+# [[SSL Stripping]]
