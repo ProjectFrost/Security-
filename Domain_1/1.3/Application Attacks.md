@@ -28,3 +28,5 @@ Type: [[Final Note Template]]
 
 # [[API attacks]]
 # [[Resource exhaustion]]
+
+# [[Memory leaks]]
