@@ -1,0 +1,1 @@
+A [[DoS]] that prevents other nodes from using the channel to communicate by occupying the channel that they are communicating on. Can be difficult to detect and often unintentional.
