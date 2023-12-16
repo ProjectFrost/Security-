@@ -21,3 +21,5 @@ Type: [[Final Note Template]]
 # [[Buffer Overflow]]
 
 # [[Race Conditions]]
+# [[Error handling]]
+
