@@ -27,3 +27,4 @@ Type: [[Final Note Template]]
 # [[Integer Overflow]]
 
 # [[API attacks]]
+# [[Resource exhaustion]]
