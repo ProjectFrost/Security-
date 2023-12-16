@@ -1,0 +1,1 @@
+Unauthorized access or manipulation of cloud-based resources, exploiting vulnerabilities to compromise sensitive information stored or processed in cloud services.

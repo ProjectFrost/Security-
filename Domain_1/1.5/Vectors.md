@@ -12,3 +12,5 @@ Type: [[Final Note Template]]
 # [[Social media vector]]
 # [[Removable media vector]]
 # [[Cloud vector]]
+
+/commit
