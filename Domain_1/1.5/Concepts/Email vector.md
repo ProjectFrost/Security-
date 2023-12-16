@@ -1,0 +1,1 @@
+Deceptive emails trick users into revealing sensitive information or downloading malicious content, exploiting trust to compromise security.

@@ -1,0 +1,1 @@
+Deceptive tactics, like fake profiles or messages, trick users into revealing sensitive information, exploiting trust within social media platforms for cyberattacks.

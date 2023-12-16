@@ -1,0 +1,1 @@
+A wireless attack vector involves exploiting vulnerabilities in wireless networks to gain unauthorized access, intercept data, or disrupt communication.

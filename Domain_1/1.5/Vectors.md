@@ -5,10 +5,10 @@ Tagged Concepts:
 - #Domain_1/Vectors 
 Type: [[Final Note Template]]
 - - - 
-# [[Direct Access]]
-# [[Wireless]]
-# [[Email]]
-# [[]]
-# [[]]
-# [[]]
-# [[]]
+# [[Direct Access vector]]
+# [[Wireless vector]]
+# [[Email vector]]
+# [[Supply chain vector]]
+# [[Social media vector]]
+# [[Removable media vector]]
+# [[Cloud vector]]

@@ -1,0 +1,1 @@
+A supply chain attack vector targets vulnerabilities in a system's suppliers or partners to compromise the end target, exploiting trust in the supply chain for unauthorized access.
