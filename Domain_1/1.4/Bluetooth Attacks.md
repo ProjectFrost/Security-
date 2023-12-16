@@ -8,3 +8,6 @@ Type: [[Final Note Template]]
 # [[Bluejacking]]
 # [[Bluesnarfing]]
 # [[Bluebugging]]
+
+Best Defense → Use long pin, 2FA, and **disable discovery mode**
+
