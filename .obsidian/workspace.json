@@ -10,13 +10,15 @@
           {
             "id": "2c6f46c230574f20",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Domain_1/1.5/Threat actors.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -158,8 +160,14 @@
   },
   "active": "2c6f46c230574f20",
   "lastOpenFiles": [
-    "Domain_1/1.5/Concepts/Hacktivists.md",
+    "Domain_1/1.5/Concepts/Hackers.md",
+    "Domain_1/1.5/Concepts/Semi-authorized Hackers.md",
+    "Domain_1/1.5/Concepts/Unauthorized Hackers.md",
+    "Domain_1/1.5/Concepts/Authorized Hackers.md",
     "Domain_1/1.5/Threat actors.md",
+    "Domain_1/1.5/Concepts/Criminal syndicate.md",
+    "Domain_1/1.5/Concepts/Script kiddies.md",
+    "Domain_1/1.5/Concepts/Hacktivists.md",
     "Domain_1/1.5/Concepts/State actors.md",
     "Domain_1/1.5/Concepts/Insider.md",
     "Domain_1/1.5/Concepts/APT.md",
@@ -180,12 +188,6 @@
     "Domain_1/1.4/Bluetooth Attacks.md",
     "Domain_1/1.4/Concepts/Domain Hijacking.md",
     "Domain_1/1.4/Concepts/DDoS.md",
-    "Domain_1/1.4/Concepts/DoS.md",
-    "Domain_1/1.4/Concepts/Domain reputation.md",
-    "Domain_1/1.4/Concepts/URL redirection.md",
-    "Domain_1/1.4/Concepts/Hyperlink Spoofing.md",
-    "Domain_1/1.4/Concepts/DNS Poisoning.md",
-    "Domain_1/1.4/Concepts/DNS Spoofing.md",
     "Domain_1/1.4/Concepts",
     "Domain_1/1.4",
     "Domain_1/1.3/Concepts/Pointer",

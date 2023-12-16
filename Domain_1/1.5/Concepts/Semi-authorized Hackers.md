@@ -1,0 +1,1 @@
+A semi-authorized hacker has partial permission to access a system, often for testing or troubleshooting, but may overstep boundaries unintentionally or maliciously, compromising security.

@@ -1,0 +1,1 @@
+An unauthorized hacker is an individual who gains unauthorized access to computer systems or networks with the intent to exploit, disrupt, or steal information.

@@ -1,0 +1,1 @@
+A script kiddie is an unskilled individual who uses pre-written hacking tools without deep understanding, relying on others' work for cyber attacks.

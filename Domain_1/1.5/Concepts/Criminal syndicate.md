@@ -1,0 +1,1 @@
+A criminal syndicate is an organized and illicit group engaged in illegal activities, such as drug trafficking, extortion, and racketeering, for financial gain and power.
