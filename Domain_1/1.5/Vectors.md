@@ -14,4 +14,3 @@ Type: [[Final Note Template]]
 # [[Cloud vector]]
 
 
-/commit
