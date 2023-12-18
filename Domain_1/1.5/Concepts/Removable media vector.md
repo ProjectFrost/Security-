@@ -1,1 +1,1 @@
-Malicious software on removable devices, like USB drives, can infect systems when connected, compromising security through unauthorized access, data theft, or system manipulation.
+Removable media attack vectors include malware transmission via infected USB drives or external devices, posing risks of data compromise and system infection through unauthorized file transfers.

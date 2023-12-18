@@ -1,1 +1,1 @@
-A wireless attack vector involves exploiting vulnerabilities in wireless networks to gain unauthorized access, intercept data, or disrupt communication.
+Wireless attack vectors include eavesdropping, unauthorized access (Wi-Fi cracking), rogue access points, and denial-of-service attacks, exploiting vulnerabilities in wireless networks for malicious purposes.

@@ -1,1 +1,1 @@
-Deceptive tactics, like fake profiles or messages, trick users into revealing sensitive information, exploiting trust within social media platforms for cyberattacks.
+Social media attack vectors include phishing links, fake profiles, malware distribution, and impersonation, exploiting trust and user interactions to compromise accounts and spread threats.

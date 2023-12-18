@@ -1,1 +1,1 @@
-Unauthorized access or manipulation of cloud-based resources, exploiting vulnerabilities to compromise sensitive information stored or processed in cloud services.
+Cloud attack vectors include data breaches, insecure APIs, misconfigurations, and account hijacking, exploiting vulnerabilities in cloud infrastructure to compromise sensitive information and disrupt services.

@@ -1,1 +1,1 @@
-Deceptive emails trick users into revealing sensitive information or downloading malicious content, exploiting trust to compromise security.
+Email attack vectors include phishing (deceptive messages), malware attachments or links, and spoofed emails, exploiting human vulnerabilities to compromise systems and steal sensitive information.

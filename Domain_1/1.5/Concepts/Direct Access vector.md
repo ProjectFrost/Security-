@@ -1,1 +1,1 @@
-Attack method where adversaries physically connect to a network, bypassing traditional security measures to gain unauthorized access and potentially compromise sensitive information.
+Direct access vectors include USB attacks, physical tampering, and unauthorized login attempts, posing risks when individuals gain direct, physical entry to computer systems or networks.
