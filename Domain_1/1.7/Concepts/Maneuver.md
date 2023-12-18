@@ -1,0 +1,3 @@
+The term "maneuver" generally refers to a planned and skillful movement or series of movements, especially in the context of military tactics or strategic planning. It can also be used more broadly to describe a strategic or tactical action taken to achieve a specific goal or result. 
+
+In cybersecurity, the term "maneuver" typically refers to strategic actions taken by defenders or attackers to gain an advantage or outmaneuver each other in the cyber landscape

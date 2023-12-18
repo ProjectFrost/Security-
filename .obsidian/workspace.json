@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.7/Threat hunting.md",
+                "file": "Domain_1/1.7/Vulnerability scans.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.7/Threat hunting.md",
+                "file": "Domain_1/1.7/Vulnerability scans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.7/Threat hunting.md",
+                "file": "Domain_1/1.7/Vulnerability scans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.7/Threat hunting.md"
+                "file": "Domain_1/1.7/Vulnerability scans.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "cd486a6a104e2590",
   "lastOpenFiles": [
-    "Domain_1/1.7/Concepts/Intelligence fusion.md",
     "Domain_1/1.7/Threat hunting.md",
+    "Domain_1/1.7/Vulnerability scans.md",
+    "Domain_1/1.7/Concepts/Maneuver.md",
+    "Domain_1/1.7/Concepts/Advisories and bulletins.md",
+    "Domain_1/1.7/Concepts/Intelligence fusion.md",
     "Domain_1/1.7/Concepts",
     "Domain_1/Strategy.md",
     "Domain_1/1.7",
@@ -183,9 +186,6 @@
     "Domain_1/1.6/Vendor management.md",
     "Domain_1/1.6/Concepts/Lack of vendor support.md",
     "Domain_1/1.6/Concepts/System integration.md",
-    "Domain_1/1.6/Weak configurations.md",
-    "Domain_1/1.6/Concepts/Open ports and services.md",
-    "Domain_1/1.6/Concepts/Default settings.md",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
     "Domain_1/1.5/Concepts/Closed",
