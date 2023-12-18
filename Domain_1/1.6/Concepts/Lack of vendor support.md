@@ -1,0 +1,1 @@
+Lack of vendor support raises security risks, leaving systems vulnerable to unpatched vulnerabilities, obsolete software, and inadequate responses to emerging threats, compromising overall cybersecurity.

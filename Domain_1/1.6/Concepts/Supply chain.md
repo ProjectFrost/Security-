@@ -1,0 +1,1 @@
+Supply chain security concerns include third-party vulnerabilities, counterfeit components, and the risk of malicious actors compromising products or software during manufacturing or distribution.

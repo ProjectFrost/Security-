@@ -1,0 +1,1 @@
+System integration introduces security risks such as data exposure, interoperability issues, and vulnerabilities arising from the connections between disparate systems, requiring careful risk management and monitoring.
