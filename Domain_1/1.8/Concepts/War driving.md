@@ -1,0 +1,1 @@
+War driving is the practice of searching for and mapping wireless networks, often from a moving vehicle, to identify vulnerabilities and gather information for unauthorized access.

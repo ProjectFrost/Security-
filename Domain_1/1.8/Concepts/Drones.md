@@ -1,0 +1,1 @@
+Drones are used by flying over target locations to identify and assess wireless networks, vulnerabilities, and physical security measures.
