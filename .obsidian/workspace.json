@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ecf117ae85f1c423",
+            "id": "559e729ba005f0b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.1/Social Engineering.md",
+                "file": "Domain_1/1.5/Concepts/Removable media vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.1/Social Engineering.md",
+                "file": "Domain_1/1.5/Concepts/Removable media vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.1/Social Engineering.md",
+                "file": "Domain_1/1.5/Concepts/Removable media vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.1/Social Engineering.md"
+                "file": "Domain_1/1.5/Concepts/Removable media vector.md"
               }
             }
           },
@@ -169,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecf117ae85f1c423",
+  "active": "559e729ba005f0b1",
   "lastOpenFiles": [
-    "Domain_1/1.5/Concepts/Email vector.md",
     "Domain_1/1.5/Vectors.md",
+    "Domain_1/1.5/Concepts/Social media vector.md",
+    "Domain_1/1.5/Concepts/Email vector.md",
+    "Domain_1/1.1/Social Engineering.md",
     "Domain_1/1.5/Concepts/Wireless vector.md",
     "Domain_1/1.5/Concepts/Direct Access vector.md",
     "Domain_1/1.5/Threat intelligence sources.md",
@@ -189,14 +191,12 @@
     "Domain_1/1.4/Network Attacks.md",
     "Domain_1/1.5/Concepts/Cloud vector.md",
     "Domain_1/1.5/Concepts/Removable media vector.md",
-    "Domain_1/1.5/Concepts/Social media vector.md",
     "Domain_1/1.5/Concepts/Supply chain vector.md",
     "Domain_1/1.5/Concepts/TTP.md",
     "Domain_1/1.5/Concepts/Threat feeds.md",
     "Domain_1/1.5/Concepts/Social media.md",
     "Domain_1/1.5/Concepts/Local Industry Groups.md",
     "Domain_1/1.5/Concepts/RFC.md",
-    "Domain_1/1.5/Concepts/Academic journals.md",
     "Domain_1/1.5/Concepts/Closed",
     "Closed",
     "Domain_1/1.5/Concepts",

@@ -1,1 +1,1 @@
-Email attack vectors include [[Phishing]] (deceptive messages), [[Malware]] attachments or links, and spoofed emails, [[Domain_1/1.1/Social Engineering|exploiting human vulnerabilities]] to compromise systems and steal sensitive information.
+Email attack vectors include [[Phishing]] (deceptive messages), [[Malware]] attachments or links, and spoofed emails, [[Domain_1/1.1/Social Engineering#Principles of Social Engineering|exploiting human vulnerabilities]] to compromise systems and steal sensitive information.

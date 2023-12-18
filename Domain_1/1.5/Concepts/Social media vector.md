@@ -1,1 +1,1 @@
-Social media attack vectors include phishing links, fake profiles, malware distribution, and impersonation, exploiting trust and user interactions to compromise accounts and spread threats.
+Social media attack vectors include [[Phishing]] links, fake profiles, [[Malware]] distribution, and [[Impersonation]], exploiting trust and user interactions to compromise accounts and spread threats.

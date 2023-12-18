@@ -45,6 +45,9 @@ At a high level 2 types:
 ## [[Influence Campaigns]]
 
 # Principles of Social Engineering
+
+^cd9d68
+
 ## [[Authority]]
 ## [[Intimidation]]
 ## [[Consensus]]
