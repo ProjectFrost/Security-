@@ -1,0 +1,1 @@
+Open permissions pose risks such as **unauthorized access, data exposure, and exploitation**. It allows uncontrolled access, potentially leading to security breaches and data compromise.

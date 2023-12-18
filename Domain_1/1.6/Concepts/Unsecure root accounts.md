@@ -1,0 +1,1 @@
+Unsecured root accounts pose risks of unauthorized system access, data breaches, and full control by malicious actors, compromising the integrity and security of the entire system.
