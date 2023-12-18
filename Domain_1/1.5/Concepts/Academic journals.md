@@ -1,0 +1,1 @@
+Academic journals are peer-reviewed publications containing scholarly articles, providing authoritative and reliable information on specific subjects for academic research and reference.

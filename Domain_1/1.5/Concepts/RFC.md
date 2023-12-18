@@ -1,0 +1,1 @@
+RFC (Request for Comments): Published documents detailing internet standards, protocols, and research, essential for understanding and implementing networking technologies and practices.

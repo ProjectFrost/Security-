@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fd76103ac0ee502",
+            "id": "d4a649ee951d4648",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.5/Threat intelligence sources.md",
+                "file": "Domain_1/1.5/Research sources.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "d4a649ee951d4648",
+            "id": "4f72dd4d49e24240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.5/Research sources.md",
+                "file": "Domain_1/1.5/Concepts/TTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.5/Research sources.md",
+                "file": "Domain_1/1.5/Concepts/TTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.5/Research sources.md",
+                "file": "Domain_1/1.5/Concepts/TTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.5/Research sources.md"
+                "file": "Domain_1/1.5/Concepts/TTP.md"
               }
             }
           },
@@ -171,10 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4a649ee951d4648",
+  "active": "4f72dd4d49e24240",
   "lastOpenFiles": [
-    "Domain_1/1.5/Threat intelligence sources.md",
     "Domain_1/1.5/Research sources.md",
+    "Domain_1/1.5/Concepts/TTP.md",
+    "Domain_1/1.5/Concepts/Threat feeds.md",
+    "Domain_1/1.5/Concepts/Social media.md",
+    "Domain_1/1.5/Concepts/Local Industry Groups.md",
+    "Domain_1/1.5/Concepts/RFC.md",
+    "Domain_1/1.5/Concepts/Academic journals.md",
+    "Domain_1/1.5/Concepts/Conferences.md",
+    "Domain_1/1.5/Threat intelligence sources.md",
+    "Domain_1/1.5/Concepts/Vulnerability feeds.md",
+    "Domain_1/1.5/Concepts/Vendor websites.md",
     "Domain_1/1.5/Concepts/File or code repositories.md",
     "Domain_1/1.5/Concepts/Threat maps.md",
     "Domain_1/1.5/Concepts/Predictive analysis.md",
@@ -192,15 +201,6 @@
     "Closed",
     "Domain_1/1.5/Concepts/OSINT.md",
     "Domain_1/1.5/Vectors.md",
-    "Domain_1/1.5/Concepts/Cloud vector.md",
-    "Domain_1/1.5/Concepts/Removable media vector.md",
-    "Domain_1/1.5/Concepts/Supply chain vector.md",
-    "Domain_1/1.5/Concepts/Email vector.md",
-    "Domain_1/1.5/Concepts/Wireless vector.md",
-    "Domain_1/1.5/Concepts/Direct Access vector.md",
-    "Domain_1/1.5/Concepts/Social media vector.md",
-    "Domain_1/1.5/Concepts/Removable media Vector.md",
-    "Domain_1/1.5/Attributes of actors.md",
     "Domain_1/1.5/Concepts",
     "Domain_1/1.5",
     "Domain_1/1.4/Concepts",
