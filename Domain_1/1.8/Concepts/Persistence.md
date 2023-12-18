@@ -1,0 +1,1 @@
+In penetration testing, persistence refers to an attacker's ability to maintain unauthorized access to a system or network over an extended period without detection.

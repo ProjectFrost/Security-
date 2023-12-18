@@ -1,0 +1,1 @@
+Rules of engagement in penetration testing define the scope, limitations, and permissions for ethical hackers, outlining what systems can be tested, methods used, and potential impact levels.

@@ -1,0 +1,1 @@
+Pivoting in penetration testing is the technique of using a compromised system to launch further attacks within a network, expanding unauthorized access and control.

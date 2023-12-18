@@ -1,0 +1,1 @@
+Bug bounty is a reward program where organizations offer incentives to ethical hackers for discovering and reporting vulnerabilities in their software or systems.
