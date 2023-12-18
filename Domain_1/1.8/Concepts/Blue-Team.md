@@ -1,0 +1,1 @@
+A blue team is a cybersecurity defense group responsible for protecting and securing an organization's systems by detecting and responding to security incidents and threats.

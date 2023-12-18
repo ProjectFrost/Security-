@@ -1,0 +1,1 @@
+A purple team is a collaborative cybersecurity approach that combines red team (offensive) and blue team (defensive) activities to enhance overall security effectiveness through shared knowledge and cooperation.

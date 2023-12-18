@@ -1,0 +1,1 @@
+A white team is a group within a cybersecurity exercise that provides oversight, guidance, and support, often ensuring compliance with rules and evaluating defensive strategies.

@@ -1,0 +1,1 @@
+A red team is a group of cybersecurity professionals who simulate cyberattacks to test and enhance the security defenses of a system or organization.

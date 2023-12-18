@@ -1,0 +1,1 @@
+Footprinting in reconnaissance is the process of gathering information about a target, such as its network structure, systems, and organizational details, to plan a cyber attack effectively.
