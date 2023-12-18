@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "072ab970f0c29fde",
+            "id": "4cd4b242d903cf78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Dark web.md",
+                "file": "Domain_1/1.5/Concepts/AIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Dark web.md",
+                "file": "Domain_1/1.5/Concepts/AIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Dark web.md",
+                "file": "Domain_1/1.5/Concepts/AIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Dark web.md"
+                "file": "Domain_1/1.5/Concepts/AIS.md"
               }
             }
           },
@@ -171,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "072ab970f0c29fde",
+  "active": "4cd4b242d903cf78",
   "lastOpenFiles": [
     "Domain_1/1.5/Threat intelligence sources.md",
+    "Domain_1/1.5/Concepts/AIS.md",
+    "Domain_1/1.5/Concepts/Indicators of compromise.md",
     "Domain_1/1.5/Concepts/Dark web.md",
     "Domain_1/1.5/Concepts/Public or Private information sharing centers.md",
     "Domain_1/1.5/Concepts/Vunerability databases.md",
@@ -199,8 +201,6 @@
     "Domain_1/1.5/Concepts/Hackers.md",
     "Domain_1/1.5/Concepts/Semi-authorized Hackers.md",
     "Domain_1/1.5/Concepts/Unauthorized Hackers.md",
-    "Domain_1/1.5/Concepts/Authorized Hackers.md",
-    "Domain_1/1.5/Concepts/Criminal syndicate.md",
     "Domain_1/1.5/Concepts",
     "Domain_1/1.5",
     "Domain_1/1.4/Concepts",

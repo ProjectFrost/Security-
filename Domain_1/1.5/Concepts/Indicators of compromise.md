@@ -1,0 +1,1 @@
+Indicators of Compromise (IoCs) are signs of potential cybersecurity incidents, like unusual network traffic or unauthorized system access, helping identify and respond to security threats effectively.

@@ -1,0 +1,1 @@
+The dark web is a hidden part of the internet accessible only with specific software, where illicit activities often occur anonymously through encrypted networks.
