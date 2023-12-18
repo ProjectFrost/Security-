@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1281d01851845d25",
+        "id": "fd36eeaf8dd7bb85",
         "type": "tabs",
         "children": [
           {
-            "id": "005f9852d6d509ff",
+            "id": "b2ad95aa9e895e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.8/Penetration Tester.md",
+                "file": "Domain_1/1.8/Penetration Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.51103591918945
+    "width": 300.51103591918945
   },
   "right": {
     "id": "710415e44c390848",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.8/Penetration Tester.md",
+                "file": "Domain_1/1.8/Penetration Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.8/Penetration Tester.md",
-                "linksCollapsed": false,
+                "file": "Domain_1/1.8/Penetration Testing.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.8/Penetration Tester.md"
+                "file": "Domain_1/1.8/Penetration Testing.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,9 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "005f9852d6d509ff",
+  "active": "b2ad95aa9e895e60",
   "lastOpenFiles": [
-    "Domain_1/1.8/Penetration Tester.md",
+    "Domain_1/1.2/Concepts/Unencrypted.md",
+    "Domain_1/1.2/Password Attacks.md",
+    "Domain_1/1.8/Penetration Testing.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/Strategy.md",
@@ -186,8 +187,6 @@
     "Domain_1/1.6/Concepts/Firmware.md",
     "Domain_1/1.6/Third-party risks.md",
     "Domain_1/1.6/Concepts/Data storage.md",
-    "Domain_1/1.6/Concepts/Outsourced code development.md",
-    "Domain_1/1.6/Concepts/Supply chain.md",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
     "Domain_1/1.5/Concepts/Closed",
