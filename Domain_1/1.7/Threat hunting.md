@@ -13,7 +13,15 @@ Type: [[Final Note Template]]
 4. **Data-Driven Analysis:** Relies on the analysis of large volumes of data, including logs, network traffic, and system behavior, to uncover patterns indicative of malicious activities.
 5. **Contextual Understanding:** Requires a deep understanding of the organization's network, systems, and normal activities to distinguish between normal and abnormal behavior.
 6. **Integration with Tools:** Involves the use of various cybersecurity tools and technologies, such as [[SIEM]] (Security Information and Event Management) systems, to facilitate efficient data analysis and detection.
-7. **Threat Intelligence Utilization:** Incorporates threat intelligence to stay informed about the latest attack techniques, trends, and indicators of compromise, enhancing the ability to detect sophisticated threats.
+7. **Threat Intelligence Utilization:** Incorporates [[Threat intelligence sources|threat intelligence]] to stay informed about the latest attack techniques, trends, and indicators of compromise, enhancing the ability to detect sophisticated threats.
 8. **Collaboration and Communication:** Effective threat hunting involves collaboration and communication among different teams, including cybersecurity analysts, incident responders, and IT personnel.
 9. **Hypothesis-Driven Approach:** Threat hunters formulate hypotheses about potential threats and then actively investigate to confirm or refute these hypotheses, helping to focus efforts on areas of high risk.
 10. **Risk Reduction:** By identifying and mitigating potential threats before they can cause harm, threat hunting plays a crucial role in reducing the overall risk of cybersecurity incidents within an organization.
+
+
+Some concepts that also apply to threat hunting:
+
+# [[Intelligence fusion]]
+# [[Threat feeds]]
+# [[Advisories and bulletins]]
+# [[Maneuver]]
