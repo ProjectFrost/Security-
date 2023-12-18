@@ -1,1 +1,1 @@
-Direct access vectors include USB attacks, physical tampering, and unauthorized login attempts, posing risks when individuals gain direct, physical entry to computer systems or networks.
+Direct access vectors include [[Malicious USB cable|USB attacks]], physical tampering, and unauthorized login attempts, posing risks when individuals gain direct, physical entry to computer systems or networks.
