@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/Strategy.md",
+                "file": "Domain_1/1.7/Threat hunting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/Strategy.md",
+                "file": "Domain_1/1.7/Threat hunting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/Strategy.md",
+                "file": "Domain_1/1.7/Threat hunting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/Strategy.md"
+                "file": "Domain_1/1.7/Threat hunting.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "cd486a6a104e2590",
   "lastOpenFiles": [
+    "Domain_1/Strategy.md",
+    "Domain_1/1.7/Threat hunting.md",
+    "Domain_1/1.7",
     "Domain_1/1.6/Impacts.md",
     "Domain_1/1.6/Concepts/Availability loss.md",
     "Domain_1/1.6/Concepts/Reputation.md",
@@ -182,8 +185,6 @@
     "Domain_1/1.6/Concepts/Open ports and services.md",
     "Domain_1/1.6/Concepts/Default settings.md",
     "Domain_1/1.6/Concepts/Unsecure protocols.md",
-    "Domain_1/1.6/Concepts/Weak encryption.md",
-    "Domain_1/1.6/Concepts/Errors.md",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
     "Domain_1/1.5/Concepts/Closed",
@@ -192,7 +193,6 @@
     "Domain_1/1.5",
     "Domain_1/1.4/Concepts",
     "Domain_1/1.4",
-    "Domain_1/1.3/Concepts/Pointer",
-    "Pointer"
+    "Domain_1/1.3/Concepts/Pointer"
   ]
 }
