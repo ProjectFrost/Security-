@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.6/Cloud vs On-premises.md",
+                "file": "Domain_1/1.6/Weak configurations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.6/Cloud vs On-premises.md",
+                "file": "Domain_1/1.6/Weak configurations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.6/Cloud vs On-premises.md",
+                "file": "Domain_1/1.6/Weak configurations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.6/Cloud vs On-premises.md"
+                "file": "Domain_1/1.6/Weak configurations.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "7327931a8f92a239",
   "lastOpenFiles": [
+    "Domain_1/1.6/Zero-Day.md",
+    "Domain_1/1.6/Weak configurations.md",
     "Domain_1/1.6/Cloud vs On-premises.md",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
@@ -184,8 +186,6 @@
     "Domain_1/1.5/Concepts/Supply chain vector.md",
     "Domain_1/1.5/Concepts/TTP.md",
     "Domain_1/1.5/Concepts/Threat feeds.md",
-    "Domain_1/1.5/Concepts/Social media.md",
-    "Domain_1/1.5/Concepts/Local Industry Groups.md",
     "Domain_1/1.5/Concepts/Closed",
     "Closed",
     "Domain_1/1.5/Concepts",
