@@ -1,0 +1,1 @@
+An unknown environment refers to conducting tests without prior knowledge of the target system's infrastructure, configurations, or vulnerabilities, simulating a real-world scenario. Can also be called black-box 

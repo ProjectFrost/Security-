@@ -1,0 +1,1 @@
+A known environment in penetration testing means having prior knowledge of the target system's configuration, network architecture, and potential vulnerabilities for more focused testing, can also be called white-box testing. 
