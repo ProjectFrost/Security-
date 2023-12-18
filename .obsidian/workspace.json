@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.6/Weak configurations.md",
+                "file": "Domain_1/1.6/Third-party risks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0cc1bf04ddd186ba",
+            "id": "f037c4614f100367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Open ports and services.md",
+                "file": "Domain_1/1.6/Vendor management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a6429c274c415aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_1/1.6/Concepts/System integration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Open ports and services.md",
+                "file": "Domain_1/1.6/Concepts/System integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Open ports and services.md",
+                "file": "Domain_1/1.6/Concepts/System integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Open ports and services.md"
+                "file": "Domain_1/1.6/Concepts/System integration.md"
               }
             }
           },
@@ -169,8 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cc1bf04ddd186ba",
+  "active": "8a6429c274c415aa",
   "lastOpenFiles": [
+    "Domain_1/1.6/Vendor management.md",
+    "Domain_1/1.6/Concepts/System integration.md",
+    "Domain_1/1.6/Third-party risks.md",
     "Domain_1/1.6/Weak configurations.md",
     "Domain_1/1.6/Concepts/Open ports and services.md",
     "Domain_1/1.6/Concepts/Default settings.md",
@@ -196,9 +211,6 @@
     "Domain_1/1.5/Research sources.md",
     "Domain_1/Strategy.md",
     "Domain_1/1.4/Mobile and Wireless Attacks.md",
-    "Domain_1/1.4/Concepts/Rogue Access Point.md",
-    "Domain_1/1.4/Bluetooth Attacks.md",
-    "Domain_1/1.4/MIM.md",
     "Domain_1/1.5/Concepts/Closed",
     "Closed",
     "Domain_1/1.5/Concepts",
