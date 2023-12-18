@@ -1,12 +1,12 @@
-Intelligence fusion, in the context of threat hunting, involves integrating and analyzing diverse sources of threat intelligence to provide a comprehensive and actionable understanding of potential risks. Here's how intelligence fusion aids in threat hunting:
+**Intelligence fusion, in the context of threat hunting, involves integrating and analyzing diverse [[Threat intelligence sources]] to provide a comprehensive and actionable understanding of potential risks. Here's how intelligence fusion aids in threat hunting**:
 
-1. **Enhanced Visibility:** Combines information from various sources, such as open-source intelligence, industry reports, and government alerts, to provide a more comprehensive view of the threat landscape.
+1. **Enhanced Visibility**: Combines information from various sources, such as open-source intelligence, industry reports, and government alerts, to provide a more comprehensive view of the threat landscape.
     
 2. **Contextual Awareness:** Provides context to potential threats by correlating intelligence data with internal logs and network activity, allowing threat hunters to better understand the relevance and severity of identified indicators.
     
 3. **Timely Detection:** Enables faster detection of emerging threats by incorporating real-time intelligence, allowing organizations to proactively defend against evolving attack techniques and tactics.
     
-4. **Attribution and TTP Analysis:** Helps identify the tactics, techniques, and procedures (TTPs) used by threat actors, aiding in the creation of effective hunting hypotheses and allowing security teams to recognize similar patterns in their environment.
+4. **Attribution and TTP Analysis:** Helps identify the tactics, techniques, and procedures ([[TTP|TTPs]]) used by [[Threat actors|threat actors]], aiding in the creation of effective hunting hypotheses and allowing security teams to recognize similar patterns in their environment.
     
 5. **Prioritization of Threats:** Allows threat hunters to prioritize their efforts based on the credibility and relevance of threat intelligence, focusing on the most critical and pertinent threats to the organization.
     

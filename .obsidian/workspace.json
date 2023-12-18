@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3aab08d1720083da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.7/Concepts/Intelligence fusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.7/Concepts/Intelligence fusion.md",
+                "file": "Domain_1/1.7/Threat hunting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.7/Concepts/Intelligence fusion.md",
+                "file": "Domain_1/1.7/Threat hunting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.7/Concepts/Intelligence fusion.md"
+                "file": "Domain_1/1.7/Threat hunting.md"
               }
             }
           },
@@ -169,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aab08d1720083da",
+  "active": "cd486a6a104e2590",
   "lastOpenFiles": [
-    "Domain_1/1.7/Threat hunting.md",
     "Domain_1/1.7/Concepts/Intelligence fusion.md",
+    "Domain_1/1.7/Threat hunting.md",
     "Domain_1/1.7/Concepts",
     "Domain_1/Strategy.md",
     "Domain_1/1.7",
