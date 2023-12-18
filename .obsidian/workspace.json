@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "657f4fb94fedceb2",
+        "id": "1281d01851845d25",
         "type": "tabs",
         "children": [
           {
-            "id": "eaf4d3dcb05c42b0",
+            "id": "005f9852d6d509ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.7/SOAR.md",
+                "file": "Domain_1/1.8/Penetration Tester.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.7/SOAR.md",
+                "file": "Domain_1/1.8/Penetration Tester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.7/SOAR.md",
+                "file": "Domain_1/1.8/Penetration Tester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.7/SOAR.md"
+                "file": "Domain_1/1.8/Penetration Tester.md"
               }
             }
           },
@@ -156,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaf4d3dcb05c42b0",
+  "active": "005f9852d6d509ff",
   "lastOpenFiles": [
+    "Domain_1/1.8/Penetration Tester.md",
+    "Domain_1/1.8/Concepts",
+    "Domain_1/1.8",
+    "Domain_1/Strategy.md",
     "Domain_1/1.7/SOAR.md",
     "Domain_1/1.7/SIEM.md",
     "Domain_1/1.7/Vulnerability scans.md",
@@ -166,7 +170,6 @@
     "Domain_1/1.7/Concepts/Advisories and bulletins.md",
     "Domain_1/1.7/Concepts/Intelligence fusion.md",
     "Domain_1/1.7/Concepts",
-    "Domain_1/Strategy.md",
     "Domain_1/1.7",
     "Domain_1/1.6/Impacts.md",
     "Domain_1/1.6/Concepts/Availability loss.md",
@@ -185,14 +188,11 @@
     "Domain_1/1.6/Concepts/Data storage.md",
     "Domain_1/1.6/Concepts/Outsourced code development.md",
     "Domain_1/1.6/Concepts/Supply chain.md",
-    "Domain_1/1.6/Vendor management.md",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
     "Domain_1/1.5/Concepts/Closed",
     "Closed",
     "Domain_1/1.5/Concepts",
-    "Domain_1/1.5",
-    "Domain_1/1.4/Concepts",
-    "Domain_1/1.4"
+    "Domain_1/1.5"
   ]
 }

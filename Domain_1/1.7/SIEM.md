@@ -5,7 +5,7 @@ Tagged Concepts:
 - #Domain_1/SIEM 
 Type: [[Final Note Template]]
 - - - 
-Key notes about SIEM
+Key notes about SIEM(Security Information and Event Management)
 
 1. **Centralized Log Management:**
     
