@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "00fc5fc9ff3ad732",
+            "id": "0cc1bf04ddd186ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Unsecure root accounts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d46c008d2d0879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.6/Concepts/Open permissions.md",
+                "file": "Domain_1/1.6/Concepts/Open ports and services.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Unsecure root accounts.md",
+                "file": "Domain_1/1.6/Concepts/Open ports and services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Unsecure root accounts.md",
+                "file": "Domain_1/1.6/Concepts/Open ports and services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.6/Concepts/Unsecure root accounts.md"
+                "file": "Domain_1/1.6/Concepts/Open ports and services.md"
               }
             }
           },
@@ -181,11 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00fc5fc9ff3ad732",
+  "active": "0cc1bf04ddd186ba",
   "lastOpenFiles": [
     "Domain_1/1.6/Weak configurations.md",
-    "Domain_1/1.6/Concepts/Unsecure root accounts.md",
+    "Domain_1/1.6/Concepts/Open ports and services.md",
+    "Domain_1/1.6/Concepts/Default settings.md",
+    "Domain_1/1.6/Concepts/Unsecure protocols.md",
+    "Domain_1/1.6/Concepts/Weak encryption.md",
+    "Domain_1/1.6/Concepts/Errors.md",
     "Domain_1/1.6/Concepts/Open permissions.md",
+    "Domain_1/1.6/Concepts/Unsecure root accounts.md",
     "Domain_1/1.6/Zero-Day.md",
     "Domain_1/1.6/Cloud vs On-premises.md",
     "Domain_1/1.6/Concepts",
@@ -206,11 +199,6 @@
     "Domain_1/1.4/Concepts/Rogue Access Point.md",
     "Domain_1/1.4/Bluetooth Attacks.md",
     "Domain_1/1.4/MIM.md",
-    "Domain_1/1.4/Malicious code or script execution.md",
-    "Domain_1/1.4/Layer 2 Attacks.md",
-    "Domain_1/1.4/DNS Attacks.md",
-    "Domain_1/1.4/Network Attacks.md",
-    "Domain_1/1.5/Concepts/Supply chain vector.md",
     "Domain_1/1.5/Concepts/Closed",
     "Closed",
     "Domain_1/1.5/Concepts",

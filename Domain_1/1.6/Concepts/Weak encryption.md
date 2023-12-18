@@ -1,0 +1,1 @@
+Weak encryption poses risks of unauthorized access and data exposure, compromising confidentiality and integrity. Robust encryption algorithms are crucial for effective protection against cyber threats.

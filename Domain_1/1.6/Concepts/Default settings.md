@@ -1,0 +1,1 @@
+Default settings may expose vulnerabilities, allowing unauthorized access or compromise. Security concerns include weak passwords, open ports, and unnecessary services, increasing the risk of exploitation.
