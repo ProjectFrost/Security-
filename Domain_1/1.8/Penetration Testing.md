@@ -6,3 +6,13 @@ Tagged Concepts:
 Type: [[Final Note Template]]
 - - - 
 
+# [[Known environment]]
+# [[Unknown environment]]
+# [[Partially known environment]]
+# [[Rules of engagement]]
+# [[Lateral movement]]
+# [[Privilege escalation]]
+# [[Persistence]]
+# [[Cleanup]]
+# [[Bug bounty]]
+# [[Pivoting]]

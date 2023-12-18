@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "421cd020c9426fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_1/1.8/Concepts/Known environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.8/Penetration Testing.md",
+                "file": "Domain_1/1.8/Concepts/Known environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.8/Penetration Testing.md",
+                "file": "Domain_1/1.8/Concepts/Known environment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.8/Penetration Testing.md"
+                "file": "Domain_1/1.8/Concepts/Known environment.md"
               }
             }
           },
@@ -155,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2ad95aa9e895e60",
+  "active": "421cd020c9426fa2",
   "lastOpenFiles": [
+    "Domain_1/1.8/Penetration Testing.md",
+    "Domain_1/1.8/Concepts/Known environment.md",
     "Domain_1/1.2/Concepts/Unencrypted.md",
     "Domain_1/1.2/Password Attacks.md",
-    "Domain_1/1.8/Penetration Testing.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/Strategy.md",
@@ -186,7 +200,6 @@
     "Domain_1/1.6/Concepts/OS.md",
     "Domain_1/1.6/Concepts/Firmware.md",
     "Domain_1/1.6/Third-party risks.md",
-    "Domain_1/1.6/Concepts/Data storage.md",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
     "Domain_1/1.5/Concepts/Closed",
