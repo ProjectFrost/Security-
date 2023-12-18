@@ -1,0 +1,1 @@
+Financial consequences for a company can include loss of revenue, legal penalties, data breach recovery costs, damaged reputation, and increased expenses for cybersecurity measures.
