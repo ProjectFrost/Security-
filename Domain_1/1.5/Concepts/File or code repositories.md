@@ -1,0 +1,1 @@
+A file/code repository is a centralized storage location for project files or source code, facilitating collaboration, version control, and history tracking among developers.

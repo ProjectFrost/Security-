@@ -1,0 +1,1 @@
+A threat map displays real-time cyber threats geographically, providing a visual representation of cybersecurity incidents, helping organizations monitor and respond to potential risks effectively.

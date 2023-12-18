@@ -1,0 +1,1 @@
+Trusted Automated eXchange of Indicator Information (TAXII) is a standardized protocol facilitating the exchange of cyber threat intelligence between organizations, enhancing collective cybersecurity defenses.

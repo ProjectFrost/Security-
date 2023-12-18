@@ -1,0 +1,1 @@
+Predictive analysis involves using data, statistical algorithms, and machine learning techniques to identify future trends or outcomes, aiding decision-making by forecasting likely scenarios.

@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4cd4b242d903cf78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.5/Concepts/AIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.5/Concepts/AIS.md",
+                "file": "Domain_1/1.5/Threat intelligence sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.5/Concepts/AIS.md",
+                "file": "Domain_1/1.5/Threat intelligence sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.5/Concepts/AIS.md"
+                "file": "Domain_1/1.5/Threat intelligence sources.md"
               }
             }
           },
@@ -171,10 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cd4b242d903cf78",
+  "active": "1fd76103ac0ee502",
   "lastOpenFiles": [
+    "Domain_1/1.5/Concepts/File or code repositories.md",
     "Domain_1/1.5/Threat intelligence sources.md",
+    "Domain_1/1.5/Concepts/Threat maps.md",
+    "Domain_1/1.5/Concepts/Predictive analysis.md",
     "Domain_1/1.5/Concepts/AIS.md",
+    "Domain_1/1.5/Concepts/TAXII.md",
+    "Domain_1/1.5/Concepts/STIX.md",
     "Domain_1/1.5/Concepts/Indicators of compromise.md",
     "Domain_1/1.5/Concepts/Dark web.md",
     "Domain_1/1.5/Concepts/Public or Private information sharing centers.md",
@@ -196,11 +188,6 @@
     "Domain_1/1.5/Concepts/Removable media Vector.md",
     "Domain_1/1.5/Attributes of actors.md",
     "Domain_1/1.5/Threat actors.md",
-    "Domain_1/1.5/Concepts/Competitors.md",
-    "Domain_1/1.5/Concepts/Shadow IT.md",
-    "Domain_1/1.5/Concepts/Hackers.md",
-    "Domain_1/1.5/Concepts/Semi-authorized Hackers.md",
-    "Domain_1/1.5/Concepts/Unauthorized Hackers.md",
     "Domain_1/1.5/Concepts",
     "Domain_1/1.5",
     "Domain_1/1.4/Concepts",

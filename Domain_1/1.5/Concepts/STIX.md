@@ -1,0 +1,1 @@
+STIX (Structured Threat Information eXpression) is a standardized language for sharing cyber threat intelligence, enhancing communication and collaboration among cybersecurity professionals and tools.
