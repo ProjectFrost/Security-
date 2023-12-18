@@ -1,0 +1,1 @@
+Data loss for a company entails the unintended or unauthorized destruction, corruption, or unavailability of critical information, leading to **financial, operational, and reputational consequences**.

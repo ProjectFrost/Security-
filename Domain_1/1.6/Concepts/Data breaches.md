@@ -1,0 +1,1 @@
+A data breach for a company involves unauthorized access or disclosure of sensitive information, potentially causing **financial loss, reputational damage, and legal consequences.**
