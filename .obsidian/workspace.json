@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "559e729ba005f0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_1/1.5/Concepts/Removable media vector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Removable media vector.md",
+                "file": "Domain_1/1.5/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Removable media vector.md",
+                "file": "Domain_1/1.5/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.5/Concepts/Removable media vector.md"
+                "file": "Domain_1/1.5/Vectors.md"
               }
             }
           },
@@ -169,9 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "559e729ba005f0b1",
+  "active": "61dd38ed9ab332b3",
   "lastOpenFiles": [
+    "Domain_1/1.5/Concepts/Removable media vector.md",
     "Domain_1/1.5/Vectors.md",
+    "Domain_1/1.5/Concepts/Cloud vector.md",
     "Domain_1/1.5/Concepts/Social media vector.md",
     "Domain_1/1.5/Concepts/Email vector.md",
     "Domain_1/1.1/Social Engineering.md",
@@ -189,8 +178,6 @@
     "Domain_1/1.4/Layer 2 Attacks.md",
     "Domain_1/1.4/DNS Attacks.md",
     "Domain_1/1.4/Network Attacks.md",
-    "Domain_1/1.5/Concepts/Cloud vector.md",
-    "Domain_1/1.5/Concepts/Removable media vector.md",
     "Domain_1/1.5/Concepts/Supply chain vector.md",
     "Domain_1/1.5/Concepts/TTP.md",
     "Domain_1/1.5/Concepts/Threat feeds.md",

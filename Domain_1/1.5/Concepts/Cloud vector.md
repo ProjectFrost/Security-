@@ -1,1 +1,1 @@
-Cloud attack vectors include data breaches, insecure APIs, misconfigurations, and account hijacking, exploiting vulnerabilities in cloud infrastructure to compromise sensitive information and disrupt services.
+Cloud attack vectors include [[Data breaches|data breaches]], insecure APIs, misconfigurations, and account hijacking, exploiting vulnerabilities in cloud infrastructure to compromise sensitive information and disrupt services.
