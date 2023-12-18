@@ -1,1 +1,1 @@
-Stands for Open Source Intelligence. 
+OSINT (Open-Source Intelligence) is the collection and analysis of publicly available information from various sources to gain insights and understanding about a target or subject.

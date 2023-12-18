@@ -1,0 +1,1 @@
+Collaborative platform where organizations share cyber threat intelligence to enhance collective cybersecurity, fostering early detection and effective response against evolving cyber threats. It can be either public or  private

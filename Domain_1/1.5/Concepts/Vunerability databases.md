@@ -1,0 +1,1 @@
+A vulnerability database is a repository that catalogues and provides information about software or system weaknesses, aiding in cybersecurity by helping identify and patch potential risks.
