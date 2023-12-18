@@ -13,4 +13,3 @@ Type: [[Final Note Template]]
 # [[Removable media vector]]
 # [[Cloud vector]]
 
-/commit
