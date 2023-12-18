@@ -1,0 +1,1 @@
+A rogue access point is an unauthorized and potentially malicious wireless access point connected to a network, often used to intercept or manipulate network traffic.
