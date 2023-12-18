@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "535f20b6bf6b0b56",
+        "id": "995b2c3aa1df0885",
         "type": "tabs",
         "children": [
           {
-            "id": "7327931a8f92a239",
+            "id": "0033f30dba92ee02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_1/1.6/Improper or weak patch management.md",
+                "file": "Domain_1/1.6/Legacy platforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_1/1.6/Improper or weak patch management.md",
+                "file": "Domain_1/1.6/Legacy platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_1/1.6/Improper or weak patch management.md",
+                "file": "Domain_1/1.6/Legacy platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_1/1.6/Improper or weak patch management.md"
+                "file": "Domain_1/1.6/Legacy platforms.md"
               }
             }
           },
@@ -156,10 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7327931a8f92a239",
+  "active": "0033f30dba92ee02",
   "lastOpenFiles": [
-    "Domain_1/1.6/Third-party risks.md",
     "Domain_1/1.6/Improper or weak patch management.md",
+    "Domain_1/1.6/Legacy platforms.md",
+    "Domain_1/1.6/Concepts/Applications.md",
+    "Domain_1/1.6/Concepts/OS.md",
+    "Domain_1/1.6/Concepts/Firmware.md",
+    "Domain_1/1.6/Third-party risks.md",
     "Domain_1/1.6/Concepts/Data storage.md",
     "Domain_1/1.6/Concepts/Outsourced code development.md",
     "Domain_1/1.6/Concepts/Supply chain.md",
@@ -182,10 +186,6 @@
     "Domain_1/1.5/Concepts/Removable media vector.md",
     "Domain_1/1.5/Concepts/Cloud vector.md",
     "Domain_1/1.5/Concepts/Social media vector.md",
-    "Domain_1/1.5/Concepts/Email vector.md",
-    "Domain_1/1.1/Social Engineering.md",
-    "Domain_1/1.5/Concepts/Wireless vector.md",
-    "Domain_1/1.5/Concepts/Direct Access vector.md",
     "Domain_1/1.5/Concepts/Closed",
     "Closed",
     "Domain_1/1.5/Concepts",

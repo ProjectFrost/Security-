@@ -1,0 +1,1 @@
+Improper or weak firmware patching poses security risks, leaving systems vulnerable to exploits, malware, and unauthorized access, potentially compromising the integrity and functionality of devices.

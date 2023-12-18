@@ -1,0 +1,1 @@
+Improper or weak OS patching can lead to vulnerabilities, exposing systems to exploits, malware, and unauthorized access, compromising overall cybersecurity and data integrity.

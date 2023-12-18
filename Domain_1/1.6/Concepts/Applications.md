@@ -1,0 +1,1 @@
+Improper or weak patching of applications can lead to security vulnerabilities, enabling cyberattacks like exploitation of known flaws, unauthorized access, and data breaches.
