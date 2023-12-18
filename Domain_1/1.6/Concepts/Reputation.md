@@ -1,0 +1,1 @@
+Reputational consequences for a company include damage to brand image, loss of customer trust, and decreased market value, often resulting from security breaches or unethical practices.

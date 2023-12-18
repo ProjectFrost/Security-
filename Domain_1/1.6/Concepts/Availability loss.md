@@ -1,0 +1,1 @@
+Loss of availability disrupts operations, causing downtime, financial losses, damage to reputation, and hindered productivity, impacting a company's ability to serve customers and meet business goals.
