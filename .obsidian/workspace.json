@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d86c55f61cb9e73e",
+        "id": "b0ddc7809ca22601",
         "type": "tabs",
         "children": [
           {
-            "id": "b97581dbead3eb53",
+            "id": "b88b856821042842",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -147,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b97581dbead3eb53",
+  "active": "b88b856821042842",
   "lastOpenFiles": [
+    "Domain_1/1.2/Concepts/Plaintext.md",
+    "Domain_1/1.2/Password Attacks.md",
     "Domain_1/1.8/Exercise types.md",
     "Domain_1/1.8/Concepts/Purple-Team.md",
     "Domain_1/1.8/Concepts/White-Team.md",
@@ -170,8 +172,6 @@
     "Domain_1/1.8/Concepts/Partially known environment.md",
     "Domain_1/1.8/Concepts/Unknown environment.md",
     "Domain_1/1.8/Concepts/Known environment.md",
-    "Domain_1/1.2/Concepts/Unencrypted.md",
-    "Domain_1/1.2/Password Attacks.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/Strategy.md",
