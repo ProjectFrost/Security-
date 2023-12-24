@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ddc7809ca22601",
+        "id": "825d141a98dcc054",
         "type": "tabs",
         "children": [
           {
-            "id": "b88b856821042842",
+            "id": "fc238ec95de2b531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/Strategy.md",
+                "file": "Domain_2/2.1/Security Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/Strategy.md",
+                "file": "Domain_2/2.1/Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/Strategy.md",
+                "file": "Domain_2/2.1/Security Concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/Strategy.md"
+                "file": "Domain_2/2.1/Security Concepts.md"
               }
             }
           },
@@ -155,10 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b88b856821042842",
+  "active": "fc238ec95de2b531",
   "lastOpenFiles": [
-    "Domain_1/Strategy.md",
+    "Domain_2/2.1/Security Concepts.md",
+    "Domain_2/2.1/Concepts",
+    "Domain_2/2.1",
+    "Domain_2/Untitled.md",
     "Domain_2/Strategy.md",
+    "Domain_1/Strategy.md",
     "Domain_1/1.2/Concepts/Plaintext.md",
     "Domain_1/1.2/Password Attacks.md",
     "Domain_1/1.8/Exercise types.md",
@@ -181,17 +185,13 @@
     "Domain_1/1.8/Concepts/Rules of engagement.md",
     "Domain_1/1.8/Concepts/Partially known environment.md",
     "Domain_1/1.8/Concepts/Unknown environment.md",
-    "Domain_1/1.8/Concepts/Known environment.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
-    "Domain_1/1.7/SOAR.md",
     "Domain_1/1.7/Concepts",
     "Domain_1/1.7",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
     "Domain_1/1.5/Concepts/Closed",
-    "Closed",
-    "Domain_1/1.5/Concepts",
-    "Domain_1/1.5"
+    "Closed"
   ]
 }
