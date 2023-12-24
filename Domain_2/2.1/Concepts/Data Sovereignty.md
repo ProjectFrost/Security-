@@ -1,0 +1,1 @@
+Data sovereignty is crucial for enterprise security and compliance, ensuring data is stored in accordance with legal requirements, protecting privacy, and mitigating regulatory risks.
