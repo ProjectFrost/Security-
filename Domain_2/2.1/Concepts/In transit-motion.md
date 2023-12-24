@@ -1,0 +1,1 @@
+Data protection in transit secures information during transmission. Achieve it in an enterprise with [[Encryption|encryption]] (SSL/TLS), VPNs, and secure protocols, ensuring confidentiality and integrity of communication.

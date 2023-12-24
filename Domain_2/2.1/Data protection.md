@@ -12,7 +12,7 @@ Data protection in an enterprise safeguards sensitive information, ensuring conf
 # [[Masking]]
 # [[Encryption]]
 # [[At rest]]
-# [[In transit/motion]]
+# [[In transit-motion]]
 # [[In processing]]
 # [[Tokenization]]
 # [[Rights management]]

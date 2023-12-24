@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b150b5a7cd6dbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In transit/motion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In transit/motion.md",
+                "file": "Domain_2/2.1/Data protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In transit/motion.md",
+                "file": "Domain_2/2.1/Data protection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In transit/motion.md"
+                "file": "Domain_2/2.1/Data protection.md"
               }
             }
           },
@@ -182,13 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b150b5a7cd6dbec",
+  "active": "e2251e510aa17d2d",
   "lastOpenFiles": [
+    "Domain_2/2.1/Concepts/In processing.md",
     "Domain_2/2.1/Data protection.md",
+    "Domain_2/2.1/Concepts/In transit-motion.md",
+    "Domain_2/2.1/Security Concepts.md",
     "In transit/motion.md",
     "In transit",
     "Domain_2/2.1/Concepts/At rest.md",
-    "Domain_2/2.1/Security Concepts.md",
     "Domain_2/2.1/Concepts/Encryption.md",
     "Domain_2/2.1/Concepts/Masking.md",
     "Domain_2/2.1/Concepts/DLP.md",
@@ -211,8 +201,6 @@
     "Domain_1/1.8/Concepts/White-Team.md",
     "Domain_1/1.8/Concepts/Blue-Team.md",
     "Domain_1/1.8/Concepts/Red-Team.md",
-    "Domain_1/1.8/Reconnaisance.md",
-    "Domain_1/1.8/Concepts/War driving.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/1.7/Concepts",

@@ -1,0 +1,1 @@
+Protect data during processing by encrypting it, implementing access controls, and securing the processing environment. Regularly audit and monitor for unauthorized access or activities.
