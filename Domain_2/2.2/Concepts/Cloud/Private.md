@@ -1,0 +1,1 @@
+Exclusive use by a single organization, offering control, customization, and security. Can be on-premises or hosted by a third party

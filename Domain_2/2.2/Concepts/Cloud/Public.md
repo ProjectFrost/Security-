@@ -1,0 +1,1 @@
+Services provided by third-party providers accessible over the internet. Shared resources with cost efficiency, scalability, and reduced maintenance.

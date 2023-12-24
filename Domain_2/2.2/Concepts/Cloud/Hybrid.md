@@ -1,0 +1,1 @@
+Integration of public and private clouds, allowing data and applications to move seamlessly. Offers flexibility, scalability, and optimal resource utilization.

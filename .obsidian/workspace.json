@@ -10,13 +10,15 @@
           {
             "id": "af8cd09650cfcbb6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Domain_2/2.2/Virtualization and cloud computing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -30,9 +32,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6829b53606de7554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e2769e77c0c94ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.2/Concepts/Cloud/Defined by access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.2/Cloud models.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.2/Cloud models.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.2/Cloud models.md"
+                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md"
               }
             }
           },
@@ -168,10 +194,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5508511627e5411c",
+  "active": "6829b53606de7554",
   "lastOpenFiles": [
-    "Domain_2/2.2/Virtualization and cloud computing.md",
     "Domain_2/2.2/Cloud models.md",
+    "Domain_2/2.2/Concepts/Cloud/Defined by access.md",
+    "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
+    "Domain_2/2.2/Concepts/Cloud/Private.md",
+    "Domain_2/2.2/Concepts/Cloud/Public.md",
+    "Domain_2/2.2/Virtualization and cloud computing.md",
+    "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
+    "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.1/Security Concepts.md",
     "Domain_2/2.2",
@@ -193,18 +225,12 @@
     "Domain_2/2.1/Data protection.md",
     "Domain_2/2.1/Concepts/Rights management.md",
     "Domain_2/2.1/Concepts/Tokenization.md",
-    "Domain_2/2.1/Concepts/In processing.md",
-    "Domain_2/2.1/Concepts/In transit-motion.md",
-    "In transit/motion.md",
     "In transit",
-    "Domain_2/2.1/Concepts/At rest.md",
-    "Domain_2/2.1/Concepts/Encryption.md",
     "Domain_2/2.1/Concepts",
     "Domain_2/2.1",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/1.7/Concepts",
-    "Domain_1/1.7",
-    "Domain_1/1.6/Concepts"
+    "Domain_1/1.7"
   ]
 }
