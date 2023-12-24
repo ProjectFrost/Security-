@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b150b5a7cd6dbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In transit/motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.1/Data protection.md",
+                "file": "In transit/motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.1/Data protection.md",
+                "file": "In transit/motion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.1/Data protection.md"
+                "file": "In transit/motion.md"
               }
             }
           },
@@ -170,10 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2251e510aa17d2d",
+  "active": "3b150b5a7cd6dbec",
   "lastOpenFiles": [
-    "Domain_2/2.1/Security Concepts.md",
     "Domain_2/2.1/Data protection.md",
+    "In transit/motion.md",
+    "In transit",
+    "Domain_2/2.1/Concepts/At rest.md",
+    "Domain_2/2.1/Security Concepts.md",
+    "Domain_2/2.1/Concepts/Encryption.md",
+    "Domain_2/2.1/Concepts/Masking.md",
+    "Domain_2/2.1/Concepts/DLP.md",
     "Domain_2/2.1/Concepts/Data Sovereignty.md",
     "Domain_2/2.1/Configuration management.md",
     "Domain_2/2.1/Concepts/IP Schema.md",
@@ -195,18 +213,12 @@
     "Domain_1/1.8/Concepts/Red-Team.md",
     "Domain_1/1.8/Reconnaisance.md",
     "Domain_1/1.8/Concepts/War driving.md",
-    "Domain_1/1.8/Concepts/Footprinting.md",
-    "Domain_1/1.8/Concepts/War flying.md",
-    "Domain_1/1.8/Concepts/Drones.md",
-    "Domain_1/1.8/Penetration Testing.md",
-    "Domain_1/1.8/Concepts/Pivoting.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/1.7/Concepts",
     "Domain_1/1.7",
     "Domain_1/1.6/Concepts",
     "Domain_1/1.6",
-    "Domain_1/1.5/Concepts/Closed",
-    "Closed"
+    "Domain_1/1.5/Concepts/Closed"
   ]
 }

@@ -1,0 +1,1 @@
+Encryption safeguards sensitive data, preventing unauthorized access. In an enterprise, it is vital for securing confidential information, maintaining privacy, and meeting regulatory requirements.

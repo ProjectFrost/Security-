@@ -1,0 +1,1 @@
+Data protection at rest secures information when stored. [[Encryption]] and access controls are crucial. Use strong encryption methods and manage access keys securely for enterprise data protection.

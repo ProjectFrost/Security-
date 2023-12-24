@@ -1,0 +1,1 @@
+Masking conceals sensitive data, reducing exposure to unauthorized users. In an enterprise, it safeguards privacy, complies with regulations, and mitigates the risk of data breaches.
