@@ -1,0 +1,1 @@
+Transit gateways are network devices that streamline and manage traffic flow in a cloud environment. Key concepts include centralization, scalability, connectivity, and simplified network architecture.

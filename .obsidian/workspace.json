@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "9887bd576bc5936b",
+            "id": "0c556acef069fb9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Serverless architecture.md",
+                "file": "Domain_2/2.2/Virtualization.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Serverless architecture.md",
+                "file": "Domain_2/2.2/Virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Serverless architecture.md",
+                "file": "Domain_2/2.2/Virtualization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Serverless architecture.md"
+                "file": "Domain_2/2.2/Virtualization.md"
               }
             }
           },
@@ -170,9 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9887bd576bc5936b",
+  "active": "0c556acef069fb9a",
   "lastOpenFiles": [
     "Domain_2/2.2/Virtualization and cloud computing.md",
+    "Domain_2/2.2/Virtualization.md",
+    "Domain_2/2.2/Concepts/Cloud/Transit gateway.md",
+    "Domain_2/2.2/Concepts/Resource policies.md",
+    "Domain_2/2.2/Concepts/Services integration.md",
+    "Domain_2/2.2/Concepts/Service integration.md",
     "Domain_2/2.2/Concepts/Serverless architecture.md",
     "Domain_2/2.2/Infrastructure as code.md",
     "Domain_2/2.2/Concepts/SDV.md",
@@ -193,11 +198,6 @@
     "Domain_2/2.2/Concepts/MSP.md",
     "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md",
     "Domain_2/2.2/Cloud models.md",
-    "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
-    "Domain_2/2.2/Concepts/Cloud/XaaS.md",
-    "Domain_2/2.2/Concepts/Cloud/Defined by access.md",
-    "Domain_2/2.2/Concepts/Cloud/Community.md",
-    "Domain_2/2.2/Concepts/Cloud/SaaS.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.2",
