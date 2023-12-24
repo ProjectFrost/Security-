@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4551db7574f73c95",
+        "id": "032cb3883c420f18",
         "type": "tabs",
         "children": [
           {
-            "id": "af8cd09650cfcbb6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.2/Virtualization and cloud computing.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0c556acef069fb9a",
+            "id": "ead6a86e73f2db44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.2/Virtualization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.2/Virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.2/Virtualization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Domain_2/2.2/Virtualization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c556acef069fb9a",
+  "active": "ead6a86e73f2db44",
   "lastOpenFiles": [
     "Domain_2/2.2/Virtualization and cloud computing.md",
     "Domain_2/2.2/Virtualization.md",
+    "Domain_2/2.2/Concepts/VM escape protection.md",
+    "Domain_2/2.2/Concepts/VM sprawl avoidance.md",
     "Domain_2/2.2/Concepts/Cloud/Transit gateway.md",
     "Domain_2/2.2/Concepts/Resource policies.md",
     "Domain_2/2.2/Concepts/Services integration.md",
@@ -196,8 +175,6 @@
     "Domain_2/2.2/MSP - MSSP.md",
     "Domain_2/2.2/Concepts/MSSP.md",
     "Domain_2/2.2/Concepts/MSP.md",
-    "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md",
-    "Domain_2/2.2/Cloud models.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.2",
