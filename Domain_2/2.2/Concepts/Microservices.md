@@ -1,0 +1,5 @@
+- Architectural approach to software development.
+- Decomposes applications into small, independent services.
+- Each service performs a specific business function.
+- Enables flexibility, scalability, and independent deployment.
+- Challenges include managing communication and data consistency.

@@ -1,0 +1,5 @@
+- Defines rules for how software components should interact.
+- Facilitates communication between different software systems.
+- RESTful APIs are common, using HTTP methods.
+- Promotes modularity, interoperability, and collaboration.
+- Security considerations include authentication and authorization.
