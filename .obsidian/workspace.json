@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "989131218cd91ac9",
+            "id": "9887bd576bc5936b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.2/Infrastructure as code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "033181c6cfa21375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.2/Concepts/SDN.md",
+                "file": "Domain_2/2.2/Concepts/Serverless architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.2/Concepts/SDN.md",
+                "file": "Domain_2/2.2/Concepts/Serverless architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.2/Concepts/SDN.md",
+                "file": "Domain_2/2.2/Concepts/Serverless architecture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.2/Concepts/SDN.md"
+                "file": "Domain_2/2.2/Concepts/Serverless architecture.md"
               }
             }
           },
@@ -182,11 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "033181c6cfa21375",
+  "active": "9887bd576bc5936b",
   "lastOpenFiles": [
-    "Domain_2/2.2/Infrastructure as code.md",
-    "Domain_2/2.2/Concepts/SDN.md",
     "Domain_2/2.2/Virtualization and cloud computing.md",
+    "Domain_2/2.2/Concepts/Serverless architecture.md",
+    "Domain_2/2.2/Infrastructure as code.md",
+    "Domain_2/2.2/Concepts/SDV.md",
+    "Domain_2/2.2/Concepts/SDN.md",
     "Domain_2/2.2/Microservices - API.md",
     "Domain_2/2.2/Concepts/API.md",
     "Domain_2/2.2/Concepts/Microservices.md",
@@ -208,8 +198,6 @@
     "Domain_2/2.2/Concepts/Cloud/Defined by access.md",
     "Domain_2/2.2/Concepts/Cloud/Community.md",
     "Domain_2/2.2/Concepts/Cloud/SaaS.md",
-    "Domain_2/2.2/Concepts/Cloud/PaaS.md",
-    "Domain_2/2.2/Concepts/Cloud/IaaS.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.2",
