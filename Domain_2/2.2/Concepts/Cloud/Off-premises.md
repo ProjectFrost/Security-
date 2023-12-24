@@ -1,0 +1,4 @@
+- Cloud service provider hosts infrastructure.
+- Pay-as-you-go model.
+- Outsourced maintenance and security.
+- Scalable and accessible from anywhere.

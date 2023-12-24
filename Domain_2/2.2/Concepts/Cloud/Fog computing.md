@@ -1,0 +1,1 @@
+Fog computing extends cloud capabilities to the **edge of the network**, improving latency and efficiency. It decentralizes computing resources, enhances real-time processing, and supports IoT applications.

@@ -1,0 +1,4 @@
+- Locally hosted IT infrastructure.
+- Full control over hardware and data.
+- Capital expenses for equipment.
+- Requires in-house maintenance.
