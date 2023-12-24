@@ -1,0 +1,1 @@
+Fake telemetry in deception disrupts attackers' reconnaissance by providing misleading data, diverting their attention, and enhancing the security posture through confusion and misdirection.

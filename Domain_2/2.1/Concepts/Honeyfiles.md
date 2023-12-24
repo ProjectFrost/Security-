@@ -1,0 +1,1 @@
+Honeyfiles are decoy files that, when accessed, signal potential threats. In an enterprise, they enhance deception, providing early detection and disrupting attackers' activities.

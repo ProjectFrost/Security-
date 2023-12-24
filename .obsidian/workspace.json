@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "825d141a98dcc054",
+        "id": "4551db7574f73c95",
         "type": "tabs",
         "children": [
           {
-            "id": "fc238ec95de2b531",
+            "id": "af8cd09650cfcbb6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.1/Security Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.1/Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.1/Security Concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Domain_2/2.1/Security Concepts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,13 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc238ec95de2b531",
+  "active": "4309cc7b66a6a9c2",
   "lastOpenFiles": [
+    "Domain_2/2.2/Concepts",
+    "Domain_2/2.1/Security Concepts.md",
+    "Domain_2/2.2",
+    "Domain_2/2.1/Deception and disruption.md",
+    "Domain_2/2.1/Concepts/DNS sinkhole.md",
+    "Domain_2/2.1/Concepts/Fake telemetry.md",
+    "Domain_2/2.1/Concepts/Honeynets.md",
+    "Domain_2/2.1/Concepts/Honeyfiles.md",
+    "Domain_2/2.1/Concepts/Honeypots.md",
     "Domain_2/2.1/Site resiliency.md",
     "Domain_2/2.1/Concepts/Cold site.md",
     "Domain_2/2.1/Concepts/Warm site.md",
     "Domain_2/2.1/Concepts/Hot site.md",
-    "Domain_2/2.1/Security Concepts.md",
     "Domain_2/2.1/Concepts/API Considerations.md",
     "Domain_2/2.1/Concepts/Hashing.md",
     "Domain_2/2.1/Concepts/SSL-TLS Inspection.md",
@@ -179,13 +177,6 @@
     "Domain_2/2.1/Concepts/At rest.md",
     "Domain_2/2.1/Concepts/Encryption.md",
     "Domain_2/2.1/Concepts/Masking.md",
-    "Domain_2/2.1/Concepts/DLP.md",
-    "Domain_2/2.1/Concepts/Data Sovereignty.md",
-    "Domain_2/2.1/Configuration management.md",
-    "Domain_2/2.1/Concepts/IP Schema.md",
-    "Domain_2/2.1/Concepts/Baseline configuration.md",
-    "Domain_2/2.1/Concepts/Diagrams.md",
-    "Configuration management.md",
     "Domain_2/2.1/Concepts",
     "Domain_2/2.1",
     "Domain_1/1.8/Concepts",
@@ -193,7 +184,6 @@
     "Domain_1/1.7/Concepts",
     "Domain_1/1.7",
     "Domain_1/1.6/Concepts",
-    "Domain_1/1.6",
-    "Domain_1/1.5/Concepts/Closed"
+    "Domain_1/1.6"
   ]
 }

@@ -1,0 +1,1 @@
+DNS sinkholes disrupt malicious activities by redirecting traffic to a controlled environment. They enhance cybersecurity by detecting threats, deceiving attackers, and preventing malicious communications in an enterprise network.
