@@ -22,43 +22,19 @@
             }
           },
           {
-            "id": "5508511627e5411c",
+            "id": "493a568e01330381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.2/Cloud models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6829b53606de7554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2769e77c0c94ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Defined by access.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md"
+                "file": "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md"
               }
             }
           },
@@ -194,15 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6829b53606de7554",
+  "active": "493a568e01330381",
   "lastOpenFiles": [
+    "Domain_2/2.2/Virtualization and cloud computing.md",
+    "Domain_2/2.2/Concepts/Cloud/Cloud service providers.md",
     "Domain_2/2.2/Cloud models.md",
+    "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
+    "Domain_2/2.2/Concepts/Cloud/XaaS.md",
     "Domain_2/2.2/Concepts/Cloud/Defined by access.md",
+    "Domain_2/2.2/Concepts/Cloud/Community.md",
+    "Domain_2/2.2/Concepts/Cloud/SaaS.md",
+    "Domain_2/2.2/Concepts/Cloud/PaaS.md",
+    "Domain_2/2.2/Concepts/Cloud/IaaS.md",
     "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
     "Domain_2/2.2/Concepts/Cloud/Private.md",
     "Domain_2/2.2/Concepts/Cloud/Public.md",
-    "Domain_2/2.2/Virtualization and cloud computing.md",
-    "Domain_2/2.2/Concepts/Cloud/Defined by services provided.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.1/Security Concepts.md",
@@ -219,12 +201,6 @@
     "Domain_2/2.1/Concepts/Hot site.md",
     "Domain_2/2.1/Concepts/API Considerations.md",
     "Domain_2/2.1/Concepts/Hashing.md",
-    "Domain_2/2.1/Concepts/SSL-TLS Inspection.md",
-    "Domain_2/2.1/Concepts/Response and recovery controls.md",
-    "Domain_2/2.1/Concepts/Geographical considerations.md",
-    "Domain_2/2.1/Data protection.md",
-    "Domain_2/2.1/Concepts/Rights management.md",
-    "Domain_2/2.1/Concepts/Tokenization.md",
     "In transit",
     "Domain_2/2.1/Concepts",
     "Domain_2/2.1",

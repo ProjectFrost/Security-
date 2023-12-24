@@ -1,0 +1,1 @@
+Cloud provider offers a platform with tools and services for application development. Simplifies deployment, reducing infrastructure management for users.

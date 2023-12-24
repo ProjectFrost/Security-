@@ -1,0 +1,1 @@
+Software applications provided by a third party, accessible via the internet. Users access applications without worrying about underlying infrastructure or maintenance.

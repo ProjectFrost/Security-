@@ -1,0 +1,1 @@
+Community clouds are shared cloud infrastructures among organizations with common interests, needs, or compliance requirements, fostering collaboration, cost-sharing, and resource optimization while ensuring shared security and governance.
