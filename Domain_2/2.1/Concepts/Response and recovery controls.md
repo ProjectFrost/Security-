@@ -1,0 +1,1 @@
+Response and recovery controls are vital in mitigating and rebounding from cybersecurity incidents, ensuring business continuity, minimizing damage, and restoring normal operations promptly.

@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e2251e510aa17d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.1/Data protection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.1/Data protection.md",
+                "file": "Domain_2/2.1/Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.1/Data protection.md",
+                "file": "Domain_2/2.1/Security Concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.1/Data protection.md"
+                "file": "Domain_2/2.1/Security Concepts.md"
               }
             }
           },
@@ -170,12 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2251e510aa17d2d",
+  "active": "fc238ec95de2b531",
   "lastOpenFiles": [
-    "Domain_2/2.1/Concepts/In processing.md",
-    "Domain_2/2.1/Data protection.md",
-    "Domain_2/2.1/Concepts/In transit-motion.md",
+    "Domain_2/2.1/Concepts/Response and recovery controls.md",
     "Domain_2/2.1/Security Concepts.md",
+    "Domain_2/2.1/Concepts/Geographical considerations.md",
+    "Domain_2/2.1/Data protection.md",
+    "Domain_2/2.1/Concepts/Rights management.md",
+    "Domain_2/2.1/Concepts/Tokenization.md",
+    "Domain_2/2.1/Concepts/In processing.md",
+    "Domain_2/2.1/Concepts/In transit-motion.md",
     "In transit/motion.md",
     "In transit",
     "Domain_2/2.1/Concepts/At rest.md",
@@ -197,10 +188,6 @@
     "Domain_1/1.2/Concepts/Plaintext.md",
     "Domain_1/1.2/Password Attacks.md",
     "Domain_1/1.8/Exercise types.md",
-    "Domain_1/1.8/Concepts/Purple-Team.md",
-    "Domain_1/1.8/Concepts/White-Team.md",
-    "Domain_1/1.8/Concepts/Blue-Team.md",
-    "Domain_1/1.8/Concepts/Red-Team.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
     "Domain_1/1.7/Concepts",
