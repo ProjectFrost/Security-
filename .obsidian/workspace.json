@@ -11,8 +11,12 @@
             "id": "b88b856821042842",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Domain_2/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Domain_2/Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Domain_2/Strategy.md"
+              }
             }
           },
           {
@@ -149,6 +157,8 @@
   },
   "active": "b88b856821042842",
   "lastOpenFiles": [
+    "Domain_1/Strategy.md",
+    "Domain_2/Strategy.md",
     "Domain_1/1.2/Concepts/Plaintext.md",
     "Domain_1/1.2/Password Attacks.md",
     "Domain_1/1.8/Exercise types.md",
@@ -174,9 +184,7 @@
     "Domain_1/1.8/Concepts/Known environment.md",
     "Domain_1/1.8/Concepts",
     "Domain_1/1.8",
-    "Domain_1/Strategy.md",
     "Domain_1/1.7/SOAR.md",
-    "Domain_1/1.7/SIEM.md",
     "Domain_1/1.7/Concepts",
     "Domain_1/1.7",
     "Domain_1/1.6/Concepts",
