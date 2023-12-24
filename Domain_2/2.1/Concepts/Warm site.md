@@ -1,0 +1,1 @@
+A warm site is a partially equipped backup facility with essential IT infrastructure that can be operational relatively quickly in the event of a disaster or disruption.

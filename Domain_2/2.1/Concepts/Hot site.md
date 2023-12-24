@@ -1,0 +1,1 @@
+A hot site is a fully equipped, ready-to-use backup facility with real-time data replication, allowing rapid restoration of IT operations in the event of a disaster.

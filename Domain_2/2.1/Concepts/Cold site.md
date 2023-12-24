@@ -1,0 +1,1 @@
+A cold site is a backup facility with essential infrastructure but lacks active equipment. It requires setup and configuration during a disaster for business continuity.
