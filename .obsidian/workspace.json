@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.3/Secure coding techniques.md",
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b22337e4142ce93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.3/Concepts/OWASP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.3/Secure coding techniques.md",
+                "file": "Domain_2/2.3/Concepts/OWASP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.3/Secure coding techniques.md",
+                "file": "Domain_2/2.3/Concepts/OWASP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.3/Secure coding techniques.md"
+                "file": "Domain_2/2.3/Concepts/OWASP.md"
               }
             }
           },
@@ -170,18 +182,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c90c2c01209ad01a",
+  "active": "9b22337e4142ce93",
   "lastOpenFiles": [
-    "Domain_2/2.3/Concepts/Server-side vs Client side execution and validation.md",
+    "Domain_2/2.3/Apps development,deployment and automation.md",
+    "Domain_2/2.3/Concepts/OWASP.md",
+    "Domain_2/2.3/Environments.md",
     "Domain_2/2.3/Secure coding techniques.md",
+    "Domain_2/2.3/Concepts/Data exposure.md",
+    "Domain_2/2.3/Concepts/SDKs and third party libraries.md",
+    "Domain_2/2.3/Concepts/Memory management.md",
+    "Domain_2/2.3/Concepts/Server-side vs Client side execution and validation.md",
     "Domain_2/2.3/Concepts/Obfuscation - Camouflage.md",
     "Domain_2/2.3/Concepts/Code reuse - Dead code.md",
     "Domain_2/2.3/Concepts/Stored procedures.md",
     "Domain_2/2.3/Concepts/Normalization.md",
-    "Domain_2/2.3/Apps development,deployment and automation.md",
     "Domain_2/2.3/Concepts/Integrity measurement.md",
     "Domain_2/2.3/Concepts/Provisioning and deprovisioning.md",
-    "Domain_2/2.3/Environments.md",
     "Domain_2/2.3/Concepts/Development.md",
     "Domain_2/2.3/Concepts/Quality Assurance.md",
     "Domain_2/2.3/Concepts/Production.md",
@@ -196,10 +212,6 @@
     "Domain_2/2.2/Concepts/Cloud/Transit gateway.md",
     "Domain_2/2.2/Concepts/Resource policies.md",
     "Domain_2/2.2/Concepts/Services integration.md",
-    "Domain_2/2.2/Concepts/Service integration.md",
-    "Domain_2/2.2/Concepts/Serverless architecture.md",
-    "Domain_2/2.2/Infrastructure as code.md",
-    "Domain_2/2.2/Concepts/SDV.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.2",
