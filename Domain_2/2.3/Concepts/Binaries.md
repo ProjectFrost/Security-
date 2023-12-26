@@ -1,0 +1,1 @@
+Executable files, often referred to as binaries, are machine-readable files that contain compiled code. These files can be run or executed by a computer to perform specific tasks. Executable files can have various formats depending on the operating system, such as .exe for Windows or without a specific extension on Unix-like systems.

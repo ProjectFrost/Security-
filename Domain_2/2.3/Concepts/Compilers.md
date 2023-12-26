@@ -14,7 +14,7 @@ In software diversity, compilers play a crucial role in generating varied execut
     - Implementing CFI techniques in compilers to protect against control flow hijacking attacks by validating the integrity of the program's control flow.
 5. **Code Obfuscation:**
     
-    - Introducing code obfuscation techniques during compilation to obscure the code's logic and structure, making it more resistant to reverse engineering and analysis.
+    - Introducing [[Obfuscation - Camouflage|code obfuscation]] techniques during compilation to obscure the code's logic and structure, making it more resistant to reverse engineering and analysis.
 6. **Binary Stirring:**
     
     - Rearranging code sections in the binary during compilation to create diverse binaries and thwart automated attacks that rely on consistent binary structures.
