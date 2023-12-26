@@ -2,7 +2,7 @@
 Source:
 Date Created:  24-12-2023
 Tagged Concepts:
-- #Domain_2/Infrastructure_as_code 
+- #Domain_2/IaC 
 Type: [[Final Note Template]]
 - - - 
 

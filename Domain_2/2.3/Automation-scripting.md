@@ -42,7 +42,7 @@ Automation and scripting in cybersecurity are essential for efficiency and consi
 By leveraging automation and scripting, cybersecurity professionals can enhance the overall security posture, respond more effectively to threats, and ensure the consistency and reliability of security processes.
 
 # [[Continous monitoring]]
-# [[Continous monitoring]]
-# [[Continous monitoring]]
-# [[Continous monitoring]]
-# [[Continous monitoring]]
+# [[Continous validation]]
+# [[Continous integration]]
+# [[Continous delivery]]
+# [[Continous deployment]]
