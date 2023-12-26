@@ -1,0 +1,1 @@
+Integrity measurement ensures the trustworthiness of system components by verifying their integrity through hash values. Key concepts include secure boot, measured boot, and attestation for establishing and maintaining system integrity.
