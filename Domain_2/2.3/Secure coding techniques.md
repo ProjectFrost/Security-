@@ -7,3 +7,4 @@ Type: [[Final Note Template]]
 - - - 
 
 
+# [[Normalization]]
