@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.3/Environments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0275df0bbc6672ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.3/Concepts/Development.md",
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.3/Environments.md",
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.3/Environments.md",
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.3/Environments.md"
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md"
               }
             }
           },
@@ -169,11 +157,13 @@
   },
   "active": "ad48857bc24d02b5",
   "lastOpenFiles": [
-    "Domain_2/2.3/Concepts/Production.md",
     "Domain_2/2.3/Environments.md",
+    "Domain_2/2.3/Apps development,deployment and automation.md",
+    "Domain_2/2.3/Concepts/Development.md",
+    "Domain_2/2.3/Concepts/Quality Assurance.md",
+    "Domain_2/2.3/Concepts/Production.md",
     "Domain_2/2.3/Concepts/Staging.md",
     "Domain_2/2.3/Concepts/Test.md",
-    "Domain_2/2.3/Concepts/Development.md",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
     "Domain_2/2.2/Virtualization and cloud computing.md",
@@ -195,8 +185,6 @@
     "Domain_2/2.2/Concepts/Thin client.md",
     "Domain_2/2.2/Concepts/Cloud/Edge computing.md",
     "Domain_2/2.2/Concepts/Cloud/Fog computing.md",
-    "Domain_2/2.2/Concepts/Fog computing.md",
-    "Domain_2/2.2/On-premises vs Off-premises.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.2",
