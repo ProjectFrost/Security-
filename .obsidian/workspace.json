@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "edeba33cd1f80ffc",
+        "id": "b1161caf4d9e3283",
         "type": "tabs",
         "children": [
           {
-            "id": "ad48857bc24d02b5",
+            "id": "47b55408556ee252",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c90c2c01209ad01a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f890f8199dba93e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.3/Concepts/Integrity measurement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad48857bc24d02b5",
+  "active": "c90c2c01209ad01a",
   "lastOpenFiles": [
     "Domain_2/2.3/Apps development,deployment and automation.md",
-    "Domain_2/2.3/Secure coding techniques.md",
     "Domain_2/2.3/Concepts/Integrity measurement.md",
+    "Domain_2/2.3/Secure coding techniques.md",
     "Domain_2/2.3/Concepts/Provisioning and deprovisioning.md",
     "Domain_2/2.3/Environments.md",
     "Domain_2/2.3/Concepts/Development.md",
