@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "032cb3883c420f18",
+        "id": "edeba33cd1f80ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "ead6a86e73f2db44",
+            "id": "ad48857bc24d02b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead6a86e73f2db44",
+  "active": "ad48857bc24d02b5",
   "lastOpenFiles": [
     "Domain_2/2.2/Virtualization and cloud computing.md",
     "Domain_2/2.2/Virtualization.md",
