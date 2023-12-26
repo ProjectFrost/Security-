@@ -34,19 +34,19 @@
             }
           },
           {
-            "id": "ac1c3a15dc8cc108",
+            "id": "26d973eb9e344baa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.3/Concepts/Normalization.md",
+                "file": "Domain_2/2.3/Concepts/Obfuscation - Camouflage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.3/Concepts/Normalization.md",
+                "file": "Domain_2/2.3/Secure coding techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.3/Concepts/Normalization.md",
+                "file": "Domain_2/2.3/Secure coding techniques.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.3/Concepts/Normalization.md"
+                "file": "Domain_2/2.3/Secure coding techniques.md"
               }
             }
           },
@@ -182,9 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac1c3a15dc8cc108",
+  "active": "c90c2c01209ad01a",
   "lastOpenFiles": [
+    "Domain_2/2.3/Concepts/Obfuscation - Camouflage.md",
     "Domain_2/2.3/Secure coding techniques.md",
+    "Domain_2/2.3/Concepts/Stored procedures.md",
     "Domain_2/2.3/Concepts/Normalization.md",
     "Domain_2/2.3/Apps development,deployment and automation.md",
     "Domain_2/2.3/Concepts/Integrity measurement.md",
@@ -210,8 +212,6 @@
     "Domain_2/2.2/Concepts/SDV.md",
     "Domain_2/2.2/Concepts/SDN.md",
     "Domain_2/2.2/Microservices - API.md",
-    "Domain_2/2.2/Concepts/API.md",
-    "Domain_2/2.2/Concepts/Microservices.md",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
     "Domain_2/2.2",
