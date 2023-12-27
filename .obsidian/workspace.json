@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b1161caf4d9e3283",
+        "id": "38176a96186f9607",
         "type": "tabs",
         "children": [
           {
-            "id": "fbfe94f7915b317d",
+            "id": "994918491a7263ba",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.4/Technologies.md",
+                "file": "Domain_2/2.4/Biometrics.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "211bacd533f0a2c2",
+            "id": "0b30647353124f6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Push notifications.md",
+                "file": "Domain_2/2.4/Concepts/Fingerprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Push notifications.md",
+                "file": "Domain_2/2.4/Concepts/Fingerprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Push notifications.md",
+                "file": "Domain_2/2.4/Concepts/Fingerprint.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Push notifications.md"
+                "file": "Domain_2/2.4/Concepts/Fingerprint.md"
               }
             }
           },
@@ -170,9 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "211bacd533f0a2c2",
+  "active": "0b30647353124f6a",
   "lastOpenFiles": [
+    "Domain_2/2.4/Biometrics.md",
+    "Domain_2/2.4/Concepts/Fingerprint.md",
+    "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.4/Technologies.md",
+    "Domain_2/2.4/Concepts/Phone call.md",
     "Domain_2/2.4/Concepts/Push notifications.md",
     "Domain_2/2.4/Concepts/Authentication Apps.md",
     "Domain_2/2.4/Concepts/Static codes.md",
@@ -185,7 +189,6 @@
     "Domain_2/2.4/Concepts/Attestation.md",
     "Domain_2/2.4/Concepts/Federation.md",
     "Domain_2/2.4/Concepts/Directory services.md",
-    "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.3/Apps development,deployment and automation.md",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
@@ -197,9 +200,6 @@
     "Domain_2/2.3/Concepts/Continous deployment.md",
     "Domain_2/2.3/Concepts/Continous integration.md",
     "Domain_2/2.3/Concepts/Continous delivery.md",
-    "Domain_2/2.2/IaC.md",
-    "Domain_2/2.2/Virtualization and cloud computing.md",
-    "Domain_2/2.3/Concepts/Continous validation.md",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
     "Domain_2/2.2/Concepts/Cloud",
