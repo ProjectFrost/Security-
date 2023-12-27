@@ -1,6 +1,5 @@
-Something you **know** (pin or password)
-Something you **have** (trusted device)
-Something you **are** (biometric)
+# [[Factors]]
+# [[Attritbutes]]
 
 PREVENTS
 - [[Phishing]]
