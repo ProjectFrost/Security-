@@ -1,0 +1,3 @@
+An example of this would be if you were trying to enter a corporate building. You will likely be asked to sign an entry log and provide a photo ID, but that alone wouldn’t be sufficient. Just because you provide those things doesn’t mean a security guard will let you in.
+
+However, if a trusted employee came down to the lobby and vouched for you by saying you had a scheduled meeting, then the security guards would likely let you in because of _someone you know_.
