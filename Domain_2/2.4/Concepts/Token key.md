@@ -12,7 +12,7 @@ Token keys play a crucial role in authentication technology:
 4. **Hardware Tokens and Smart Cards:**
     
     - Token keys can be stored on hardware devices or [[Smart card|smart cards]], providing a physical form of authentication that is less susceptible to certain types of attacks.
-5. **Mobile Authenticator Apps:**
+5. **Mobile Authenticator [[Authentication Apps|Apps]]:**
     
     - Many token keys are implemented through mobile apps, offering convenient and portable 2FA solutions.
 6. **Public and Private Key Pairs:**
@@ -27,6 +27,6 @@ Token keys play a crucial role in authentication technology:
 9. **Authentication Protocols:**
     
     - Token-based authentication often follows standardized protocols like OAuth, ensuring interoperability and security in various systems.
-10. **Identity Federation:**
+10. **Identity [[Federation]]:**
     
     - Token-based authentication facilitates identity federation, allowing users to access multiple systems with a single set of credentials.
