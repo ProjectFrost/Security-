@@ -20,6 +20,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d3cf1e22135bbb7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.4/Concepts/Static codes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "385deff8ceb20898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.4/Concepts/Token key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -159,8 +183,12 @@
   },
   "active": "fbfe94f7915b317d",
   "lastOpenFiles": [
-    "Domain_2/2.4/Concepts/TOTP.md",
+    "Domain_2/2.4/Concepts/Static codes.md",
     "Domain_2/2.4/Technologies.md",
+    "Domain_2/2.4/Concepts/Token key.md",
+    "Domain_2/2.4/Concepts/SMS.md",
+    "Domain_2/2.4/Concepts/HOTP.md",
+    "Domain_2/2.4/Concepts/TOTP.md",
     "Domain_2/2.4/Authentication methods.md",
     "Domain_2/2.4/Concepts/Smart card.md",
     "Domain_2/2.4/Concepts/Attestation.md",
@@ -183,10 +211,6 @@
     "Domain_2/2.3/Concepts/Continous validation.md",
     "Domain_2/2.3/Concepts/Continous monitoring.md",
     "Domain_2/2.3/Software diversity.md",
-    "Domain_2/2.3/Concepts/Binaries.md",
-    "Domain_2/2.3/Concepts/Compilers.md",
-    "Domain_2/2.3/Secure coding techniques.md",
-    "Domain_2/2.3/Concepts/OWASP.md",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
     "Domain_2/2.2/Concepts/Cloud",
