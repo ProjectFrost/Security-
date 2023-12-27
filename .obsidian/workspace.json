@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e38020094aeb2fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/Strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/Strategy.md",
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/Strategy.md",
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/Strategy.md"
+                "file": "Domain_2/2.3/Apps development,deployment and automation.md"
               }
             }
           },
@@ -170,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e38020094aeb2fff",
+  "active": "47b55408556ee252",
   "lastOpenFiles": [
+    "Domain_2/Strategy.md",
     "Domain_2/2.3/Apps development,deployment and automation.md",
     "Domain_2/2.3/Concepts/Version control.md",
     "Domain_2/2.3/Concepts/Scalability.md",
@@ -197,7 +185,6 @@
     "Domain_2/2.3/Concepts/Obfuscation - Camouflage.md",
     "Domain_2/2.3/Concepts/Code reuse - Dead code.md",
     "Domain_2/2.3/Concepts/Stored procedures.md",
-    "Domain_2/2.3/Concepts/Normalization.md",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
     "Domain_2/2.2/Concepts/Cloud",
