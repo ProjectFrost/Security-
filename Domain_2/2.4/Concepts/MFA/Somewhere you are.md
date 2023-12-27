@@ -1,0 +1,1 @@
+It involves verifying a user's identity based on their physical location, often using GPS or IP geolocation technology

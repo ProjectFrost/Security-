@@ -1,5 +1,5 @@
 # [[Factors]]
-# [[Attritbutes]]
+# [[Attributes]]
 
 PREVENTS
 - [[Phishing]]

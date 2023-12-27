@@ -1,0 +1,1 @@
+Something the user knows, such as a password, PIN, or security questions.

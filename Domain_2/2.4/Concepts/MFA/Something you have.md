@@ -1,0 +1,1 @@
+Something the user has, such as a smartphone, security token, or smart card

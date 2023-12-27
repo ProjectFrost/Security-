@@ -1,0 +1,1 @@
+Something the user is, referring to biometric characteristics like fingerprints, facial recognition, or iris scans.
