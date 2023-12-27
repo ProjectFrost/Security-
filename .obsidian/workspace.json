@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0b30647353124f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.4/Concepts/Fingerprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Fingerprint.md",
+                "file": "Domain_2/2.4/Biometrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Fingerprint.md",
+                "file": "Domain_2/2.4/Biometrics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Fingerprint.md"
+                "file": "Domain_2/2.4/Biometrics.md"
               }
             }
           },
@@ -170,9 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b30647353124f6a",
+  "active": "994918491a7263ba",
   "lastOpenFiles": [
+    "Domain_2/2.4/Concepts/Vein.md",
     "Domain_2/2.4/Biometrics.md",
+    "Domain_2/2.4/Concepts/Voice.md",
+    "Domain_2/2.4/Concepts/Facial.md",
+    "Domain_2/2.4/Concepts/Iris.md",
+    "Domain_2/2.4/Concepts/Retina.md",
     "Domain_2/2.4/Concepts/Fingerprint.md",
     "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.4/Technologies.md",
@@ -195,11 +187,6 @@
     "Domain_2/Strategy.md",
     "Domain_2/2.3/Concepts/Version control.md",
     "Domain_2/2.3/Concepts/Scalability.md",
-    "Domain_2/2.3/Concepts/Elasticity.md",
-    "Domain_2/2.3/Automation-scripting.md",
-    "Domain_2/2.3/Concepts/Continous deployment.md",
-    "Domain_2/2.3/Concepts/Continous integration.md",
-    "Domain_2/2.3/Concepts/Continous delivery.md",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
     "Domain_2/2.2/Concepts/Cloud",
