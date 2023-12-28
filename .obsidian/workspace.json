@@ -11,8 +11,12 @@
             "id": "a76cf962a5488ab8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Domain_2/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Domain_2/Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Domain_2/Strategy.md"
+              }
             }
           },
           {
@@ -149,6 +157,9 @@
   },
   "active": "a76cf962a5488ab8",
   "lastOpenFiles": [
+    "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/Concepts",
+    "Domain_2/2.5",
     "Domain_2/2.8/Cryptographic concepts.md",
     "Domain_2/2.8/Limitations.md",
     "Domain_2/2.8/Concepts/Resource vs security constraints.md",
@@ -174,7 +185,6 @@
     "Domain_2/2.8/Steganography.md",
     "Domain_2/2.8/Concepts/Image.md",
     "Domain_2/2.8/Concepts/Video.md",
-    "Domain_2/2.8/Concepts/Audio.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",
@@ -182,8 +192,6 @@
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Concepts/MFA",
-    "Domain_2/2.4/Concepts",
-    "Domain_2/2.4",
-    "Domain_2/2.3/Concepts"
+    "Domain_2/2.4/Concepts"
   ]
 }
