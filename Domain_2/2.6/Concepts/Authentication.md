@@ -1,0 +1,1 @@
+Embedded systems have unique authentication constraints due to limited resources. Constraints include efficient algorithms, minimized data storage, and streamlined processes while ensuring security.

@@ -1,0 +1,1 @@
+In embedded systems, constraints like limited resources and proprietary software can lead to the inability to patch promptly, exposing vulnerabilities to security risks.

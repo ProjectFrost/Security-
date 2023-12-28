@@ -1,0 +1,1 @@
+Embedded and specialized systems face crypto constraints due to limited processing power, memory, and energy, restricting the use of resource-intensive cryptographic algorithms for security implementations.
