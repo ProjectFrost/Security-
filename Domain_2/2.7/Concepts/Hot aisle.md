@@ -1,0 +1,1 @@
+Hot aisles improve data center efficiency by segregating and expelling hot air, preventing equipment overheating and enhancing overall cooling effectiveness for physical security and reliability.

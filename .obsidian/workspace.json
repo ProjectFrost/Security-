@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "4d85d730bb009047",
+            "id": "11eaa7349bf9ddfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.7/Physical security controls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69ea5452b8636c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.7/Secure areas.md",
+                "file": "Domain_2/2.7/Secure data destruction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.7/Secure areas.md",
+                "file": "Domain_2/2.7/Secure data destruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.7/Secure areas.md",
+                "file": "Domain_2/2.7/Secure data destruction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.7/Secure areas.md"
+                "file": "Domain_2/2.7/Secure data destruction.md"
               }
             }
           },
@@ -180,10 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69ea5452b8636c60",
+  "active": "11eaa7349bf9ddfd",
   "lastOpenFiles": [
     "Domain_2/2.7/Physical security controls.md",
+    "Domain_2/2.7/Secure data destruction.md",
     "Domain_2/2.7/Secure areas.md",
+    "Domain_2/2.7/Concepts/Cold aisle.md",
+    "Domain_2/2.7/Concepts/Hot aisle.md",
+    "Domain_2/2.7/Concepts/Safe.md",
+    "Domain_2/2.7/Concepts/Vault.md",
     "Domain_2/2.7/Concepts/Protected cable distribution.md",
     "Domain_2/2.7/Concepts/Screened subnet.md",
     "Domain_2/2.7/Concepts/Air gap.md",
@@ -203,11 +196,6 @@
     "Domain_2/2.7/Concepts/Lighting.md",
     "Domain_2/2.7/Concepts/USB data blocker.md",
     "Domain_2/2.7/Locks.md",
-    "Domain_2/2.7/Concepts/Cable locks.md",
-    "Domain_2/2.7/Concepts/Physical.md",
-    "Domain_2/2.7/Concepts/Electronic.md",
-    "Domain_2/2.4/Biometrics.md",
-    "Domain_2/2.7/Concepts/Biometric locks.md",
     "Domain_2/2.7/Concepts",
     "Domain_2/2.7",
     "Domain_2/2.6/Concepts",
