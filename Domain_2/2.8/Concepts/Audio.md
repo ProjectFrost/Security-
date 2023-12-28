@@ -1,0 +1,1 @@
+Audio steganography conceals data within audio files. Basics include embedding information in the audio spectrum, imperceptibility to the human ear, and potential security applications like covert communication.

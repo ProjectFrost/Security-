@@ -1,0 +1,4 @@
+- Concealing information within video files.
+- Embedding data imperceptibly using various techniques.
+- Maintaining covert communication, often for security or privacy purposes.
+- Requires encryption and robust algorithms for secure implementation.
