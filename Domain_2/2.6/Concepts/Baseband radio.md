@@ -1,0 +1,3 @@
+Baseband radio refers to communication using digital signals without modulation. It transmits data over a single channel, common in wired and short-range wireless applications like Ethernet.
+
+Baseband radio in embedded systems requires efficient modulation schemes, frequency planning, and interference mitigation for reliable communication, crucial in specialized applications such as IoT and industrial automation.

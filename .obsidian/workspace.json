@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "e5960455dfc2709e",
+            "id": "9b574db04a4c433b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/Communications considerations.md",
+                "file": "Domain_2/2.6/Constraints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "073cac181ec6dda4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.6/Concepts/Power.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.6/Communications considerations.md",
+                "file": "Domain_2/2.6/Concepts/Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.6/Communications considerations.md",
+                "file": "Domain_2/2.6/Concepts/Power.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.6/Communications considerations.md"
+                "file": "Domain_2/2.6/Concepts/Power.md"
               }
             }
           },
@@ -168,12 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5960455dfc2709e",
+  "active": "073cac181ec6dda4",
   "lastOpenFiles": [
-    "Domain_2/2.6/Concepts/Narrow-band.md",
-    "Domain_2/2.6/Communications considerations.md",
-    "Domain_2/2.6/Concepts/5G.md",
+    "Domain_2/2.6/Constraints.md",
+    "Domain_2/2.6/Concepts/Power.md",
     "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.6/Communications considerations.md",
+    "Domain_2/2.6/Concepts/Zigbee.md",
+    "Domain_2/2.6/Concepts/SIM cards.md",
+    "Domain_2/2.6/Concepts/Baseband radio.md",
+    "Domain_2/2.6/Concepts/Narrow-band.md",
+    "Domain_2/2.6/Concepts/5G.md",
     "Domain_2/2.6/Concepts/SoC.md",
     "Domain_2/2.6/Concepts/Survelliance systems.md",
     "Domain_2/2.6/Concepts/RTOS.md",
@@ -191,11 +208,6 @@
     "Domain_2/2.6/Concepts/Facility automation.md",
     "Domain_2/2.6/Concepts/Wearables.md",
     "Domain_2/2.6/Concepts/Smart devices.md",
-    "Domain_2/2.6/Concepts/Sensors.md",
-    "Domain_2/2.6/SCADA-ICS.md",
-    "Domain_2/2.6/Concepts/Logistics.md",
-    "Domain_2/2.6/Concepts/Energy.md",
-    "Domain_2/2.6/Concepts/Manufacturing.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Concepts/MFA",
