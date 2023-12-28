@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "92440b6a4edf9531",
+            "id": "70975840c33f9f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/SCADA-ICS.md",
+                "file": "Domain_2/2.6/IOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.6/SCADA-ICS.md",
+                "file": "Domain_2/2.6/IOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.6/SCADA-ICS.md",
+                "file": "Domain_2/2.6/IOT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.6/SCADA-ICS.md"
+                "file": "Domain_2/2.6/IOT.md"
               }
             }
           },
@@ -168,10 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92440b6a4edf9531",
+  "active": "70975840c33f9f0d",
   "lastOpenFiles": [
     "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.6/IOT.md",
     "Domain_2/2.6/SCADA-ICS.md",
+    "Domain_2/2.6/Concepts/Logistics.md",
+    "Domain_2/2.6/Concepts/Energy.md",
+    "Domain_2/2.6/Concepts/Manufacturing.md",
+    "Domain_2/2.6/Concepts/Industrial.md",
+    "Domain_2/2.6/Concepts/Facilities.md",
     "Domain_2/2.6/Embedded systems.md",
     "Domain_2/2.6/Concepts/Arduino.md",
     "Domain_2/2.6/Concepts/FPGA.md",
@@ -192,13 +198,7 @@
     "Domain_2/2.4/Concepts/MFA/Factors.md",
     "Domain_2/2.4/Concepts/MFA/Something you are.md",
     "Domain_2/2.4/Concepts/MFA/Something you have.md",
-    "Domain_2/2.4/Concepts/MFA/Something you know.md",
     "Domain_2/2.4/Concepts/MFA",
-    "Domain_2/2.4/Biometrics.md",
-    "Domain_2/2.4/Concepts/CER.md",
-    "Domain_2/2.4/Concepts/FRR.md",
-    "Domain_2/2.4/Concepts/FAR.md",
-    "Domain_2/2.4/Concepts/Efficacy rates.md",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
     "Domain_2/2.3/Concepts",

@@ -8,3 +8,8 @@ Type: [[Final Note Template]]
 
 SCADA (Supervisory Control and Data Acquisition) / ICS (Industrial Control Systems) are technologies controlling and monitoring critical infrastructure, such as power grids and manufacturing processes.
 
+# [[Facilities]]
+# [[Industrial]]
+# [[Manufacturing]]
+# [[Energy]]
+# [[Logistics]]

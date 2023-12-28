@@ -1,0 +1,1 @@
+SCADA systems in facilities pose security risks, with potential for unauthorized access, data manipulation, and disruption, requiring robust measures to prevent cyber-attacks and ensure operational integrity.

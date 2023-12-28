@@ -1,0 +1,1 @@
+SCADA in energy faces security risks, including cyberattacks that can disrupt critical infrastructure, cause service outages, and compromise sensitive data, posing significant operational and safety concerns.

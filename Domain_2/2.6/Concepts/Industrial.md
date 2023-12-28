@@ -1,0 +1,1 @@
+SCADA in industrial enterprises poses cybersecurity risks, as attacks can disrupt critical infrastructure, compromise safety, and cause operational harm, demanding robust protective measures

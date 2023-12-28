@@ -1,0 +1,1 @@
+SCADA systems in manufacturing pose security risks, as breaches can disrupt operations, compromise production, and lead to physical harm or sabotage, emphasizing robust cybersecurity measures.

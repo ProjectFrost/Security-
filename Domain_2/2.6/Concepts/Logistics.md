@@ -1,0 +1,1 @@
+SCADA systems in logistics face security risks, such as unauthorized access and control, potentially disrupting critical operations, leading to logistical failures, and compromising supply chain integrity.
