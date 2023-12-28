@@ -1,0 +1,1 @@
+Perfect Forward Secrecy (PFS) ensures that a compromised key does not compromise past or future communication, enhancing security by generating unique session keys for each transaction.
