@@ -1,0 +1,1 @@
+Technology diversity **different technologies** in service delivery (OS, apps, appliances). 

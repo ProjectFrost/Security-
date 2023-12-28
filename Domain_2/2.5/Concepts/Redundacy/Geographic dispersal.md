@@ -1,0 +1,3 @@
+It means the distribution of mission-critical components or infrastructures, such as servers, across multiple data centers that reside in different geographic locations. Geo-redundancy acts as a safety net in case your primary site fails or in the event of a disaster or an outage that impacts an entire region.
+
+Should a workload fail due to hardware, networking, power or some other issues, it can failover to one of the alternate locations with minimal impact to the service. That way, business can continue to function as normal (ultimately leading to improved end-user experience).

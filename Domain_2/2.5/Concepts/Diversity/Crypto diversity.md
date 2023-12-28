@@ -1,0 +1,1 @@
+Crypto diversity is when a company uses **multiple algorithms** to protect their data. 

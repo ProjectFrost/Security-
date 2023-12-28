@@ -1,0 +1,1 @@
+Vendor diversity involves getting a service from **multiple (different) providers** at the same time

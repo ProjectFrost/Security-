@@ -1,0 +1,1 @@
+A full backup is a comprehensive and complete copy of all data in a system or a specific set of files and folders. It captures the entire dataset at a specific point in time, providing a baseline for data restoration. While full backups ensure a thorough recovery, they can consume more storage space and take longer to perform than incremental or differential backups.
