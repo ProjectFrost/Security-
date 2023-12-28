@@ -1,0 +1,1 @@
+Signage communicates security policies and guidelines, guiding behavior and deterring potential threats, enhancing physical security by promoting awareness and adherence to safety measures.

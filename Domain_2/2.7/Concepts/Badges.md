@@ -1,0 +1,1 @@
+Badges provide visual identification, control access, and enhance physical security. They help identify authorized personnel, restrict entry, and mitigate unauthorized access in secure environments.

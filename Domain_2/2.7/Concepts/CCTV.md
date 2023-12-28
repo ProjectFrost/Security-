@@ -1,0 +1,1 @@
+CCTV enhances physical security by providing real-time monitoring and recording of activities, deterring threats, aiding investigations, and promoting a safer environment.

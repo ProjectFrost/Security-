@@ -1,0 +1,1 @@
+Alarms serve as a critical physical security control by promptly detecting and alerting to unauthorized access, helping prevent security breaches and minimize potential threats to assets and personnel.

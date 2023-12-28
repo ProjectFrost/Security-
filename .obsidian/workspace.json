@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "fbb61fd4e4703556",
+            "id": "91719bb6cb2d9846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Access control vestibules.md",
+                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Access control vestibules.md",
+                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Access control vestibules.md",
+                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Access control vestibules.md"
+                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md"
               }
             }
           },
@@ -180,9 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb61fd4e4703556",
+  "active": "91719bb6cb2d9846",
   "lastOpenFiles": [
     "Domain_2/2.7/Physical security controls.md",
+    "Domain_2/2.7/Concepts/Industrial camouflage.md",
+    "Domain_2/2.7/Concepts/CCTV.md",
+    "Domain_2/2.7/Cameras.md",
+    "Domain_2/2.7/Concepts/Object detection.md",
+    "Domain_2/2.7/Concepts/Motion recognition.md",
+    "Domain_2/2.7/Concepts/Signage.md",
+    "Domain_2/2.7/Concepts/Alarms.md",
+    "Domain_2/2.7/Concepts/Badges.md",
     "Domain_2/2.7/Concepts/Access control vestibules.md",
     "Domain_2/2.7/Concepts/Bollards-barricades.md",
     "Domain_2/2.6/Embedded and specialized systems.md",
@@ -202,14 +210,6 @@
     "Domain_2/2.6/Concepts/Zigbee.md",
     "Domain_2/2.6/Concepts/SIM cards.md",
     "Domain_2/2.6/Concepts/Baseband radio.md",
-    "Domain_2/2.6/Concepts/Narrow-band.md",
-    "Domain_2/2.6/Concepts/5G.md",
-    "Domain_2/2.6/Concepts/SoC.md",
-    "Domain_2/2.6/Concepts/Survelliance systems.md",
-    "Domain_2/2.6/Concepts/RTOS.md",
-    "Domain_2/2.6/Concepts/MFP.md",
-    "Domain_1/1.8/Concepts/Drones.md",
-    "Domain_2/2.6/Concepts/HVAC.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Concepts/MFA",

@@ -1,0 +1,1 @@
+Object detection cameras enhance physical security by identifying and alerting on unauthorized items or activities, preventing security breaches and improving overall situational awareness.
