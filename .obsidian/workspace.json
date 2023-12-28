@@ -37,26 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Disk redundacy.md",
+                "file": "Domain_2/2.5/Redundacy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d654ee938501ed4a",
+            "id": "f5ceb5f004f97bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/RAID.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/Network redundacy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b5159400299d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/RAID.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/RAID.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/RAID.md"
+                "file": "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md"
               }
             }
           },
@@ -192,13 +204,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d654ee938501ed4a",
+  "active": "4309cc7b66a6a9c2",
   "lastOpenFiles": [
-    "Domain_2/2.5/Concepts/Redundacy/Disk redundacy.md",
-    "Domain_2/2.5/Concepts/Redundacy/RAID.md",
+    "Domain_2/2.5/Concepts/Redundacy/Network redundacy.md",
+    "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
     "Domain_2/2.5/Redundacy.md",
-    "Domain_2/2.5/Concepts/Redundacy",
     "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/Concepts/Redundacy/Disk redundacy.md",
+    "Domain_2/2.5/Concepts/Redundacy/Multipathing.md",
+    "Domain_2/2.5/Concepts/Redundacy/RAID.md",
+    "Domain_2/2.5/Concepts/Redundacy",
     "Domain_2/2.8/Concepts/Redundacy.md",
     "Domain_2/Strategy.md",
     "Domain_2/2.5/Concepts",
@@ -220,9 +235,6 @@
     "Domain_2/2.8/Concepts/Supporting authentication.md",
     "Domain_2/2.8/Concepts/Supporting obfuscation.md",
     "Domain_2/2.8/Concepts/Supporting integrity.md",
-    "Domain_2/2.8/Concepts/Supporting confidentiality.md",
-    "Domain_2/2.8/High resiliency.md",
-    "Domain_2/2.8/Concepts/Low latency.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",

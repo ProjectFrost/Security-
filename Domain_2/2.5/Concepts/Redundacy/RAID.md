@@ -11,4 +11,4 @@ Stripping with parity. Minimun 3 disks
 #### Raid 6
 Stripping with double parity. Minimun 4 disks
 #### Raid 10
-Combining mirroring and stripping. RAID 1 + 0 
+Combining mirroring and stripping. RAID 1 + 0 . Minimun 4 disks

@@ -1,0 +1,1 @@
+Dual network cards paired together
