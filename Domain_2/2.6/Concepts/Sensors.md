@@ -2,4 +2,4 @@ Sensors are devices that detect and measure physical phenomena such as temperatu
 
 IoT sensors pose security risks, as they may be vulnerable to data interception, unauthorized access, and exploitation, potentially compromising user privacy and system integrity.
 
-# [[Sensors as a security ]]
+# [[Sensors as a security control]]

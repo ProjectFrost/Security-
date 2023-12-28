@@ -1,0 +1,1 @@
+Noise detection sensors enhance physical security by alerting to unusual sounds, helping identify potential threats, and providing early warning for prompt response and risk mitigation.

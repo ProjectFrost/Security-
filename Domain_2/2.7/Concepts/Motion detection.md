@@ -1,0 +1,1 @@
+Motion detection sensors enhance physical security by triggering alerts or alarms in response to movement, providing early warning and enabling rapid response to potential security threats.

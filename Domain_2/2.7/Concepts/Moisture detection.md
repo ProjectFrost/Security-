@@ -1,0 +1,1 @@
+Moisture detection sensors protect against environmental threats by promptly identifying and alerting to water leaks, preventing potential damage to equipment and infrastructure in physical security.
