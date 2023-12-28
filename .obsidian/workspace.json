@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbb61fd4e4703556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.7/Concepts/Access control vestibules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.7/Physical security controls.md",
+                "file": "Domain_2/2.7/Concepts/Access control vestibules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.7/Physical security controls.md",
+                "file": "Domain_2/2.7/Concepts/Access control vestibules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.7/Physical security controls.md"
+                "file": "Domain_2/2.7/Concepts/Access control vestibules.md"
               }
             }
           },
@@ -168,10 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d85d730bb009047",
+  "active": "fbb61fd4e4703556",
   "lastOpenFiles": [
-    "Domain_2/2.6/Embedded and specialized systems.md",
     "Domain_2/2.7/Physical security controls.md",
+    "Domain_2/2.7/Concepts/Access control vestibules.md",
+    "Domain_2/2.7/Concepts/Bollards-barricades.md",
+    "Domain_2/2.6/Embedded and specialized systems.md",
     "Domain_2/2.7/Concepts",
     "Domain_2/2.7",
     "Domain_2/2.6/Constraints.md",
@@ -196,8 +210,6 @@
     "Domain_2/2.6/Concepts/MFP.md",
     "Domain_1/1.8/Concepts/Drones.md",
     "Domain_2/2.6/Concepts/HVAC.md",
-    "Domain_2/2.6/Concepts/VoIP.md",
-    "Domain_2/2.6/Specialized.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Concepts/MFA",

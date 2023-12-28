@@ -1,0 +1,1 @@
+Access control vestibules enhance physical security by creating a secure, controlled entry point, preventing unauthorized access and providing a buffer zone for identity verification and screening.
