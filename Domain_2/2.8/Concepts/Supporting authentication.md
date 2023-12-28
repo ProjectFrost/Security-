@@ -1,0 +1,1 @@
+Cryptography in authentication ensures secure communication. Common use cases include password hashing, digital signatures, and public-key infrastructure, safeguarding user identity and data integrity.

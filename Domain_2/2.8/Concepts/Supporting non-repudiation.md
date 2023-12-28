@@ -1,0 +1,1 @@
+Cryptography supports non-repudiation in various use cases through techniques like digital signatures, ensuring irrefutable proof of origin, integrity, and authenticity in electronic communications and transactions.

@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "7cb2c74f8f27eda5",
+            "id": "e90b0faa4601066e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.8/Common use cases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd643078621a4ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.8/Supporting obfuscation.md",
+                "file": "Domain_2/2.8/Limitations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.8/Supporting obfuscation.md",
+                "file": "Domain_2/2.8/Limitations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.8/Supporting obfuscation.md",
+                "file": "Domain_2/2.8/Limitations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.8/Supporting obfuscation.md"
+                "file": "Domain_2/2.8/Limitations.md"
               }
             }
           },
@@ -180,16 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd643078621a4ad9",
+  "active": "e90b0faa4601066e",
   "lastOpenFiles": [
-    "Domain_2/2.8/Common use cases.md",
-    "Domain_2/2.8/Supporting obfuscation.md",
-    "Domain_2/2.8/Supporting integrity.md",
-    "Domain_2/2.8/Supporting confidentiality.md",
-    "Domain_2/2.8/High resiliency.md",
-    "Domain_2/2.8/Low latency.md",
-    "Domain_2/2.8/Low power devices.md",
+    "Domain_2/2.8/Concepts/Size.md",
+    "Domain_2/2.8/Limitations.md",
+    "Domain_2/2.8/Concepts/Speed.md",
     "Domain_2/2.8/Cryptographic concepts.md",
+    "Domain_2/2.8/Common use cases.md",
+    "Domain_2/2.8/Concepts/Supporting non-repudiation.md",
+    "Domain_2/2.8/Concepts/Supporting authentication.md",
+    "Domain_2/2.8/Concepts/Supporting obfuscation.md",
+    "Domain_2/2.8/Concepts/Supporting integrity.md",
+    "Domain_2/2.8/Concepts/Supporting confidentiality.md",
+    "Domain_2/2.8/High resiliency.md",
+    "Domain_2/2.8/Concepts/Low latency.md",
+    "Domain_2/2.8/Concepts/Low power devices.md",
     "Domain_2/2.8/Concepts/Homomorphic encryption.md",
     "Domain_2/2.8/Steganography.md",
     "Domain_2/2.8/Concepts/Image.md",
@@ -203,11 +196,6 @@
     "Domain_2/2.8/Blockchain.md",
     "Domain_2/2.8/Modes of operation.md",
     "Domain_2/2.8/Concepts/Counter.md",
-    "Domain_2/2.8/Concepts/Unauthenticated.md",
-    "Domain_2/2.8/Concepts/Authenticated.md",
-    "Domain_2/2.8/Concepts/Ephemeral.md",
-    "Domain_2/2.8/Quantum.md",
-    "Domain_2/2.8/Concepts/Post-quantum.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",

@@ -1,0 +1,1 @@
+In cryptography, the limitation of size refers to constraints on key sizes and data lengths, impacting security. Smaller keys or limited lengths may compromise encryption strength and increase vulnerability.

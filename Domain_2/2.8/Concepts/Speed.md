@@ -1,0 +1,1 @@
+The limitation of speed in cryptography is influenced by algorithm complexity, key length, and processing power, impacting encryption and decryption speed, potentially affecting system performance.
