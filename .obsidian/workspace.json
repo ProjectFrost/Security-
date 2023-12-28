@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "91719bb6cb2d9846",
+            "id": "5667715c280c3c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md",
+                "file": "Domain_2/2.7/Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md",
+                "file": "Domain_2/2.7/Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md",
+                "file": "Domain_2/2.7/Locks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.7/Concepts/Industrial camouflage.md"
+                "file": "Domain_2/2.7/Locks.md"
               }
             }
           },
@@ -180,9 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91719bb6cb2d9846",
+  "active": "4309cc7b66a6a9c2",
   "lastOpenFiles": [
     "Domain_2/2.7/Physical security controls.md",
+    "Domain_2/2.7/Locks.md",
+    "Domain_2/2.7/Personnel.md",
+    "Domain_2/2.7/Concepts/Two-person control.md",
+    "Domain_2/2.7/Concepts/Reception.md",
+    "Domain_2/2.7/Concepts/Robot sentries.md",
+    "Domain_2/2.7/Concepts/Guards.md",
     "Domain_2/2.7/Concepts/Industrial camouflage.md",
     "Domain_2/2.7/Concepts/CCTV.md",
     "Domain_2/2.7/Cameras.md",
@@ -204,12 +210,6 @@
     "Domain_2/2.6/Concepts/Inability to patch.md",
     "Domain_2/2.6/Concepts/Crypto.md",
     "Domain_2/2.6/Concepts/Network.md",
-    "Domain_2/2.6/Concepts/Compute.md",
-    "Domain_2/2.6/Concepts/Power.md",
-    "Domain_2/2.6/Communications considerations.md",
-    "Domain_2/2.6/Concepts/Zigbee.md",
-    "Domain_2/2.6/Concepts/SIM cards.md",
-    "Domain_2/2.6/Concepts/Baseband radio.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Concepts/MFA",

@@ -1,0 +1,1 @@
+Guards provide a visible deterrent, immediate response, and human intelligence, enhancing physical security by protecting assets, deterring threats, and maintaining a secure environment.

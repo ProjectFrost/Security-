@@ -1,0 +1,1 @@
+Robot sentries enhance physical security with autonomous patrols, surveillance, and threat detection, reducing human risk and providing real-time monitoring in critical areas.

@@ -1,0 +1,1 @@
+Reception serves as a vital physical security control, controlling access to a facility, verifying identities, and creating an initial line of defense against unauthorized entry and potential threats.
