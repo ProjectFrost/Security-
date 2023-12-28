@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "aabf9821624a0609",
+            "id": "c5e72eef3dc360cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/NAS backups.md",
+                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/NAS backups.md",
+                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/NAS backups.md",
+                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/NAS backups.md"
+                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md"
               }
             }
           },
@@ -180,9 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aabf9821624a0609",
+  "active": "c5e72eef3dc360cc",
   "lastOpenFiles": [
     "Domain_2/2.5/Backups.md",
+    "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
+    "Domain_2/2.5/Concepts/Backups/SAN backups.md",
     "Domain_2/2.5/Concepts/Backups/NAS backups.md",
     "Domain_2/2.5/Concepts/Backups/Copy backups.md",
     "Domain_2/2.5/Concepts/Backups/Disk backups.md",
@@ -208,8 +210,6 @@
     "Domain_2/2.5/Concepts/Redundacy/Network redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Load balancers.md",
     "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
-    "Domain_2/2.5/Concepts/Redundacy/Disk redundacy.md",
-    "Domain_2/2.5/Concepts/Redundacy/Multipathing.md",
     "Domain_2/2.5/Concepts/Redundacy",
     "Domain_2/2.5/Concepts",
     "Domain_2/2.5",
