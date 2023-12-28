@@ -9,3 +9,9 @@ Type: [[Final Note Template]]
 
 Secure data destruction prevents unauthorized access to sensitive information, ensuring confidentiality and protecting against data breaches during equipment disposal, minimizing security risks.
 
+# [[Burning]]
+# [[Shredding]]
+# [[Pulping]]
+# [[Pulverizing]]
+# [[Degaussing]]
+# [[Third-party solutions]]

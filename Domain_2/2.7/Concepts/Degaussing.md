@@ -1,0 +1,1 @@
+Degaussing erases magnetic data, enhancing physical security by rendering sensitive information unrecoverable, protecting against unauthorized access and data breaches.

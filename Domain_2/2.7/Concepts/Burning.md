@@ -1,0 +1,1 @@
+Burning secure data ensures irretrievable destruction, a critical physical security control, preventing unauthorized access or recovery and safeguarding sensitive information from compromise.

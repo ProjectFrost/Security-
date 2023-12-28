@@ -1,0 +1,1 @@
+Pulping secure data physically destroys documents, mitigating the risk of unauthorized access or data breaches, a crucial measure for information protection and compliance with security protocols.

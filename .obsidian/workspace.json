@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5d7c0d3937f63dc4",
+        "id": "024ecb836d2ac3d0",
         "type": "tabs",
         "children": [
           {
-            "id": "49425e6d4ce9b08c",
+            "id": "e81c2e4b39097db0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.7/Physical security controls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11eaa7349bf9ddfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.7/Secure data destruction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.7/Secure data destruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.7/Secure data destruction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Domain_2/2.7/Secure data destruction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11eaa7349bf9ddfd",
+  "active": "e81c2e4b39097db0",
   "lastOpenFiles": [
     "Domain_2/2.7/Physical security controls.md",
     "Domain_2/2.7/Secure data destruction.md",
+    "Domain_2/2.7/Concepts/Third-party solutions.md",
+    "Domain_2/2.7/Concepts/Degaussing.md",
+    "Domain_2/2.7/Concepts/Pulverizing.md",
+    "Domain_2/2.7/Concepts/Pulping.md",
+    "Domain_2/2.7/Concepts/Shredding.md",
+    "Domain_2/2.7/Concepts/Burning.md",
+    "Domain_2/2.7/Burning.md",
     "Domain_2/2.7/Secure areas.md",
     "Domain_2/2.7/Concepts/Cold aisle.md",
     "Domain_2/2.7/Concepts/Hot aisle.md",
@@ -189,13 +175,6 @@
     "Domain_2/2.7/Concepts/Cards.md",
     "Domain_2/2.7/Concepts/Moisture detection.md",
     "Domain_2/2.7/Concepts/Proximity reader.md",
-    "Domain_2/2.7/Concepts/Noise detection.md",
-    "Domain_2/2.7/Concepts/Motion detection.md",
-    "Domain_2/2.7/Concepts/Fire supression.md",
-    "Domain_2/2.7/Concepts/Fencing.md",
-    "Domain_2/2.7/Concepts/Lighting.md",
-    "Domain_2/2.7/Concepts/USB data blocker.md",
-    "Domain_2/2.7/Locks.md",
     "Domain_2/2.7/Concepts",
     "Domain_2/2.7",
     "Domain_2/2.6/Concepts",
