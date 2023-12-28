@@ -11,8 +11,12 @@
             "id": "e81c2e4b39097db0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.8/Cryptographic concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Domain_2/2.8/Cryptographic concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Domain_2/2.8/Cryptographic concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Domain_2/2.8/Cryptographic concepts.md"
+              }
             }
           },
           {
@@ -149,6 +157,9 @@
   },
   "active": "e81c2e4b39097db0",
   "lastOpenFiles": [
+    "Domain_2/2.8/Cryptographic concepts.md",
+    "Domain_2/2.8/Concepts",
+    "Domain_2/2.8",
     "Domain_2/2.7/Physical security controls.md",
     "Domain_2/2.7/Secure data destruction.md",
     "Domain_2/2.7/Concepts/Third-party solutions.md",
@@ -174,7 +185,6 @@
     "Domain_2/2.7/Concepts/Temperature.md",
     "Domain_2/2.7/Concepts/Cards.md",
     "Domain_2/2.7/Concepts/Moisture detection.md",
-    "Domain_2/2.7/Concepts/Proximity reader.md",
     "Domain_2/2.7/Concepts",
     "Domain_2/2.7",
     "Domain_2/2.6/Concepts",
@@ -182,8 +192,6 @@
     "Domain_2/2.4/Concepts/MFA",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
-    "Domain_2/2.3/Concepts",
-    "Domain_2/2.3",
-    "Domain_2/2.2/Concepts/Cloud"
+    "Domain_2/2.3/Concepts"
   ]
 }
