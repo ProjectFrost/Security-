@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/Strategy.md",
+                "file": "Domain_2/2.5/Cybersecurity resilience.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/Strategy.md"
+                "file": "Domain_2/2.8/Concepts/Redundacy.md"
               }
             }
           },
@@ -155,9 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76cf962a5488ab8",
+  "active": "4309cc7b66a6a9c2",
   "lastOpenFiles": [
     "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.8/Concepts/Redundacy.md",
+    "Domain_2/Strategy.md",
     "Domain_2/2.5/Concepts",
     "Domain_2/2.5",
     "Domain_2/2.8/Cryptographic concepts.md",
@@ -183,8 +183,6 @@
     "Domain_2/2.8/Concepts/Low power devices.md",
     "Domain_2/2.8/Concepts/Homomorphic encryption.md",
     "Domain_2/2.8/Steganography.md",
-    "Domain_2/2.8/Concepts/Image.md",
-    "Domain_2/2.8/Concepts/Video.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",
