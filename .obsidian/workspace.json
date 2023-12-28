@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c97fce36a2d25007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md"
+                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md"
               }
             }
           },
@@ -192,10 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aae7a832f100107",
+  "active": "c97fce36a2d25007",
   "lastOpenFiles": [
-    "Domain_2/2.5/Redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
+    "Domain_2/2.5/Concepts/Redundacy/Generator.md",
+    "Domain_2/2.5/Concepts/Redundacy/UPS.md",
+    "Domain_2/2.5/Redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Network redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Load balancers.md",
     "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
@@ -221,8 +235,6 @@
     "Domain_2/2.8/Concepts/Size.md",
     "Domain_2/2.8/Concepts/Speed.md",
     "Domain_2/2.8/Common use cases.md",
-    "Domain_2/2.8/Concepts/Supporting non-repudiation.md",
-    "Domain_2/2.8/Concepts/Supporting authentication.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",
