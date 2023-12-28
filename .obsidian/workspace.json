@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "afe952e4360592db",
+            "id": "790c2685342e4155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Replication.md",
+                "file": "Domain_2/2.5/On premises vs cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a68954aab24ca6d",
+            "id": "867ac30e0793d573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Replication/VM replication.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Replication/VM replication.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Replication/VM replication.md",
+                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Replication/VM replication.md"
+                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a68954aab24ca6d",
+  "active": "867ac30e0793d573",
   "lastOpenFiles": [
+    "Domain_2/2.5/On premises vs cloud.md",
+    "Domain_2/2.5/Cybersecurity resilience.md",
     "Domain_2/2.5/Replication.md",
     "Domain_2/2.5/Concepts/Replication/VM replication.md",
     "Domain_2/2.5/Concepts/Replication/Storage.md",
@@ -189,7 +191,6 @@
     "Domain_2/2.5/Concepts/Replication/HBAs.md",
     "Domain_2/2.5/Concepts/Replication/SAN.md",
     "Domain_2/2.5/Concepts/Replication",
-    "Domain_2/2.5/Cybersecurity resilience.md",
     "Domain_2/2.5/Redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
     "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
@@ -211,7 +212,6 @@
     "Domain_2/2.8/Limitations.md",
     "Domain_2/2.8/Concepts/Resource vs security constraints.md",
     "Domain_2/2.8/Concepts/Computational overheads.md",
-    "Domain_2/2.8/Concepts/Entropy.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",

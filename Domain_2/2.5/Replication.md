@@ -6,6 +6,6 @@ Tagged Concepts:
 Type: [[Final Note Template]]
 - - - 
 
-
+Method wherein data is copied from one location to another
 # [[Storage]]
 # [[VM replication]]
