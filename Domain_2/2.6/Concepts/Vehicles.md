@@ -1,0 +1,1 @@
+Specialized vehicular systems face security risks, including remote hacking and data breaches. Safeguarding against unauthorized access is critical for safety, privacy, and operational integrity.

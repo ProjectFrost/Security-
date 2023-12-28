@@ -1,0 +1,1 @@
+Specialized aircraft systems pose security risks due to potential vulnerabilities, cyberattacks, and unauthorized access, jeopardizing flight safety, navigation, and critical onboard operations.
