@@ -1,0 +1,1 @@
+Key exchange involves securely sharing cryptographic keys between parties for secure communication. Basics include protocols like Diffie-Hellman, ensuring confidentiality and data integrity during key transmission.

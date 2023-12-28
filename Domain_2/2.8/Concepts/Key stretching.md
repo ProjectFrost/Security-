@@ -1,0 +1,1 @@
+Key stretching involves applying cryptographic algorithms to enhance the strength of passwords or cryptographic keys, typically using iterations and [[Salts]], making brute-force attacks more challenging.
