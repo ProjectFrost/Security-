@@ -1,0 +1,1 @@
+Lighting deters intruders, enhances surveillance, and creates a safer environment. It improves visibility, aiding in the detection and prevention of security incidents in physical spaces.

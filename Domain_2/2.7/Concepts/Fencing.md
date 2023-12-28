@@ -1,0 +1,1 @@
+Fencing is crucial for physical security, acting as a deterrent and barrier to unauthorized access, enhancing perimeter control, and protecting assets from external threats.

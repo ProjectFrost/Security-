@@ -1,0 +1,1 @@
+Physical locks provide a foundational layer of security, restricting unauthorized access to physical spaces, assets, and equipment, complementing overall physical security measures.

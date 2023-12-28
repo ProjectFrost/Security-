@@ -18,3 +18,5 @@ Type: [[Final Note Template]]
 # [[FAR]]
 # [[FRR]]
 # [[CER]]
+
+# [[Biometric locks]]

@@ -1,0 +1,1 @@
+Biometric locks enhance physical security by providing unique, difficult-to-replicate access credentials, minimizing the risk of unauthorized entry and ensuring stronger protection for sensitive areas or assets.

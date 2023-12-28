@@ -9,4 +9,7 @@ Type: [[Final Note Template]]
 
 Locks are a fundamental physical security control, providing a deterrent and barrier against unauthorized access, safeguarding assets, premises, and sensitive information within an organization.
 
-# [[]]
+# [[Biometrics]]
+# [[Electronic]]
+# [[Physical]]
+# [[Cable locks]]

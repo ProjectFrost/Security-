@@ -1,0 +1,1 @@
+USB data blockers prevent data breaches by blocking unwanted data transfer while charging devices, enhancing physical security and protecting against malicious USB attacks.

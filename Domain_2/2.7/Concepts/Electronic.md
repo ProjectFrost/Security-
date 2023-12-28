@@ -1,0 +1,1 @@
+Electronic locks enhance physical security by providing access control, audit trails, and remote management, reducing the risk of unauthorized entry and enhancing overall facility protection.

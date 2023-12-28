@@ -1,0 +1,1 @@
+Fire suppression is vital for safeguarding assets and personnel, swiftly containing and extinguishing fires to minimize damage, protect infrastructure, and ensure occupant safety.
