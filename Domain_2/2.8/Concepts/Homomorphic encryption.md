@@ -1,0 +1,1 @@
+Homomorphic encryption allows computations on encrypted data without decrypting it, preserving privacy. It supports secure data processing while maintaining confidentiality, essential for privacy-preserving applications.
