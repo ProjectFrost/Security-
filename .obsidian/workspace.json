@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "66c0671d0fef5fac",
+            "id": "560bfb9b59632100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Non-persistence.md",
+                "file": "Domain_2/2.5/High availability.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Non-persistence.md",
+                "file": "Domain_2/2.5/High availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Non-persistence.md",
+                "file": "Domain_2/2.5/High availability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Non-persistence.md"
+                "file": "Domain_2/2.5/High availability.md"
               }
             }
           },
@@ -168,10 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c0671d0fef5fac",
+  "active": "560bfb9b59632100",
   "lastOpenFiles": [
     "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/High availability.md",
     "Domain_2/2.5/Non-persistence.md",
+    "Domain_2/2.5/Concepts/Non-persistence/Live Boot Media.md",
+    "Domain_2/2.5/Concepts/Non-persistence/Last Known Good Configuration.md",
+    "Domain_2/2.5/Concepts/Non-persistence/Revert to Known State.md",
+    "Domain_2/2.5/Concepts/Non-persistence",
     "Domain_2/2.5/Backups.md",
     "Domain_2/2.5/Concepts/Backups/Online vs offline backups.md",
     "Domain_2/2.5/Concepts/Backups/Image backups.md",
@@ -194,17 +199,12 @@
     "Domain_2/2.5/Concepts/Replication",
     "Domain_2/2.5/Redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
-    "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
-    "Domain_2/2.5/Concepts/Redundacy/Dual Supply.md",
-    "Domain_2/2.5/Concepts/Redundacy/Generator.md",
-    "Domain_2/2.5/Concepts/Redundacy/UPS.md",
     "Domain_2/2.5/Concepts/Redundacy",
     "Domain_2/2.5/Concepts",
     "Domain_2/2.5",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",
-    "Domain_2/2.7",
-    "Domain_2/2.6/Concepts"
+    "Domain_2/2.7"
   ]
 }

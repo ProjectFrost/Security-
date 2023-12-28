@@ -1,0 +1,1 @@
+A copy of the operating system is saved to a USB flash drive or DVD. Enables booting from the removable media. 
