@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fcadb7641894200",
+        "id": "df5218df37529967",
         "type": "tabs",
         "children": [
           {
-            "id": "a76cf962a5488ab8",
+            "id": "99613e63848b83c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "790c2685342e4155",
+            "id": "81401e77901af7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/On premises vs cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "867ac30e0793d573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
+                "file": "Domain_2/2.5/Backups.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
+                "file": "Domain_2/2.5/Backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
+                "file": "Domain_2/2.5/Backups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.2/Concepts/Cloud/Hybrid.md"
+                "file": "Domain_2/2.5/Backups.md"
               }
             }
           },
@@ -180,10 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "867ac30e0793d573",
+  "active": "81401e77901af7b8",
   "lastOpenFiles": [
-    "Domain_2/2.5/On premises vs cloud.md",
+    "Domain_2/2.5/Concepts/Backups",
     "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/Backups.md",
+    "Domain_2/2.5/On premises vs cloud.md",
+    "Domain_2/2.2/Concepts/Cloud/Public.md",
+    "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
     "Domain_2/2.5/Replication.md",
     "Domain_2/2.5/Concepts/Replication/VM replication.md",
     "Domain_2/2.5/Concepts/Replication/Storage.md",
@@ -208,10 +200,6 @@
     "Domain_2/Strategy.md",
     "Domain_2/2.5/Concepts",
     "Domain_2/2.5",
-    "Domain_2/2.8/Cryptographic concepts.md",
-    "Domain_2/2.8/Limitations.md",
-    "Domain_2/2.8/Concepts/Resource vs security constraints.md",
-    "Domain_2/2.8/Concepts/Computational overheads.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",
