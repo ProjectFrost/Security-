@@ -1,0 +1,1 @@
+Visitor logs enhance physical security by documenting individuals entering a premises, aiding in monitoring, tracking, and investigating incidents, and ensuring accountability for access.

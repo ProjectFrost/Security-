@@ -1,0 +1,1 @@
+Card sensors provide access control by validating physical identity cards. They enhance security by restricting entry to authorized individuals, safeguarding physical spaces and sensitive information.

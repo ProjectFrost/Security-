@@ -1,0 +1,1 @@
+Air gaps physically isolate critical systems from external networks, reducing the risk of remote cyberattacks and unauthorized access, enhancing overall security for sensitive environments.

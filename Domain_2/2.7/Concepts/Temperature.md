@@ -1,0 +1,1 @@
+Temperature sensors aid in physical security by detecting abnormal heat levels, mitigating fire risks, and preventing equipment damage, ensuring a safe and secure environment.

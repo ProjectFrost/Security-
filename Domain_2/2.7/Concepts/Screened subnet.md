@@ -1,0 +1,1 @@
+Screened subnets enhance physical security by segregating network segments, controlling access points, and mitigating unauthorized access, reducing the risk of network breaches and unauthorized activities.
