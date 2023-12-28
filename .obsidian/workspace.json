@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "7ab3ed7d0933245e",
+            "id": "92440b6a4edf9531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/Embedded systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e0be822f400b70d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.6/Concepts/Raspberry Pi.md",
+                "file": "Domain_2/2.6/SCADA-ICS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.6/Concepts/Raspberry Pi.md",
+                "file": "Domain_2/2.6/SCADA-ICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.6/Concepts/Raspberry Pi.md",
+                "file": "Domain_2/2.6/SCADA-ICS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.6/Concepts/Raspberry Pi.md"
+                "file": "Domain_2/2.6/SCADA-ICS.md"
               }
             }
           },
@@ -180,11 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0be822f400b70d",
+  "active": "92440b6a4edf9531",
   "lastOpenFiles": [
-    "Domain_2/2.6/Embedded systems.md",
-    "Domain_2/2.6/Concepts/Raspberry Pi.md",
     "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.6/SCADA-ICS.md",
+    "Domain_2/2.6/Embedded systems.md",
+    "Domain_2/2.6/Concepts/Arduino.md",
+    "Domain_2/2.6/Concepts/FPGA.md",
+    "Domain_2/2.6/Concepts/Raspberry Pi.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Authentication and authorization.md",
@@ -208,9 +199,6 @@
     "Domain_2/2.4/Concepts/FRR.md",
     "Domain_2/2.4/Concepts/FAR.md",
     "Domain_2/2.4/Concepts/Efficacy rates.md",
-    "Domain_2/2.4/Concepts/Gait analysis.md",
-    "Domain_2/2.4/Concepts/Vein.md",
-    "Domain_2/2.4/Concepts/Voice.md",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
     "Domain_2/2.3/Concepts",

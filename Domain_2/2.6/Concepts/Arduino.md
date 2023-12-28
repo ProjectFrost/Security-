@@ -1,0 +1,3 @@
+Arduino is an open-source electronics platform. It consists of hardware (microcontrollers) and software, enabling users to create and program interactive electronic projects for various applications.
+
+Arduino's security depends on project implementation. Secure coding practices are crucial to prevent unauthorized access and protect against vulnerabilities in IoT applications developed with Arduino.
