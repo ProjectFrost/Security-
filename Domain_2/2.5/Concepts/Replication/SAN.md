@@ -1,0 +1,1 @@
+A hardware device that contains a large number of fast disks, such a **Solid State Drives (SSDs)**, usually isolated f

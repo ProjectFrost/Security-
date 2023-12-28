@@ -20,55 +20,43 @@
             }
           },
           {
-            "id": "34a1a6f3994c4300",
+            "id": "afe952e4360592db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Redundacy.md",
+                "file": "Domain_2/2.5/Replication.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b186a8a55959426",
+            "id": "04878447554de048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Redundacy.md",
+                "file": "Domain_2/2.5/Concepts/Replication/Storage.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3aae7a832f100107",
+            "id": "33f7c700d6998e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49dd4f908b00de50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
+                "file": "Domain_2/2.5/Concepts/Replication/SAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
+                "file": "Domain_2/2.5/Concepts/Replication/SAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
+                "file": "Domain_2/2.5/Concepts/Replication/SAN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md"
+                "file": "Domain_2/2.5/Concepts/Replication/SAN.md"
               }
             }
           },
@@ -204,18 +192,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49dd4f908b00de50",
+  "active": "33f7c700d6998e97",
   "lastOpenFiles": [
+    "Domain_2/2.5/Concepts/Replication/Storage.md",
+    "Domain_2/2.5/Concepts/Replication/SAN.md",
+    "Domain_2/2.5/Replication.md",
+    "Domain_2/2.5/Concepts/Replication",
+    "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/Redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
     "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
     "Domain_2/2.5/Concepts/Redundacy/Dual Supply.md",
     "Domain_2/2.5/Concepts/Redundacy/Generator.md",
     "Domain_2/2.5/Concepts/Redundacy/UPS.md",
-    "Domain_2/2.5/Redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Network redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Load balancers.md",
     "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
-    "Domain_2/2.5/Cybersecurity resilience.md",
     "Domain_2/2.5/Concepts/Redundacy/Disk redundacy.md",
     "Domain_2/2.5/Concepts/Redundacy/Multipathing.md",
     "Domain_2/2.5/Concepts/Redundacy/RAID.md",
@@ -232,15 +224,11 @@
     "Domain_2/2.8/Concepts/Reuse.md",
     "Domain_2/2.8/Concepts/Predictability.md",
     "Domain_2/2.8/Concepts/Longevity.md",
-    "Domain_2/2.8/Concepts/Time.md",
-    "Domain_2/2.8/Concepts/Weak keys.md",
-    "Domain_2/2.8/Concepts/Size.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",
     "Domain_2/2.7",
     "Domain_2/2.6/Concepts",
-    "Domain_2/2.6",
-    "Domain_2/2.4/Concepts/MFA"
+    "Domain_2/2.6"
   ]
 }
