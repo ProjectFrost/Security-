@@ -1,0 +1,1 @@
+In cryptography, entropy limitation refers to the challenge of generating truly random values. Limited entropy can weaken cryptographic keys, compromising security. Regular maintenance and proper entropy sources are essential.

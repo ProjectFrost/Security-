@@ -1,0 +1,1 @@
+Time limitation in cryptography involves ensuring the confidentiality and integrity of encrypted data for a defined period, often necessitating key updates and algorithm refreshes to counter evolving threats.

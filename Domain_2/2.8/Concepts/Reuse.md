@@ -1,0 +1,1 @@
+Limitation of reuse in cryptography prevents using the same cryptographic key or nonce across multiple instances, minimizing vulnerabilities and enhancing security by preventing predictability and attacks.

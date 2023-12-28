@@ -1,0 +1,1 @@
+Limitation of weak keys in cryptography involves avoiding easily predictable or duplicated encryption keys, enhancing security by preventing vulnerabilities and unauthorized access to sensitive information.
