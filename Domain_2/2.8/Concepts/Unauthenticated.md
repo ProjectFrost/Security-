@@ -1,0 +1,1 @@
+Unauthenticated mode in cryptography operates without verifying sender or message integrity. It lacks authentication, relying solely on encryption for confidentiality, potentially leaving vulnerabilities.

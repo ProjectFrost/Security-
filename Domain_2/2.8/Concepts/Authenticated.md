@@ -1,0 +1,1 @@
+Authenticated Mode of Operation ensures data integrity and origin authenticity. It uses cryptographic techniques to both encrypt and authenticate messages, preventing tampering and unauthorized access.

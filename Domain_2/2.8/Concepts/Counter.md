@@ -1,0 +1,1 @@
+Counter Mode (CTR) in cryptography is a block cipher mode that transforms a block cipher into a stream cipher. It uses a counter for encryption, ensuring confidentiality and parallelization.
