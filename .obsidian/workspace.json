@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e2e1364c902dbb13",
+            "id": "d2d90f4a3fabc5cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/Concepts/HVAC.md",
+                "file": "Domain_2/2.6/Concepts/SoC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.6/Concepts/HVAC.md",
+                "file": "Domain_2/2.6/Concepts/SoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.6/Concepts/HVAC.md",
+                "file": "Domain_2/2.6/Concepts/SoC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.6/Concepts/HVAC.md"
+                "file": "Domain_2/2.6/Concepts/SoC.md"
               }
             }
           },
@@ -168,9 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2e1364c902dbb13",
+  "active": "d2d90f4a3fabc5cd",
   "lastOpenFiles": [
     "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.6/Concepts/SoC.md",
+    "Domain_2/2.6/Concepts/Survelliance systems.md",
+    "Domain_2/2.6/Concepts/RTOS.md",
+    "Domain_2/2.6/Concepts/MFP.md",
+    "Domain_1/1.8/Concepts/Drones.md",
     "Domain_2/2.6/Concepts/HVAC.md",
     "Domain_2/2.6/Concepts/VoIP.md",
     "Domain_2/2.6/Specialized.md",
@@ -191,13 +196,8 @@
     "Domain_2/2.6/Concepts/Industrial.md",
     "Domain_2/2.6/Concepts/Facilities.md",
     "Domain_2/2.6/Embedded systems.md",
-    "Domain_2/2.6/Concepts/Arduino.md",
-    "Domain_2/2.6/Concepts/FPGA.md",
-    "Domain_2/2.6/Concepts/Raspberry Pi.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
-    "Domain_2/2.4/Authentication and authorization.md",
-    "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md",
     "Domain_2/2.4/Concepts/MFA",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
