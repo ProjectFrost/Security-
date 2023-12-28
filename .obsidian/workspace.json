@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/Embedded and specialized systems.md",
+                "file": "Domain_2/2.7/Physical security controls.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b574db04a4c433b",
+            "id": "4d85d730bb009047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/Constraints.md",
+                "file": "Domain_2/2.7/Physical security controls.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.6/Constraints.md",
+                "file": "Domain_2/2.7/Physical security controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.6/Constraints.md",
+                "file": "Domain_2/2.7/Physical security controls.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.6/Constraints.md"
+                "file": "Domain_2/2.7/Physical security controls.md"
               }
             }
           },
@@ -168,17 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b574db04a4c433b",
+  "active": "4d85d730bb009047",
   "lastOpenFiles": [
-    "Domain_2/2.6/Concepts/Range.md",
+    "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.7/Physical security controls.md",
+    "Domain_2/2.7/Concepts",
+    "Domain_2/2.7",
     "Domain_2/2.6/Constraints.md",
+    "Domain_2/2.6/Concepts/Implied trust.md",
+    "Domain_2/2.6/Concepts/Cost.md",
+    "Domain_2/2.6/Concepts/Range.md",
     "Domain_2/2.6/Concepts/Authentication.md",
     "Domain_2/2.6/Concepts/Inability to patch.md",
     "Domain_2/2.6/Concepts/Crypto.md",
     "Domain_2/2.6/Concepts/Network.md",
     "Domain_2/2.6/Concepts/Compute.md",
     "Domain_2/2.6/Concepts/Power.md",
-    "Domain_2/2.6/Embedded and specialized systems.md",
     "Domain_2/2.6/Communications considerations.md",
     "Domain_2/2.6/Concepts/Zigbee.md",
     "Domain_2/2.6/Concepts/SIM cards.md",
@@ -193,9 +198,6 @@
     "Domain_2/2.6/Concepts/HVAC.md",
     "Domain_2/2.6/Concepts/VoIP.md",
     "Domain_2/2.6/Specialized.md",
-    "Domain_2/2.6/Concepts/Smart meters.md",
-    "Domain_2/2.6/Concepts/Aircraft.md",
-    "Domain_2/2.6/Concepts/Vehicles.md",
     "Domain_2/2.6/Concepts",
     "Domain_2/2.6",
     "Domain_2/2.4/Concepts/MFA",
@@ -203,8 +205,6 @@
     "Domain_2/2.4",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
-    "Domain_2/2.2/Concepts/Cloud",
-    "Domain_2/2.2/Concepts",
-    "Domain_2/2.2"
+    "Domain_2/2.2/Concepts/Cloud"
   ]
 }
