@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d9614789a5986cbf",
+            "id": "42d5db41f200066e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Restoration order.md",
+                "file": "Domain_2/2.5/Diversity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Restoration order.md",
+                "file": "Domain_2/2.5/Diversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Restoration order.md",
+                "file": "Domain_2/2.5/Diversity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Restoration order.md"
+                "file": "Domain_2/2.5/Diversity.md"
               }
             }
           },
@@ -168,10 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9614789a5986cbf",
+  "active": "42d5db41f200066e",
   "lastOpenFiles": [
+    "Domain_2/2.5/Concepts/Diversity",
     "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/Diversity.md",
     "Domain_2/2.5/Restoration order.md",
+    "Domain_2/2.5/Concepts/Restoration order/RPO.md",
+    "Domain_2/2.5/Concepts/Restoration order/RTO.md",
+    "Domain_2/2.5/Concepts/Restoration order",
     "Domain_2/2.5/High availability.md",
     "Domain_2/2.5/Concepts/High availability/Disaster recovery.md",
     "Domain_2/2.5/Concepts/High availability/Fault tolerance.md",
@@ -195,16 +200,11 @@
     "Domain_2/2.5/On premises vs cloud.md",
     "Domain_2/2.2/Concepts/Cloud/Public.md",
     "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
-    "Domain_2/2.5/Replication.md",
-    "Domain_2/2.5/Concepts/Replication/VM replication.md",
-    "Domain_2/2.5/Concepts/Replication/Storage.md",
-    "Domain_2/2.5/Concepts/Replication/SAN Fabric.md",
     "Domain_2/2.5/Concepts/Replication",
     "Domain_2/2.5/Concepts/Redundacy",
     "Domain_2/2.5/Concepts",
     "Domain_2/2.5",
     "Domain_2/2.8/Concepts",
-    "Domain_2/2.8",
-    "Domain_2/2.7/Concepts"
+    "Domain_2/2.8"
   ]
 }
