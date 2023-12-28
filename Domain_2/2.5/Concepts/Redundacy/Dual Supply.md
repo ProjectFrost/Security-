@@ -1,0 +1,1 @@
+Most servers will have a dual power supply so that if one power supply fails, then the other power supply keeps the server running

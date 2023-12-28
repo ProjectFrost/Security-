@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "c97fce36a2d25007",
+            "id": "49dd4f908b00de50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md",
+                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Redundacy/Generator.md"
+                "file": "Domain_2/2.5/Concepts/Redundacy/PDUs.md"
               }
             }
           },
@@ -204,9 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c97fce36a2d25007",
+  "active": "49dd4f908b00de50",
   "lastOpenFiles": [
     "Domain_2/2.5/Concepts/Redundacy/Power redundancy.md",
+    "Domain_2/2.5/Concepts/Redundacy/PDUs.md",
+    "Domain_2/2.5/Concepts/Redundacy/Dual Supply.md",
     "Domain_2/2.5/Concepts/Redundacy/Generator.md",
     "Domain_2/2.5/Concepts/Redundacy/UPS.md",
     "Domain_2/2.5/Redundacy.md",
@@ -233,8 +235,6 @@
     "Domain_2/2.8/Concepts/Time.md",
     "Domain_2/2.8/Concepts/Weak keys.md",
     "Domain_2/2.8/Concepts/Size.md",
-    "Domain_2/2.8/Concepts/Speed.md",
-    "Domain_2/2.8/Common use cases.md",
     "Domain_2/2.8/Concepts",
     "Domain_2/2.8",
     "Domain_2/2.7/Concepts",

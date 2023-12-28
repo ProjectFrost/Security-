@@ -2,4 +2,6 @@
 
 When power from the grid fails, can be started to provide electricity for an **extended period of time**
 
-Used by hospitals, data centers, and other facilities
+Used by hospitals, data centers, and other facilities hosting critical services.
+
+**Provides sustained alternate power source to support continued operation**
