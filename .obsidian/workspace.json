@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "38176a96186f9607",
+        "id": "5d7c0d3937f63dc4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0b4f550f5537a9",
+            "id": "49425e6d4ce9b08c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.4/Authentication and authorization.md",
+                "file": "Domain_2/2.6/Embedded and specialized systems.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca3893101e0c98be",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.4/Authentication and authorization.md",
+                "file": "Domain_2/2.6/Embedded and specialized systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.4/Authentication and authorization.md",
+                "file": "Domain_2/2.6/Embedded and specialized systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.4/Authentication and authorization.md"
+                "file": "Domain_2/2.6/Embedded and specialized systems.md"
               }
             }
           },
@@ -166,12 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca3893101e0c98be",
+  "active": "49425e6d4ce9b08c",
   "lastOpenFiles": [
+    "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.6/Concepts",
+    "Domain_2/2.6",
+    "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md",
     "Domain_2/2.4/Concepts/On-premises requirements.md",
     "Domain_2/2.4/Concepts/Cloud requirements.md",
-    "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.4/Concepts/AAA.md",
     "Domain_1/1.2/Concepts/Multi-factor Authentication.md",
     "Domain_2/2.4/Concepts/MFA/Attributes.md",
@@ -194,15 +186,12 @@
     "Domain_2/2.4/Concepts/Voice.md",
     "Domain_2/2.4/Concepts/Facial.md",
     "Domain_2/2.4/Concepts/Iris.md",
-    "Domain_2/2.4/Concepts/Retina.md",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
     "Domain_2/2.3/Concepts",
     "Domain_2/2.3",
     "Domain_2/2.2/Concepts/Cloud",
     "Domain_2/2.2/Concepts",
-    "Domain_2/2.2",
-    "In transit",
-    "Domain_2/2.1/Concepts"
+    "Domain_2/2.2"
   ]
 }
