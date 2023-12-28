@@ -1,0 +1,1 @@
+Clone to OS to enable quick restore of the image to bare metal

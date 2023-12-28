@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "81401e77901af7b8",
+            "id": "66c0671d0fef5fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.5/Backups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5e72eef3dc360cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
+                "file": "Domain_2/2.5/Non-persistence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
+                "file": "Domain_2/2.5/Non-persistence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
+                "file": "Domain_2/2.5/Non-persistence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.5/Concepts/Backups/Cloud backups.md"
+                "file": "Domain_2/2.5/Non-persistence.md"
               }
             }
           },
@@ -180,9 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5e72eef3dc360cc",
+  "active": "66c0671d0fef5fac",
   "lastOpenFiles": [
+    "Domain_2/2.5/Cybersecurity resilience.md",
+    "Domain_2/2.5/Non-persistence.md",
     "Domain_2/2.5/Backups.md",
+    "Domain_2/2.5/Concepts/Backups/Online vs offline backups.md",
+    "Domain_2/2.5/Concepts/Backups/Image backups.md",
     "Domain_2/2.5/Concepts/Backups/Cloud backups.md",
     "Domain_2/2.5/Concepts/Backups/SAN backups.md",
     "Domain_2/2.5/Concepts/Backups/NAS backups.md",
@@ -190,7 +182,6 @@
     "Domain_2/2.5/Concepts/Backups/Disk backups.md",
     "Domain_2/2.5/Concepts/Backups/Tape backups.md",
     "Domain_2/2.5/Concepts/Backups",
-    "Domain_2/2.5/Cybersecurity resilience.md",
     "Domain_2/2.5/On premises vs cloud.md",
     "Domain_2/2.2/Concepts/Cloud/Public.md",
     "Domain_2/2.2/Concepts/Cloud/Hybrid.md",
@@ -207,9 +198,6 @@
     "Domain_2/2.5/Concepts/Redundacy/Dual Supply.md",
     "Domain_2/2.5/Concepts/Redundacy/Generator.md",
     "Domain_2/2.5/Concepts/Redundacy/UPS.md",
-    "Domain_2/2.5/Concepts/Redundacy/Network redundacy.md",
-    "Domain_2/2.5/Concepts/Redundacy/Load balancers.md",
-    "Domain_2/2.5/Concepts/Redundacy/NIC teaming.md",
     "Domain_2/2.5/Concepts/Redundacy",
     "Domain_2/2.5/Concepts",
     "Domain_2/2.5",
