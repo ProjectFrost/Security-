@@ -1,0 +1,1 @@
+Cryptography ensures data integrity through common use cases like hash functions for data verification, digital signatures for authentication, and HMACs for secure message authentication.

@@ -1,0 +1,1 @@
+Common cryptography use cases for low latency include securing real-time communication, financial transactions, and network traffic, ensuring data confidentiality, integrity, and authentication without significant processing delays.

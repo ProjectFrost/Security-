@@ -1,0 +1,1 @@
+Cryptography ensures confidentiality through common use cases such as symmetric and asymmetric encryption, secure key exchange, and digital signatures, safeguarding data from unauthorized access.

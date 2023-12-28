@@ -1,0 +1,1 @@
+Cryptography for high resiliency involves encryption, key management, and secure communication, ensuring data confidentiality, integrity, and availability in various use cases like secure communication, data storage, and digital signatures.

@@ -1,0 +1,1 @@
+Cryptography for low-power devices focuses on secure communication and authentication. Basics include [[Lightweight cryptography]], key management, and efficient cryptographic algorithms for resource-constrained environments.
