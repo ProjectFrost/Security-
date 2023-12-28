@@ -1,0 +1,1 @@
+Backup to a USB, removable hard drive, or disk on another server
