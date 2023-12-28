@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "70975840c33f9f0d",
+            "id": "37d60f6694e426a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_2/2.6/IOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3551aee724dac062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain_2/2.6/Concepts/Wearables.md",
+                "file": "Domain_2/2.6/Specialized.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.6/Concepts/Wearables.md",
+                "file": "Domain_2/2.6/Specialized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.6/Concepts/Wearables.md",
+                "file": "Domain_2/2.6/Specialized.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.6/Concepts/Wearables.md"
+                "file": "Domain_2/2.6/Specialized.md"
               }
             }
           },
@@ -180,13 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3551aee724dac062",
+  "active": "37d60f6694e426a4",
   "lastOpenFiles": [
+    "Domain_2/2.6/Embedded and specialized systems.md",
+    "Domain_2/2.6/Specialized.md",
     "Domain_2/2.6/IOT.md",
+    "Domain_2/2.6/Concepts/Weak defaults.md",
+    "Domain_2/2.6/Concepts/Facility automation.md",
     "Domain_2/2.6/Concepts/Wearables.md",
     "Domain_2/2.6/Concepts/Smart devices.md",
     "Domain_2/2.6/Concepts/Sensors.md",
-    "Domain_2/2.6/Embedded and specialized systems.md",
     "Domain_2/2.6/SCADA-ICS.md",
     "Domain_2/2.6/Concepts/Logistics.md",
     "Domain_2/2.6/Concepts/Energy.md",
@@ -207,9 +198,6 @@
     "Domain_1/1.2/Concepts/Multi-factor Authentication.md",
     "Domain_2/2.4/Concepts/MFA/Attributes.md",
     "Domain_2/2.4/Concepts/MFA/Someone you know.md",
-    "Domain_2/2.4/Concepts/MFA/Something you exhibit.md",
-    "Domain_2/2.4/Concepts/MFA/Something you can do.md",
-    "Domain_2/2.4/Concepts/MFA/Somewhere you are.md",
     "Domain_2/2.4/Concepts/MFA",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",

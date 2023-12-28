@@ -1,0 +1,1 @@
+Weak defaults in IoT create security risks, enabling unauthorized access. Strong default settings are crucial to prevent vulnerabilities and protect devices from exploitation.
