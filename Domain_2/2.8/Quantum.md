@@ -8,3 +8,5 @@ Type: [[Final Note Template]]
 
 
 Quantum cryptography leverages principles of quantum mechanics for secure communication. Key basics include quantum key distribution (QKD), quantum superposition, and entanglement for unbreakable encryption and key exchange.
+
+# [[Post-quantum]]

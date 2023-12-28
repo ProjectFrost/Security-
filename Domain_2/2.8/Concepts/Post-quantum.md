@@ -1,0 +1,1 @@
+Post-quantum cryptography addresses the threat of quantum computers to current encryption. Basics include developing algorithms resilient to quantum attacks for securing sensitive data in the future digital landscape.

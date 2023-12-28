@@ -1,0 +1,1 @@
+Quantum cryptography leverages quantum principles for secure communication. Basics include quantum key distribution (QKD) for unbreakable key exchange and quantum entanglement for secure information transmission.

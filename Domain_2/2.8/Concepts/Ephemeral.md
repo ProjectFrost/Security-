@@ -1,0 +1,1 @@
+Ephemeral cryptography involves short-lived cryptographic keys for secure communication. Keys are generated dynamically, enhancing security by reducing the window of vulnerability and minimizing potential compromise.
