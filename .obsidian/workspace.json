@@ -20,14 +20,12 @@
             }
           },
           {
-            "id": "3e985f609534d6bc",
+            "id": "ca3893101e0c98be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.3"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md",
+                "file": "Domain_2/2.4/Authentication and authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md",
+                "file": "Domain_2/2.4/Authentication and authorization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md"
+                "file": "Domain_2/2.4/Authentication and authorization.md"
               }
             }
           },
@@ -168,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4309cc7b66a6a9c2",
+  "active": "ca3893101e0c98be",
   "lastOpenFiles": [
-    "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.4/Concepts/Cloud vs on premises requirements.md",
+    "Domain_2/2.4/Concepts/On-premises requirements.md",
+    "Domain_2/2.4/Concepts/Cloud requirements.md",
+    "Domain_2/2.4/Authentication and authorization.md",
     "Domain_2/2.4/Concepts/AAA.md",
     "Domain_1/1.2/Concepts/Multi-factor Authentication.md",
     "Domain_2/2.4/Concepts/MFA/Attributes.md",
@@ -195,8 +195,6 @@
     "Domain_2/2.4/Concepts/Facial.md",
     "Domain_2/2.4/Concepts/Iris.md",
     "Domain_2/2.4/Concepts/Retina.md",
-    "Domain_2/2.4/Concepts/Fingerprint.md",
-    "Domain_2/2.4/Technologies.md",
     "Domain_2/2.4/Concepts",
     "Domain_2/2.4",
     "Domain_2/2.3/Concepts",
