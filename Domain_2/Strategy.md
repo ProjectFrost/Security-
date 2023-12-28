@@ -15,7 +15,7 @@ Type: [[Literature Notes]]
 # 2.4
 -  Summarize → Explain most important concepts
 ## 2.5
--
+- Implement = Choose the right option for the scenario proposed
 ## 2.6
 - Explain → Be able to explain in 25 words or less each concept
 # 2.7
