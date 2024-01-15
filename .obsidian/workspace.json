@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e63e829f70d95755",
+        "id": "4cdf2855b1334dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "ff358d198336b2fc",
+            "id": "a6d8368bb8e7ef9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Jan 15, 2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Jan 15, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Jan 15, 2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/Jan 15, 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff358d198336b2fc",
+  "active": "a6d8368bb8e7ef9b",
   "lastOpenFiles": [
-    "Daily Notes/Untitled.md",
     "Daily Notes/Jan 15, 2024.md",
+    "Daily Notes/Untitled.md",
     "Domain_2/2.5/Concepts/Backups/Untitled.md",
     "Domain_2/2.5/Backups.md",
     "Domain_2/2.5/Concepts/Backups/Offsite storage.md",
