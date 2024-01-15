@@ -11,8 +11,12 @@
             "id": "ff358d198336b2fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Jan 15, 2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/Jan 15, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/Jan 15, 2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/Jan 15, 2024.md"
+              }
             }
           },
           {
@@ -149,6 +157,8 @@
   },
   "active": "ff358d198336b2fc",
   "lastOpenFiles": [
+    "Daily Notes/Untitled.md",
+    "Daily Notes/Jan 15, 2024.md",
     "Domain_2/2.5/Concepts/Backups/Untitled.md",
     "Domain_2/2.5/Backups.md",
     "Domain_2/2.5/Concepts/Backups/Offsite storage.md",
@@ -175,9 +185,7 @@
     "Domain_2/2.5/Concepts/Restoration order/RTO.md",
     "Domain_2/2.5/Concepts/Restoration order",
     "Domain_2/2.5/Concepts/High availability/Disaster recovery.md",
-    "Domain_2/2.5/Concepts/High availability/Fault tolerance.md",
     "Domain_2/2.5/Concepts/High availability",
-    "Domain_2/2.3/Concepts/Scalability.md",
     "Domain_2/2.5/Concepts/Non-persistence",
     "Domain_2/2.5/Concepts/Backups",
     "Domain_2/2.5/Concepts/Replication",
