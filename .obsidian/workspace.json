@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jan 17, 2024.md",
+                "file": "Daily Notes/Jan 18, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Jan 17, 2024.md",
+                "file": "Daily Notes/Jan 18, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Jan 17, 2024.md",
+                "file": "Daily Notes/Jan 18, 2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Jan 17, 2024.md"
+                "file": "Daily Notes/Jan 18, 2024.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "a6d8368bb8e7ef9b",
   "lastOpenFiles": [
-    "Daily Notes/Jan 15, 2024.md",
     "Daily Notes/Jan 17, 2024.md",
+    "Daily Notes/Jan 18, 2024.md",
+    "Daily Notes/Jan 15, 2024.md",
     "Daily Notes/Untitled.md",
     "Domain_2/2.5/Concepts/Backups/Untitled.md",
     "Domain_2/2.5/Backups.md",
@@ -183,7 +184,6 @@
     "Domain_2/2.5/Concepts/Diversity/Vendor diversity.md",
     "Domain_2/2.5/Concepts/Diversity",
     "Domain_2/2.5/Concepts/Restoration order/RPO.md",
-    "Domain_2/2.5/Concepts/Restoration order/RTO.md",
     "Domain_2/2.5/Concepts/Restoration order",
     "Domain_2/2.5/Concepts/High availability",
     "Domain_2/2.5/Concepts/Non-persistence",
